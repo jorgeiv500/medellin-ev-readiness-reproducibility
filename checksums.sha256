@@ -201,4 +201,5 @@ ea98cf8cca3e75e317a55bb9ff0aa4e793d1e9d32ead44fcc780974625a0c584  ./scripts/17_m
 b4f7ea127a53081eeb07fc760078419c30f443d448f9a4442a6821ab8f291693  ./scripts/23_make_method_tables.py
 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b  ./scripts/__init__.py
 f4ad69228ed369448ee277e71ad5b81d7eba62e46054ea64a3986fae806521f6  ./scripts/aaca_utils.py
+d24079d985029517f869c78fb8e8077e1af316bf89e8e829d67c15c9df9dff6d  ./scripts/zenodo/create_deposit.py
 2f1f981f0a1d91cc45a2adf0e3097248a92783f35f5016914187ce7cfc9ebb47  ./tests/test_aaca_utils.py
