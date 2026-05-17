@@ -1,6 +1,7 @@
 {
   "title": "Medellin Electric-Mobility Transition Readiness: Reproducibility Package",
   "upload_type": "dataset",
+  "version": "1.0.2",
   "description": "Standalone reproducibility package for a public-data analysis of public EV charging readiness in Medellin and the Valle de Aburra, Colombia.",
   "creators": [
     {

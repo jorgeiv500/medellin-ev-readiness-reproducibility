@@ -27,7 +27,7 @@ from urllib.request import Request, urlopen
 
 ROOT = Path(__file__).resolve().parents[2]
 DIST = ROOT / "dist" / "zenodo"
-VERSION = "1.0.0"
+VERSION = "1.0.2"
 BASE_URL = "https://zenodo.org/api"
 SANDBOX_BASE_URL = "https://sandbox.zenodo.org/api"
 
@@ -157,7 +157,7 @@ def build_metadata() -> dict[str, Any]:
                 "scheme": "url",
             },
             {
-                "identifier": "https://github.com/jorgeiv500/medellin-ev-readiness-reproducibility/releases/tag/v1.0.0",
+                "identifier": "https://github.com/jorgeiv500/medellin-ev-readiness-reproducibility/releases/tag/v1.0.2",
                 "relation": "isVersionOf",
                 "scheme": "url",
             },

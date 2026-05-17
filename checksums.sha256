@@ -1,6 +1,6 @@
 88b0253f58d4f611aeb8e4d28bd11d60fac58918f57740b888b6efe1b453584f  ./.gitignore
-afb3ee8d22622215e5b58b734b5a48d9cb8bfc30efbe853fed72bc25632cf35e  ./.zenodo.json
-66735a67089ad9b268c3b48e12cbe3cc9f2e0f37bbe2fb32b2d0c7825a51b347  ./CITATION.cff
+969cf0622b65409ab2e31add1e873f97d0f257ea1e68f6b149aac42e7d4c9ab1  ./.zenodo.json
+b4b7d2ac732ea7340a628b38a5ab75c04ead782a94f6fe875950769712eff7dd  ./CITATION.cff
 cc6711e176157817ae4f35b443bc718059a55016f69c20faf1e5f7942a05eacb  ./DATA_SOURCES.md
 66996c1fcf970bce8140e4bf3f2005a700732ed0ab4acd6ed1ed4e05adf3ed1f  ./LICENSE
 e0ba316278b8bdca8dc931f637bc1760a57521dd5f77e0fa5c61b84dfc252e7c  ./MANIFEST.md
@@ -201,5 +201,5 @@ ea98cf8cca3e75e317a55bb9ff0aa4e793d1e9d32ead44fcc780974625a0c584  ./scripts/17_m
 b4f7ea127a53081eeb07fc760078419c30f443d448f9a4442a6821ab8f291693  ./scripts/23_make_method_tables.py
 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b  ./scripts/__init__.py
 f4ad69228ed369448ee277e71ad5b81d7eba62e46054ea64a3986fae806521f6  ./scripts/aaca_utils.py
-d24079d985029517f869c78fb8e8077e1af316bf89e8e829d67c15c9df9dff6d  ./scripts/zenodo/create_deposit.py
+6ddf0d66d41c359e341e21f2a2c9e0c40e0a35ecd39b8f8ef1df090132832507  ./scripts/zenodo/create_deposit.py
 2f1f981f0a1d91cc45a2adf0e3097248a92783f35f5016914187ce7cfc9ebb47  ./tests/test_aaca_utils.py
