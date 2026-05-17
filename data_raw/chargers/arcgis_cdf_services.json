@@ -1,0 +1,22 @@
+{
+ "currentVersion": 11.5,
+ "folders": [],
+ "services": [
+  {
+   "name": "CDF/desconexiones_programadas",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "CDF/historico_tarifas_acueducto_y_aguas_residuales",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "CDF/subsidios_contribuciones_servicios_publicos_domiciliarios",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "CDF/uso_estaciones_carga_publica_vehiculos_electricos",
+   "type": "FeatureServer"
+  }
+ ]
+}

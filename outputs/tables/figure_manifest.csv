@@ -1,0 +1,15 @@
+file,role,figure,status,description,charger_records_mapped,zone_records_mapped
+fig_cities01_current_city_condition.png,current-city-condition,fig_cities01_current_city_condition.png,generated,"Current urban-infrastructure condition: charging evidence, public electric-support substations, network-reachable access, topographic burden and transition pressure.",,
+fig_cities00_methodological_design.png,methodological-design,fig_cities00_methodological_design.png,generated,"Methodological city-field linking public evidence, baseline traps, candidate validation leads and after-expansion residual interpretation.",,
+fig_cities01_evidence_base_map.png,"Opening territorial context: metropolitan frame, roads, SITVA, centralities, and charger sources.",,,,70.0,485.0
+fig_cities02_charging_supply_sources.png,Observed charging evidence versus candidate opportunity on the same road-network base.,,,,70.0,485.0
+fig_cities03_topography_sitva_context.png,Topography and intermodal anchors as the Medellin-specific access mechanism.,,,,70.0,485.0
+fig_cities04_readiness_inequality_sequence.png,"Integrated readiness, vulnerability, disadvantage, scatter, and Lorenz sequence.",,,,70.0,485.0
+fig_cities05_epm_public_use_trend.png,Operational-use evidence showing charging as an active public urban service.,,,,70.0,485.0
+fig_cities06_safety_candidate_context.png,"Implementation screen linking candidates, safety exposure, roads, and existing supply.",,,,70.0,485.0
+fig_cities03_supply_use_opportunity.png,evidence-geography,fig_cities03_supply_use_opportunity.png,generated,"Single-map evidence geography linking baseline access, observed charging records, SITVA, and the after-expansion validation lead field.",,
+fig_cities01_feature_matrix.png,territorial-features,fig_cities01_feature_matrix.png,generated,"Single-map baseline readiness-trap geography with supply evidence, SITVA and centrality structure, and top-quartile trap outlines.",,
+fig_cities02_response_matrix.png,readiness-response,fig_cities02_response_matrix.png,generated,"Single-scale before-and-after response plot for inherited trap zones, with residual bottleneck labels.",,
+fig_cities03_evidence_robustness.png,evidence-robustness,fig_cities03_evidence_robustness.png,generated,"Operational EPM evidence, proposal response by disadvantage quartile and robustness diagnostics.",,
+fig_cities04_baseline_proposal_delta.png,proposal-delta,fig_cities04_baseline_proposal_delta.png,generated,Baseline-to-proposal delta maps comparing market-ready and equity-transition rule effects.,,
+fig_cities03_baseline_to_proposals.png,development-atlas,fig_cities03_baseline_to_proposals.png,generated,"Map sequence from inherited readiness baseline to residual persistence, contrasted validation leads, and rule-difference geography.",,

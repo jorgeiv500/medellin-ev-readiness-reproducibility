@@ -1,0 +1,216 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-05-14T16:41:23Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 3811577575,
+      "lat": 6.2479558,
+      "lon": -75.5981622,
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "EPM",
+        "name": "Punto de carga Primax Nutibara"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5188775821,
+      "lat": 6.2133021,
+      "lon": -75.5595502,
+      "tags": {
+        "amenity": "charging_station",
+        "operator": "Isagen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9902522850,
+      "lat": 6.2246036,
+      "lon": -75.5689967,
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Terpel",
+        "name": "Punto de carga Voltex El Encierro (Medellín)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9918156574,
+      "lat": 6.1391467,
+      "lon": -75.6324296,
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Terpel",
+        "name": "Punto de carga Voltex Ancón Sur"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10069022269,
+      "lat": 6.3024139,
+      "lon": -75.4571231,
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Terpel",
+        "name": "Punto de carga Voltex EDS Garota"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10697442797,
+      "lat": 6.2605317,
+      "lon": -75.5781242,
+      "tags": {
+        "amenity": "charging_station",
+        "capacity": "6",
+        "name": "Estacion de gasolina"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13009470546,
+      "lat": 6.3012044,
+      "lon": -75.5643331,
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Terpel",
+        "name": "Punto de carga Voltex Autopista Norte"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13009631797,
+      "lat": 6.1565754,
+      "lon": -75.612199,
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Celsia",
+        "name": "Punto de carga Localiza Sabaneta"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13009929876,
+      "lat": 6.1833561,
+      "lon": -75.5855188,
+      "tags": {
+        "amenity": "charging_station",
+        "name": "Punto de carga Chevrolet Ayurá Las Vegas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13009954348,
+      "lat": 6.1875891,
+      "lon": -75.5859989,
+      "tags": {
+        "amenity": "charging_station",
+        "name": "Punto de carga Chevrolet Autolarte Sur"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13009954415,
+      "lat": 6.2379526,
+      "lon": -75.575598,
+      "tags": {
+        "amenity": "charging_station",
+        "name": "Punto de carga Exposiciones EDS Colibrí"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13009955750,
+      "lat": 6.2631088,
+      "lon": -75.5667774,
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "EPM",
+        "name": "Punto de carga CDA Los Álamos"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13009960814,
+      "lat": 6.1794985,
+      "lon": -75.4421272,
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "EPM",
+        "name": "Punto de carga Texaco Combuscol Aeropuerto José María Córdova"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13009967299,
+      "lat": 6.2267124,
+      "lon": -75.5706348,
+      "tags": {
+        "amenity": "charging_station",
+        "name": "Punto de carga Chevrolet Andar - Megataller"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13009974014,
+      "lat": 6.1532823,
+      "lon": -75.6195099,
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "EPM",
+        "name": "Punto de carga EDS Santa María (Sabaneta)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13009981390,
+      "lat": 6.1790815,
+      "lon": -75.5884153,
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "EPM",
+        "name": "Punto de carga EDS Texaco Vegas (Envigado)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13009989241,
+      "lat": 6.214252,
+      "lon": -75.5810308,
+      "tags": {
+        "amenity": "charging_station",
+        "name": "Punto de carga Audi Colwagen (Medellín)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13009999858,
+      "lat": 6.2692386,
+      "lon": -75.5682439,
+      "tags": {
+        "amenity": "charging_station",
+        "name": "Punto de carga Universidad de Antioquia"
+      }
+    },
+    {
+      "type": "way",
+      "id": 770877089,
+      "center": {
+        "lat": 6.2740497,
+        "lon": -75.5926226
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "bicycle": "yes",
+        "motorcar": "no",
+        "scooter": "no",
+        "truck": "no"
+      }
+    }
+  ]
+}

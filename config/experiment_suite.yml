@@ -1,0 +1,106 @@
+project:
+  name: medellin_ev_readiness
+  study_area: Medellin and Valle de Aburra, Colombia
+  journal_target: Cities
+  article_type: VSI climate-NEWtral cities
+  purpose: Standalone reproducible workflow for the Medellin public EV charging readiness experiment.
+
+workflow_phases:
+  - phase: data_foundation
+    objective: Create the public-data foundation for the urban-region analysis.
+    scripts:
+      - scripts/00_check_environment.py
+      - scripts/00_download_raw_datasets.py
+      - scripts/14_download_mobility_pattern_enrichment.py
+      - scripts/01_prepare_boundaries.py
+      - scripts/02_download_osm_network.py
+    expected_outputs:
+      - data_raw/raw_dataset_manifest.csv
+      - data_processed/mapped_amva_zones.gpkg
+      - data_processed/road_network.graphml.xml
+      - data_processed/metro_afluencia_long.csv
+
+  - phase: charger_reconciliation
+    objective: Reconcile public charging evidence from official, open, and volunteered sources.
+    scripts:
+      - scripts/03_clean_chargers.py
+    expected_outputs:
+      - data_processed/mapped_charger_evidence.gpkg
+      - data_processed/epm_public_charging_use_validated.csv
+      - outputs/tables/epm_public_charging_use_quality_audit.csv
+
+  - phase: urban_readiness_baseline
+    objective: Build the diagnostic indicators used to define the baseline readiness trap.
+    scripts:
+      - scripts/04_build_activity_anchors.py
+      - scripts/05_transition_need.py
+      - scripts/06_compute_aaca.py
+      - scripts/07_equity_diagnostics.py
+    expected_outputs:
+      - data_processed/aaca_scores.gpkg
+      - data_processed/readiness_screen.gpkg
+      - data_processed/readiness_story_screen.gpkg
+      - outputs/tables/table_cities_indicator_traceability.csv
+      - outputs/tables/table_cities_access_extremes.csv
+
+  - phase: candidate_universe
+    objective: Screen public-data candidate locations for later field, utility, safety, and operator validation.
+    scripts:
+      - scripts/08_candidate_siting.py
+      - scripts/15_build_counterfactual_candidate_universe.py
+    expected_outputs:
+      - data_processed/candidate_validation_leads.gpkg
+      - data_processed/counterfactual_candidate_universe.gpkg
+      - outputs/tables/table_counterfactual_candidate_universe.csv
+
+  - phase: scenario_evaluation
+    objective: Compare rule-based expansion scenarios against the same baseline and evaluate residual geographies.
+    scripts:
+      - scripts/09_milp_scenarios.py
+      - scripts/10_robustness.py
+    expected_outputs:
+      - data_processed/counterfactual_selected_sites.gpkg
+      - data_processed/counterfactual_zone_outcomes.gpkg
+      - outputs/tables/table_counterfactual_scenarios.csv
+      - outputs/tables/table_cities_weight_sensitivity.csv
+      - outputs/tables/table_cities_robustness_summary.csv
+
+  - phase: publication_assets
+    objective: Build manuscript figures and tables from the processed data.
+    scripts:
+      - scripts/11_make_figures_tables.py
+      - scripts/16_make_counterfactual_figures.py
+      - scripts/17_make_cities_final_story_maps.py
+      - scripts/18_make_cities_evidence_stack.py
+      - scripts/19_make_cities_methodology_figure.py
+      - scripts/20_make_cities_current_city_figure.py
+      - scripts/21_make_cities_development_atlas.py
+      - scripts/22_make_cities_delta_figure.py
+      - scripts/23_make_method_tables.py
+    expected_outputs:
+      - outputs/figures/fig_cities00_methodological_design.png
+      - outputs/figures/fig_cities01_current_city_condition.png
+      - outputs/figures/fig_cities03_baseline_to_proposals.png
+      - outputs/figures/fig_cities04_baseline_proposal_delta.png
+      - outputs/tables/table_cities_policy_validation_protocol.tex
+
+methodological_components:
+  spatial_unit:
+    primary: OD/SIT zones from the Valle de Aburra mobility survey.
+    sensitivity: H3 grid where the required attributes are available.
+  access_component:
+    metric: Activity-Anchored Charging Accessibility.
+    role: Measures network-time access to public charging evidence adjusted by activity anchors.
+  transition_need:
+    role: Combines mobility pressure, home-charging constraint, vulnerability, and related urban-readiness indicators.
+  baseline:
+    role: Identifies inherited disadvantage before any new validation leads are selected.
+  scenario_rules:
+    role: Tests how different governance logics shift benefits and residual disadvantage.
+  residual_evaluation:
+    role: Compares after-expansion geography against the same baseline rather than declaring a single universal optimum.
+
+reproducibility_notes:
+  raw_data_policy: Raw public downloads are retained unchanged where licensing permits redistribution.
+  processed_data_policy: Processed layers are provided to reproduce figures, tables, and scenario comparisons.
+  code_policy: Scripts are ordered by phase and can be run individually or through scripts/12_run_experiment_suite.py.

@@ -1,0 +1,16 @@
+\begin{tabular}{lrrrp{0.42\textwidth}}
+\toprule
+Scenario & Access Gini & Disadv. Gini & Top-10 Jaccard & Reading \\
+\midrule
+base & 0.23 & 0.41 & 1.00 & Base network, source, activity, vulnerability and topography screen \\
+no activity anchors & 0.23 & 0.42 & 0.82 & Removes SITVA/centrality activity anchoring from access \\
+euclidean distance & 0.23 & 0.41 & 1.00 & Uses straight-line rather than OSM network impedance \\
+cargame epm only & 0.24 & 0.42 & 0.82 & Keeps stronger CargaME/EPM evidence and removes OSM supply \\
+short decay 8min & 0.29 & 0.41 & 1.00 & Shorter destination-charging reach threshold \\
+wide decay 16min & 0.20 & 0.42 & 0.82 & Wider destination-charging reach threshold \\
+topography penalized access & 0.24 & 0.41 & 0.82 & Penalizes access in higher-slope/elevation zones \\
+no vulnerability & 0.23 & 0.39 & 0.54 & Removes social vulnerability from transition pressure \\
+no home constraint & 0.23 & 0.51 & 0.67 & Removes residential parking constraint from transition pressure \\
+no topography & 0.23 & 0.43 & 0.67 & Removes slope/elevation from transition pressure \\
+\bottomrule
+\end{tabular}

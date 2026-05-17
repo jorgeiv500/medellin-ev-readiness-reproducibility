@@ -1,0 +1,112 @@
+project:
+  name: medellin_aaca
+  crs_projected: EPSG:3116
+  crs_geographic: EPSG:4326
+  study_area_name: Valle de Aburra, Colombia
+
+spatial_units:
+  preferred: od_zones
+  fallback: h3
+  h3_resolution: 8
+
+charger_cleaning:
+  duplicate_distance_m: 150
+  source_priority:
+    CargaME: 1
+    EPM: 2
+    UPME: 3
+    OpenChargeMap: 4
+    OSM: 5
+  reliability:
+    CargaME: 1.00
+    EPM: 1.00
+    UPME: 0.95
+    OpenChargeMap: 0.80
+    OSM: 0.65
+
+network:
+  network_type: drive
+  default_speed_kph: 28
+  speed_by_highway:
+    motorway: 40
+    trunk: 38
+    primary: 32
+    secondary: 28
+    tertiary: 24
+    residential: 20
+    unclassified: 20
+    service: 15
+
+activity_anchors:
+  buffers_m:
+    transit: 500
+    commerce: 400
+    universities: 600
+    hospitals: 600
+    culture: 500
+    bike_parking: 300
+    pot_activity: 600
+  weights:
+    transit: 0.30
+    commerce: 0.20
+    bike_parking: 0.15
+    civic_cultural: 0.15
+    pot_activity: 0.20
+
+transition_need:
+  weights:
+    ev_hybrid: 0.30
+    private_motorized_trips: 0.25
+    home_charging_constraint: 0.20
+    auto_trips: 0.15
+    vulnerability: 0.10
+  optional_medellin_extensions:
+    slope: true
+    residential_parking_constraint: true
+    propiedad_horizontal: true
+
+aaca:
+  decay_minutes: 12
+  anchor_base: 0.45
+  anchor_multiplier: 0.90
+
+desert_score:
+  vulnerability_base: 1.00
+  vulnerability_multiplier: 0.00
+  severe_need_quantile: 0.75
+  severe_access_quantile: 0.25
+
+candidates:
+  exclusion_existing_charger_m: 300
+  desert_catchment_minutes: 16
+  weights:
+    desert_catchment: 0.43
+    activity_anchor: 0.27
+    planning_compatibility: 0.20
+    curb_feasibility: 0.05
+  type_bonus:
+    fuel_station: 0.08
+    parking: 0.06
+    shopping_center: 0.05
+    public_facility: 0.04
+    transit_station: 0.03
+
+milp:
+  budgets: [10, 20, 40]
+  catchment_minutes: [12, 16, 20]
+  scenarios:
+    - demand_first
+    - equity_first
+    - activity_first
+    - implementation_first
+    - balanced
+
+robustness:
+  bootstrap_iterations: 1000
+  random_placebo_iterations: 1000
+  ablations:
+    - no_activity_anchors
+    - no_vulnerability
+    - no_home_constraint
+    - no_ev_signal
+    - no_planning_compatibility

@@ -1,0 +1,4520 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 298067,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57983219100367,
+          6.230514166337597
+        ]
+      },
+      "properties": {
+        "objectid": 298067,
+        "radicado": "1783476",
+        "fecha": 1647388800000,
+        "hora": "17:30:00",
+        "dia": "16",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 55 Con Calle 29 C",
+        "direccion_enc": "CR  055   029 C  000 00000",
+        "cbml": "1502",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Tenche",
+        "comuna": "Guayabal",
+        "diseno": "Interseccion",
+        "dia_nombre": "MIÉRCOLES",
+        "mes": "03",
+        "mes_nombre": "MARZO     ",
+        "longitud": -75.57983219,
+        "latitud": 6.23051417,
+        "x_origen_nacional": 4714633.0529,
+        "y_origen_nacional": 2247157.7643
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 298181,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57536646700775,
+          6.247685473739753
+        ]
+      },
+      "properties": {
+        "objectid": 298181,
+        "radicado": "1782278",
+        "fecha": 1646611200000,
+        "hora": "16:40:00",
+        "dia": "07",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 57 Con Calle 45",
+        "direccion_enc": "CR  057   045  000 00000",
+        "cbml": "1007",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Guayaquil",
+        "comuna": "La Candelaria",
+        "diseno": "Interseccion",
+        "dia_nombre": "LUNES    ",
+        "mes": "03",
+        "mes_nombre": "MARZO     ",
+        "longitud": -75.57536646999999,
+        "latitud": 6.24768547,
+        "x_origen_nacional": 4715136.6387,
+        "y_origen_nacional": 2249054.6458
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 298340,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.70381587428412,
+          6.221805664456599
+        ]
+      },
+      "properties": {
+        "objectid": 298340,
+        "radicado": "1795213",
+        "fecha": 1656115200000,
+        "hora": "07:00:00",
+        "dia": "25",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Tramo 18 Con Kilometro 33",
+        "direccion_enc": "Sin inf",
+        "cbml": "Sin inf",
+        "tipo_geocod": "No Ubicada",
+        "gravedad": "MUERTO",
+        "barrio": "Sin inf",
+        "comuna": "Sin inf",
+        "diseno": "Tramo de via",
+        "dia_nombre": "SÁBADO   ",
+        "mes": "06",
+        "mes_nombre": "JUNIO     ",
+        "longitud": -75.70381587,
+        "latitud": 6.22180566,
+        "x_origen_nacional": 4700903.936,
+        "y_origen_nacional": 2246263.1574
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 298426,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.70381587428412,
+          6.221805664456599
+        ]
+      },
+      "properties": {
+        "objectid": 298426,
+        "radicado": "1788270",
+        "fecha": 1650672000000,
+        "hora": "02:15:00",
+        "dia": "23",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Calle 92 A Con Carrera 72 A",
+        "direccion_enc": "0",
+        "cbml": "Sin inf",
+        "tipo_geocod": "No Ubicada",
+        "gravedad": "MUERTO",
+        "barrio": null,
+        "comuna": null,
+        "diseno": "Tramo de via",
+        "dia_nombre": "SÁBADO   ",
+        "mes": "04",
+        "mes_nombre": "ABRIL     ",
+        "longitud": -75.70381587,
+        "latitud": 6.22180566,
+        "x_origen_nacional": 4700903.936,
+        "y_origen_nacional": 2246263.1574
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 300647,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56958162868605,
+          6.250259830608387
+        ]
+      },
+      "properties": {
+        "objectid": 300647,
+        "radicado": "1783578",
+        "fecha": 1646611200000,
+        "hora": "12:00:00",
+        "dia": "07",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Calle 50 Con Carrera 52",
+        "direccion_enc": "CL  050   052  000 00000",
+        "cbml": "1019",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "La Candelaria",
+        "comuna": "La Candelaria",
+        "diseno": "Tramo de via",
+        "dia_nombre": "LUNES    ",
+        "mes": "03",
+        "mes_nombre": "MARZO     ",
+        "longitud": -75.56958163,
+        "latitud": 6.25025983,
+        "x_origen_nacional": 4715778.3177,
+        "y_origen_nacional": 2249336.2603
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 301296,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57542346025336,
+          6.2560591183296586
+        ]
+      },
+      "properties": {
+        "objectid": 301296,
+        "radicado": "1790200",
+        "fecha": 1651708800000,
+        "hora": "20:00:00",
+        "dia": "05",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Carrera 62 Con Calle 52",
+        "direccion_enc": "CR  062   052  000 00000",
+        "cbml": "1006",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "San Benito",
+        "comuna": "La Candelaria",
+        "diseno": "Tramo de via",
+        "dia_nombre": "JUEVES   ",
+        "mes": "05",
+        "mes_nombre": "MAYO      ",
+        "longitud": -75.57542346,
+        "latitud": 6.256059120000001,
+        "x_origen_nacional": 4715134.8673,
+        "y_origen_nacional": 2249980.8753
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 301664,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56756855698725,
+          6.296749473826428
+        ]
+      },
+      "properties": {
+        "objectid": 301664,
+        "radicado": "1780484",
+        "fecha": 1645228800000,
+        "hora": "00:54:00",
+        "dia": "19",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 65 Con Diagonal 101",
+        "direccion_enc": "CR  065   101  000 00000",
+        "cbml": "0509",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": null,
+        "comuna": null,
+        "diseno": "Tramo de via",
+        "dia_nombre": "SÁBADO   ",
+        "mes": "02",
+        "mes_nombre": "FEBRERO   ",
+        "longitud": -75.56756856,
+        "latitud": 6.296749470000001,
+        "x_origen_nacional": 4716026.328,
+        "y_origen_nacional": 2254477.3071
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 302396,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.70381587428412,
+          6.221805664456599
+        ]
+      },
+      "properties": {
+        "objectid": 302396,
+        "radicado": "1779088",
+        "fecha": 1643932800000,
+        "hora": "20:45:00",
+        "dia": "04",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Tramo 18 Con Kilometro 44",
+        "direccion_enc": "Sin inf",
+        "cbml": "Sin inf",
+        "tipo_geocod": "No Ubicada",
+        "gravedad": "MUERTO",
+        "barrio": "Sin inf",
+        "comuna": "Sin inf",
+        "diseno": "Tramo de via",
+        "dia_nombre": "VIERNES  ",
+        "mes": "02",
+        "mes_nombre": "FEBRERO   ",
+        "longitud": -75.70381587,
+        "latitud": 6.22180566,
+        "x_origen_nacional": 4700903.936,
+        "y_origen_nacional": 2246263.1574
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 302695,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.70381587428412,
+          6.221805664456599
+        ]
+      },
+      "properties": {
+        "objectid": 302695,
+        "radicado": "1775908",
+        "fecha": 1641513600000,
+        "hora": "07:50:00",
+        "dia": "07",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Carrera 63 A Con Calle 94 A",
+        "direccion_enc": "CR  063 A   094 A  000 00000",
+        "cbml": " ",
+        "tipo_geocod": "No Ubicada",
+        "gravedad": "MUERTO",
+        "barrio": " ",
+        "comuna": " ",
+        "diseno": "Tramo de via",
+        "dia_nombre": "VIERNES  ",
+        "mes": "01",
+        "mes_nombre": "ENERO     ",
+        "longitud": -75.70381587,
+        "latitud": 6.22180566,
+        "x_origen_nacional": 4700903.936,
+        "y_origen_nacional": 2246263.1574
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 303237,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5771234445332,
+          6.3088475677027676
+        ]
+      },
+      "properties": {
+        "objectid": 303237,
+        "radicado": "1798833",
+        "fecha": 1658707200000,
+        "hora": "15:00:00",
+        "dia": "25",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Calle 108 Con Carrera 80",
+        "direccion_enc": "CL  108   080  000 00000",
+        "cbml": "0602",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Doce de Octubre No.1",
+        "comuna": "Doce de Octubre",
+        "diseno": "Tramo de via",
+        "dia_nombre": "LUNES    ",
+        "mes": "07",
+        "mes_nombre": "JULIO     ",
+        "longitud": -75.57712344000001,
+        "latitud": 6.30884757,
+        "x_origen_nacional": 4714975.4682,
+        "y_origen_nacional": 2255820.677
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 303369,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57117181806204,
+          6.284560356122016
+        ]
+      },
+      "properties": {
+        "objectid": 303369,
+        "radicado": "1796183",
+        "fecha": 1657152000000,
+        "hora": "18:50:00",
+        "dia": "07",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Carrera 65 Con Calle 92",
+        "direccion_enc": "CR  065   092  000 00000",
+        "cbml": "0513",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Francisco Antonio Zea",
+        "comuna": "Castilla",
+        "diseno": "Tramo de via",
+        "dia_nombre": "JUEVES   ",
+        "mes": "07",
+        "mes_nombre": "JULIO     ",
+        "longitud": -75.57117182,
+        "latitud": 6.28456036,
+        "x_origen_nacional": 4715620.9098,
+        "y_origen_nacional": 2253131.0492
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 303397,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.591793335881,
+          6.269303641990703
+        ]
+      },
+      "properties": {
+        "objectid": 303397,
+        "radicado": "1784701",
+        "fecha": 1648252800000,
+        "hora": "15:46:00",
+        "dia": "26",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Calle 59 Con Carrera 77 C",
+        "direccion_enc": "CL  059   077 C  000 00000",
+        "cbml": "703",
+        "tipo_geocod": "Malla vial aproximada: CL 60-77",
+        "gravedad": "MUERTO",
+        "barrio": "San Germán",
+        "comuna": "Robledo",
+        "diseno": "Tramo de via",
+        "dia_nombre": "SÁBADO   ",
+        "mes": "03",
+        "mes_nombre": "MARZO     ",
+        "longitud": -75.59179334000001,
+        "latitud": 6.26930364,
+        "x_origen_nacional": 4713330.2343,
+        "y_origen_nacional": 2251454.7643
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 303593,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.70381587428412,
+          6.221805664456599
+        ]
+      },
+      "properties": {
+        "objectid": 303593,
+        "radicado": "1790743",
+        "fecha": 1652400000000,
+        "hora": "07:50:00",
+        "dia": "13",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Avenida 80 Con Calle 52",
+        "direccion_enc": "0",
+        "cbml": "Sin inf",
+        "tipo_geocod": "No Ubicada",
+        "gravedad": "MUERTO",
+        "barrio": null,
+        "comuna": null,
+        "diseno": "Tramo de via",
+        "dia_nombre": "VIERNES  ",
+        "mes": "05",
+        "mes_nombre": "MAYO      ",
+        "longitud": -75.70381587,
+        "latitud": 6.22180566,
+        "x_origen_nacional": 4700903.936,
+        "y_origen_nacional": 2246263.1574
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 303811,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57325019394982,
+          6.260211627060513
+        ]
+      },
+      "properties": {
+        "objectid": 303811,
+        "radicado": "1785238",
+        "fecha": 1648512000000,
+        "hora": "02:09:00",
+        "dia": "29",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Calle 58 Con Carrera 57",
+        "direccion_enc": "CL  058   057  000 00000",
+        "cbml": "1004",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Jesús Nazareno",
+        "comuna": "La Candelaria",
+        "diseno": "Paso Inferior",
+        "dia_nombre": "MARTES   ",
+        "mes": "03",
+        "mes_nombre": "MARZO     ",
+        "longitud": -75.57325019,
+        "latitud": 6.260211630000001,
+        "x_origen_nacional": 4715377.6594,
+        "y_origen_nacional": 2250439
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 310582,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55748789915029,
+          6.2085355844036
+        ]
+      },
+      "properties": {
+        "objectid": 310582,
+        "radicado": "1779175",
+        "fecha": 1644278400000,
+        "hora": "06:00:00",
+        "dia": "08",
+        "periodo": "2022",
+        "clase": "Otro",
+        "direccion": "Carrera 28 Con Calle 10",
+        "direccion_enc": "CR  028   010  000 00000",
+        "cbml": "1407",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": null,
+        "comuna": null,
+        "diseno": "Tramo de via",
+        "dia_nombre": "MARTES   ",
+        "mes": "02",
+        "mes_nombre": "FEBRERO   ",
+        "longitud": -75.5574879,
+        "latitud": 6.2085355799999995,
+        "x_origen_nacional": 4717094.5143,
+        "y_origen_nacional": 2244714.7343
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 310762,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.61350528023583,
+          6.2598167351596805
+        ]
+      },
+      "properties": {
+        "objectid": 310762,
+        "radicado": "1778058",
+        "fecha": 1643328000000,
+        "hora": "23:20:00",
+        "dia": "28",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Calle 48 A Con Carrera 99 A",
+        "direccion_enc": "CL  048 A   099 A  000 00000",
+        "cbml": "1306",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "La Pradera",
+        "comuna": "San Javier",
+        "diseno": "Tramo de via",
+        "dia_nombre": "VIERNES  ",
+        "mes": "01",
+        "mes_nombre": "ENERO     ",
+        "longitud": -75.61350528,
+        "latitud": 6.259816740000001,
+        "x_origen_nacional": 4710921.8894,
+        "y_origen_nacional": 2250417.3266
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 310971,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57595173318944,
+          6.270215309941229
+        ]
+      },
+      "properties": {
+        "objectid": 310971,
+        "radicado": "1794839",
+        "fecha": 1655683200000,
+        "hora": "18:20:00",
+        "dia": "20",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Carrera 65 Con Calle 71",
+        "direccion_enc": "CR  065   071  000 00000",
+        "cbml": "0519",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Caribe",
+        "comuna": "Castilla",
+        "diseno": "Tramo de via",
+        "dia_nombre": "LUNES    ",
+        "mes": "06",
+        "mes_nombre": "JUNIO     ",
+        "longitud": -75.57595173,
+        "latitud": 6.27021531,
+        "x_origen_nacional": 4715084.082,
+        "y_origen_nacional": 2251546.9622
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 311604,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55996734526165,
+          6.259395767190551
+        ]
+      },
+      "properties": {
+        "objectid": 311604,
+        "radicado": "1782215",
+        "fecha": 1646265600000,
+        "hora": "20:10:00",
+        "dia": "03",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Carrera 48 Con Calle 63 A",
+        "direccion_enc": "CR  048   063 A  000 00000",
+        "cbml": "1001",
+        "tipo_geocod": "EPM con Interior",
+        "gravedad": "MUERTO",
+        "barrio": "Prado",
+        "comuna": "La Candelaria",
+        "diseno": "Tramo de via",
+        "dia_nombre": "JUEVES   ",
+        "mes": "03",
+        "mes_nombre": "MARZO     ",
+        "longitud": -75.55996735,
+        "latitud": 6.259395769999999,
+        "x_origen_nacional": 4716847.3742,
+        "y_origen_nacional": 2250341.5736
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 312082,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.59641308344787,
+          6.275894613041738
+        ]
+      },
+      "properties": {
+        "objectid": 312082,
+        "radicado": "1796308",
+        "fecha": 1657152000000,
+        "hora": "04:50:00",
+        "dia": "07",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Calle 65 Con Carrera 86",
+        "direccion_enc": "CL  065   086  000 00000",
+        "cbml": "0717",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Robledo",
+        "comuna": "Robledo",
+        "diseno": "Interseccion",
+        "dia_nombre": "JUEVES   ",
+        "mes": "07",
+        "mes_nombre": "JULIO     ",
+        "longitud": -75.59641308,
+        "latitud": 6.27589461,
+        "x_origen_nacional": 4712822.5276,
+        "y_origen_nacional": 2252186.3257
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 312324,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57668028149428,
+          6.22534996721659
+        ]
+      },
+      "properties": {
+        "objectid": 312324,
+        "radicado": "1785275",
+        "fecha": 1648857600000,
+        "hora": "05:45:00",
+        "dia": "02",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 50 Con Calle 26",
+        "direccion_enc": "CR  050   026  000 00000",
+        "cbml": "1504",
+        "tipo_geocod": "Malla vial aproximada: CR 50-25",
+        "gravedad": "MUERTO",
+        "barrio": "Santa Fé",
+        "comuna": "Guayabal",
+        "diseno": "Tramo de via",
+        "dia_nombre": "SÁBADO   ",
+        "mes": "04",
+        "mes_nombre": "ABRIL     ",
+        "longitud": -75.57668028,
+        "latitud": 6.22534997,
+        "x_origen_nacional": 4714979.1426,
+        "y_origen_nacional": 2246584.8534
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 312784,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56250884608214,
+          6.259992003932065
+        ]
+      },
+      "properties": {
+        "objectid": 312784,
+        "radicado": "1796198",
+        "fecha": 1657152000000,
+        "hora": "19:33:00",
+        "dia": "07",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 50 A Con Calle 63",
+        "direccion_enc": "CR  050 A   063  000 00000",
+        "cbml": "1001",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Prado",
+        "comuna": "La Candelaria",
+        "diseno": "Interseccion",
+        "dia_nombre": "JUEVES   ",
+        "mes": "07",
+        "mes_nombre": "JULIO     ",
+        "longitud": -75.56250885,
+        "latitud": 6.2599920000000004,
+        "x_origen_nacional": 4716566.4017,
+        "y_origen_nacional": 2250408.8939
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 313248,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56602038421597,
+          6.256918790668784
+        ]
+      },
+      "properties": {
+        "objectid": 313248,
+        "radicado": "1793287",
+        "fecha": 1654387200000,
+        "hora": "02:10:00",
+        "dia": "05",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Calle 58 Con Carrera 51",
+        "direccion_enc": "CL  058   051  000 00000",
+        "cbml": "1003",
+        "tipo_geocod": "EPM sin Interior",
+        "gravedad": "MUERTO",
+        "barrio": "Jesús Nazareno",
+        "comuna": "La Candelaria",
+        "diseno": "Paso Inferior",
+        "dia_nombre": "DOMINGO  ",
+        "mes": "06",
+        "mes_nombre": "JUNIO     ",
+        "longitud": -75.56602038,
+        "latitud": 6.25691879,
+        "x_origen_nacional": 4716176.0821,
+        "y_origen_nacional": 2250070.8699
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 313302,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.59583518978859,
+          6.263173980421022
+        ]
+      },
+      "properties": {
+        "objectid": 313302,
+        "radicado": "1793572",
+        "fecha": 1654646400000,
+        "hora": "10:03:00",
+        "dia": "08",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Carrera 79 Con Calle 50",
+        "direccion_enc": "CR  079   050  000 00000",
+        "cbml": "1114",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Los Colores",
+        "comuna": "Laureles Estadio",
+        "diseno": "Tramo de via",
+        "dia_nombre": "MIÉRCOLES",
+        "mes": "06",
+        "mes_nombre": "JUNIO     ",
+        "longitud": -75.59583519,
+        "latitud": 6.2631739799999995,
+        "x_origen_nacional": 4712879.5224,
+        "y_origen_nacional": 2250778.972
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 314086,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57398218948089,
+          6.261177589127486
+        ]
+      },
+      "properties": {
+        "objectid": 314086,
+        "radicado": "1785015",
+        "fecha": 1648166400000,
+        "hora": "06:04:00",
+        "dia": "25",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Calle 58 Con Carrera 63",
+        "direccion_enc": "CL  058   063  000 00000",
+        "cbml": "0701",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Universidad Nacional",
+        "comuna": "Robledo",
+        "diseno": "Tramo de via",
+        "dia_nombre": "VIERNES  ",
+        "mes": "03",
+        "mes_nombre": "MARZO     ",
+        "longitud": -75.57398219,
+        "latitud": 6.26117759,
+        "x_origen_nacional": 4715297.165,
+        "y_origen_nacional": 2250546.2409
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 314212,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57786444145302,
+          6.239651874709498
+        ]
+      },
+      "properties": {
+        "objectid": 314212,
+        "radicado": "1777294",
+        "fecha": 1642896000000,
+        "hora": "10:01:00",
+        "dia": "23",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Carrera 62 Con Calle 34",
+        "direccion_enc": "CR  062   034  000 00000",
+        "cbml": "1105",
+        "tipo_geocod": "Malla vial aproximada: CR 62-33",
+        "gravedad": "MUERTO",
+        "barrio": "Los Conquistadores",
+        "comuna": "Laureles Estadio",
+        "diseno": "Tramo de via",
+        "dia_nombre": "DOMINGO  ",
+        "mes": "01",
+        "mes_nombre": "ENERO     ",
+        "longitud": -75.57786444,
+        "latitud": 6.23965187,
+        "x_origen_nacional": 4714855.8014,
+        "y_origen_nacional": 2248167.4118
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 314434,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.60132229509529,
+          6.278004251767449
+        ]
+      },
+      "properties": {
+        "objectid": 314434,
+        "radicado": "1796088",
+        "fecha": 1657065600000,
+        "hora": "17:30:00",
+        "dia": "06",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 91 Con Calle 64 E",
+        "direccion_enc": "CR  091   064 E  000 00000",
+        "cbml": "718",
+        "tipo_geocod": "Malla vial aproximada: CR 91-63",
+        "gravedad": "MUERTO",
+        "barrio": "Cucaracho",
+        "comuna": "Robledo",
+        "diseno": "Tramo de via",
+        "dia_nombre": "MIÉRCOLES",
+        "mes": "07",
+        "mes_nombre": "JULIO     ",
+        "longitud": -75.60132229999999,
+        "latitud": 6.27800425,
+        "x_origen_nacional": 4712280.3346,
+        "y_origen_nacional": 2252422.3712
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 314735,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56943442770395,
+          6.288434125751068
+        ]
+      },
+      "properties": {
+        "objectid": 314735,
+        "radicado": "1791157",
+        "fecha": 1652918400000,
+        "hora": "05:21:00",
+        "dia": "19",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 64 C Con Calle 95",
+        "direccion_enc": "CR  064 C   095  000 00000",
+        "cbml": "Sin inf",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Tricentenario",
+        "comuna": "Castilla",
+        "diseno": "Tramo de via",
+        "dia_nombre": "JUEVES   ",
+        "mes": "05",
+        "mes_nombre": "MAYO      ",
+        "longitud": -75.56943443,
+        "latitud": 6.288434130000001,
+        "x_origen_nacional": 4715815.3024,
+        "y_origen_nacional": 2253558.5757
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 315088,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55204124478155,
+          6.278578971045875
+        ]
+      },
+      "properties": {
+        "objectid": 315088,
+        "radicado": "1791669",
+        "fecha": 1653264000000,
+        "hora": "01:20:00",
+        "dia": "23",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 44 Con Calle 86",
+        "direccion_enc": "CR  044   086  000 00000",
+        "cbml": "0302",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Las Granjas",
+        "comuna": "Manrique",
+        "diseno": "Interseccion",
+        "dia_nombre": "LUNES    ",
+        "mes": "05",
+        "mes_nombre": "MAYO      ",
+        "longitud": -75.55204124000001,
+        "latitud": 6.27857897,
+        "x_origen_nacional": 4717734.9615,
+        "y_origen_nacional": 2252459.0976
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 315217,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.62863580703407,
+          6.2331608320723735
+        ]
+      },
+      "properties": {
+        "objectid": 315217,
+        "radicado": "1779850",
+        "fecha": 1644624000000,
+        "hora": "11:30:00",
+        "dia": "12",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Calle 31 Con Carrera 109",
+        "direccion_enc": "CL  031   109  000 00000",
+        "cbml": "7085",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": null,
+        "comuna": null,
+        "diseno": "Tramo de via",
+        "dia_nombre": "SÁBADO   ",
+        "mes": "02",
+        "mes_nombre": "FEBRERO   ",
+        "longitud": -75.62863581,
+        "latitud": 6.23316083,
+        "x_origen_nacional": 4709232.4313,
+        "y_origen_nacional": 2247477.1874
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 315749,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57922235723056,
+          6.249123902722148
+        ]
+      },
+      "properties": {
+        "objectid": 315749,
+        "radicado": "1783020",
+        "fecha": 1646956800000,
+        "hora": "14:09:00",
+        "dia": "11",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 62 Con Calle 45",
+        "direccion_enc": "CR  062   045  000 00000",
+        "cbml": "1008",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Corazón de Jesús",
+        "comuna": "La Candelaria",
+        "diseno": "Tramo de via",
+        "dia_nombre": "VIERNES  ",
+        "mes": "03",
+        "mes_nombre": "MARZO     ",
+        "longitud": -75.57922236,
+        "latitud": 6.249123900000001,
+        "x_origen_nacional": 4714710.6325,
+        "y_origen_nacional": 2249215.8398
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 315957,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.54587500107147,
+          6.262318593957897
+        ]
+      },
+      "properties": {
+        "objectid": 315957,
+        "radicado": "1788589",
+        "fecha": 1650931200000,
+        "hora": "21:53:00",
+        "dia": "26",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Calle 68 Con Carrera 33",
+        "direccion_enc": "CL  068   033  000 00000",
+        "cbml": "0309",
+        "tipo_geocod": "Malla vial cruce invertido",
+        "gravedad": "MUERTO",
+        "barrio": "Versalles No. 1",
+        "comuna": "Manrique",
+        "diseno": "Tramo de via",
+        "dia_nombre": "MARTES   ",
+        "mes": "04",
+        "mes_nombre": "ABRIL     ",
+        "longitud": -75.545875,
+        "latitud": 6.26231859,
+        "x_origen_nacional": 4718408.6781,
+        "y_origen_nacional": 2250657.2743
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 316170,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56513230681774,
+          6.284525949337884
+        ]
+      },
+      "properties": {
+        "objectid": 316170,
+        "radicado": "1789228",
+        "fecha": 1651622400000,
+        "hora": "22:10:00",
+        "dia": "04",
+        "periodo": "2022",
+        "clase": "Otro",
+        "direccion": "Calle 92 Con Carrera 55",
+        "direccion_enc": "CL  092   055  000 00000",
+        "cbml": "Sin inf",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Moravia",
+        "comuna": "Aranjuez",
+        "diseno": "Tramo de via",
+        "dia_nombre": "MIÉRCOLES",
+        "mes": "05",
+        "mes_nombre": "MAYO      ",
+        "longitud": -75.56513231,
+        "latitud": 6.284525950000001,
+        "x_origen_nacional": 4716289.318,
+        "y_origen_nacional": 2253123.9616
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 316703,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.58631900795311,
+          6.215392760060536
+        ]
+      },
+      "properties": {
+        "objectid": 316703,
+        "radicado": "1780608",
+        "fecha": 1645315200000,
+        "hora": "07:52:00",
+        "dia": "20",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 65 Con Calle 8 B",
+        "direccion_enc": "CR  065   008 B  000 00000",
+        "cbml": "1507",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Campo Amor",
+        "comuna": "Guayabal",
+        "diseno": "Interseccion",
+        "dia_nombre": "DOMINGO  ",
+        "mes": "02",
+        "mes_nombre": "FEBRERO   ",
+        "longitud": -75.58631901,
+        "latitud": 6.21539276,
+        "x_origen_nacional": 4713906.8482,
+        "y_origen_nacional": 2245488.7069
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 316918,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.568882381353,
+          6.275685619583382
+        ]
+      },
+      "properties": {
+        "objectid": 316918,
+        "radicado": "1786056",
+        "fecha": 1649376000000,
+        "hora": "01:52:00",
+        "dia": "08",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 62 Con Calle 76",
+        "direccion_enc": "CR  062   076  000 00000",
+        "cbml": "417",
+        "tipo_geocod": "Malla vial aproximada: CR 62-77",
+        "gravedad": "MUERTO",
+        "barrio": "Parque Norte",
+        "comuna": "Aranjuez",
+        "diseno": "Tramo de via",
+        "dia_nombre": "VIERNES  ",
+        "mes": "04",
+        "mes_nombre": "ABRIL     ",
+        "longitud": -75.56888237999999,
+        "latitud": 6.27568562,
+        "x_origen_nacional": 4715869.4774,
+        "y_origen_nacional": 2252148.1845
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 318058,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57012187008488,
+          6.276062777433086
+        ]
+      },
+      "properties": {
+        "objectid": 318058,
+        "radicado": "1795995",
+        "fecha": 1656979200000,
+        "hora": "20:50:00",
+        "dia": "05",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Carrera 64 Con Calle 78",
+        "direccion_enc": "CR  064   078  000 00000",
+        "cbml": "0405",
+        "tipo_geocod": "Malla vial cruce invertido",
+        "gravedad": "MUERTO",
+        "barrio": "Terminal de Transporte",
+        "comuna": "Castilla",
+        "diseno": "Tramo de via",
+        "dia_nombre": "MARTES   ",
+        "mes": "07",
+        "mes_nombre": "JULIO     ",
+        "longitud": -75.57012187,
+        "latitud": 6.27606278,
+        "x_origen_nacional": 4715732.4984,
+        "y_origen_nacional": 2252190.5743
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 318439,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55897852807968,
+          6.290442362180387
+        ]
+      },
+      "properties": {
+        "objectid": 318439,
+        "radicado": "1779008",
+        "fecha": 1644105600000,
+        "hora": "01:40:00",
+        "dia": "06",
+        "periodo": "2022",
+        "clase": "Otro",
+        "direccion": "Calle 98 Con Carrera 50 AA",
+        "direccion_enc": "CL  098   050 AA 000 00000",
+        "cbml": "0211",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "La Rosa",
+        "comuna": "Santa Cruz",
+        "diseno": "Tramo de via",
+        "dia_nombre": "DOMINGO  ",
+        "mes": "02",
+        "mes_nombre": "FEBRERO   ",
+        "longitud": -75.55897852999999,
+        "latitud": 6.29044236,
+        "x_origen_nacional": 4716973.5914,
+        "y_origen_nacional": 2253775.0252
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 318844,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5753342985649,
+          6.26560133774303
+        ]
+      },
+      "properties": {
+        "objectid": 318844,
+        "radicado": "1789511",
+        "fecha": 1651881600000,
+        "hora": "05:15:00",
+        "dia": "07",
+        "periodo": "2022",
+        "clase": "Caida Ocupante",
+        "direccion": "Carrera 63 Con Calle 67",
+        "direccion_enc": "CR  063   067  000 00000",
+        "cbml": "0517",
+        "tipo_geocod": "Malla vial cruce invertido",
+        "gravedad": "MUERTO",
+        "barrio": "Universidad Nacional",
+        "comuna": "Robledo",
+        "diseno": "Paso Inferior",
+        "dia_nombre": "SÁBADO   ",
+        "mes": "05",
+        "mes_nombre": "MAYO      ",
+        "longitud": -75.5753343,
+        "latitud": 6.26560134,
+        "x_origen_nacional": 4715149.9131,
+        "y_origen_nacional": 2251036.2804
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 319256,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5549260170582,
+          6.267387292001929
+        ]
+      },
+      "properties": {
+        "objectid": 319256,
+        "radicado": "1791365",
+        "fecha": 1653091200000,
+        "hora": "04:40:00",
+        "dia": "21",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 45 Con Calle 72",
+        "direccion_enc": "CR  045   072  000 00000",
+        "cbml": "0306",
+        "tipo_geocod": "EPM con Interior",
+        "gravedad": "MUERTO",
+        "barrio": "El Pomar",
+        "comuna": "Manrique",
+        "diseno": "Tramo de via",
+        "dia_nombre": "SÁBADO   ",
+        "mes": "05",
+        "mes_nombre": "MAYO      ",
+        "longitud": -75.55492602000001,
+        "latitud": 6.267387289999999,
+        "x_origen_nacional": 4717409.6519,
+        "y_origen_nacional": 2251222.7755
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 319935,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.70381587428412,
+          6.221805664456599
+        ]
+      },
+      "properties": {
+        "objectid": 319935,
+        "radicado": "1782611",
+        "fecha": 1646870400000,
+        "hora": "13:17:00",
+        "dia": "10",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 63 Con Calle 119",
+        "direccion_enc": "CR  063   119  000 00000",
+        "cbml": " ",
+        "tipo_geocod": "No Ubicada",
+        "gravedad": "MUERTO",
+        "barrio": " ",
+        "comuna": " ",
+        "diseno": "Tramo de via",
+        "dia_nombre": "JUEVES   ",
+        "mes": "03",
+        "mes_nombre": "MARZO     ",
+        "longitud": -75.70381587,
+        "latitud": 6.22180566,
+        "x_origen_nacional": 4700903.936,
+        "y_origen_nacional": 2246263.1574
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 319948,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.58339802268827,
+          6.289785823398161
+        ]
+      },
+      "properties": {
+        "objectid": 319948,
+        "radicado": "1782185",
+        "fecha": 1646179200000,
+        "hora": "18:30:00",
+        "dia": "02",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Carrera 79 Con Calle 93",
+        "direccion_enc": "CR  079   093  000 00000",
+        "cbml": "607",
+        "tipo_geocod": "Malla vial aproximada: CR 79-92",
+        "gravedad": "MUERTO",
+        "barrio": "Kennedy",
+        "comuna": "Doce de Octubre",
+        "diseno": "Lote o Predio",
+        "dia_nombre": "MIÉRCOLES",
+        "mes": "03",
+        "mes_nombre": "MARZO     ",
+        "longitud": -75.58339801999999,
+        "latitud": 6.28978582,
+        "x_origen_nacional": 4714270.613,
+        "y_origen_nacional": 2253715.7035
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 320645,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.70381587428412,
+          6.221805664456599
+        ]
+      },
+      "properties": {
+        "objectid": 320645,
+        "radicado": "1794167",
+        "fecha": 1655078400000,
+        "hora": "16:49:00",
+        "dia": "13",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 9 Con Calle 1  Sur",
+        "direccion_enc": "0",
+        "cbml": "Sin inf",
+        "tipo_geocod": "No Ubicada",
+        "gravedad": "MUERTO",
+        "barrio": null,
+        "comuna": null,
+        "diseno": "Tramo de via",
+        "dia_nombre": "LUNES    ",
+        "mes": "06",
+        "mes_nombre": "JUNIO     ",
+        "longitud": -75.70381587,
+        "latitud": 6.22180566,
+        "x_origen_nacional": 4700903.936,
+        "y_origen_nacional": 2246263.1574
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 321828,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57752640638675,
+          6.2857562063963055
+        ]
+      },
+      "properties": {
+        "objectid": 321828,
+        "radicado": "1794695",
+        "fecha": 1655683200000,
+        "hora": "08:59:00",
+        "dia": "20",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Calle 91 A Con Carrera 72",
+        "direccion_enc": "CL  091 A   072  000 00000",
+        "cbml": "0514",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Alfonso López",
+        "comuna": "Castilla",
+        "diseno": "Tramo de via",
+        "dia_nombre": "LUNES    ",
+        "mes": "06",
+        "mes_nombre": "JUNIO     ",
+        "longitud": -75.57752641,
+        "latitud": 6.285756210000001,
+        "x_origen_nacional": 4714918.2601,
+        "y_origen_nacional": 2253266.7826
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 322423,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57065998349948,
+          6.276069642343344
+        ]
+      },
+      "properties": {
+        "objectid": 322423,
+        "radicado": "1785107",
+        "fecha": 1648598400000,
+        "hora": "03:50:00",
+        "dia": "30",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 64 A Con Calle 78",
+        "direccion_enc": "CR  064 A   078  000 00000",
+        "cbml": "0516",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Terminal de Transporte",
+        "comuna": "Castilla",
+        "diseno": "Tramo de via",
+        "dia_nombre": "MIÉRCOLES",
+        "mes": "03",
+        "mes_nombre": "MARZO     ",
+        "longitud": -75.57065998,
+        "latitud": 6.27606964,
+        "x_origen_nacional": 4715672.945,
+        "y_origen_nacional": 2252191.6259
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 322433,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57534571933859,
+          6.240182154381194
+        ]
+      },
+      "properties": {
+        "objectid": 322433,
+        "radicado": "1793762",
+        "fecha": 1654819200000,
+        "hora": "15:00:00",
+        "dia": "10",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Carrera 55 Con Calle 42",
+        "direccion_enc": "CR  055   042  000 00000",
+        "cbml": "1010",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "La Alpujarra",
+        "comuna": "La Candelaria",
+        "diseno": "Tramo de via",
+        "dia_nombre": "VIERNES  ",
+        "mes": "06",
+        "mes_nombre": "JUNIO     ",
+        "longitud": -75.57534572,
+        "latitud": 6.24018215,
+        "x_origen_nacional": 4715134.8751,
+        "y_origen_nacional": 2248224.7018
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 323083,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57170273118881,
+          6.265181466781799
+        ]
+      },
+      "properties": {
+        "objectid": 323083,
+        "radicado": "1786815",
+        "fecha": 1649894400000,
+        "hora": "05:38:00",
+        "dia": "14",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 62 Con Calle 67",
+        "direccion_enc": "CR  062   067  000 00000",
+        "cbml": "0406",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Universidad de Antioquia",
+        "comuna": "Aranjuez",
+        "diseno": "Tramo de via",
+        "dia_nombre": "JUEVES   ",
+        "mes": "04",
+        "mes_nombre": "ABRIL     ",
+        "longitud": -75.57170273000001,
+        "latitud": 6.26518147,
+        "x_origen_nacional": 4715551.6278,
+        "y_origen_nacional": 2250987.8674
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 323796,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.70381587428412,
+          6.221805664456599
+        ]
+      },
+      "properties": {
+        "objectid": 323796,
+        "radicado": "1777929",
+        "fecha": 1643241600000,
+        "hora": "21:30:00",
+        "dia": "27",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Tramo 18 Con Kilometro 34",
+        "direccion_enc": "Sin inf",
+        "cbml": "Sin inf",
+        "tipo_geocod": "No Ubicada",
+        "gravedad": "MUERTO",
+        "barrio": "Sin inf",
+        "comuna": "Sin inf",
+        "diseno": "Tramo de via",
+        "dia_nombre": "JUEVES   ",
+        "mes": "01",
+        "mes_nombre": "ENERO     ",
+        "longitud": -75.70381587,
+        "latitud": 6.22180566,
+        "x_origen_nacional": 4700903.936,
+        "y_origen_nacional": 2246263.1574
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 324442,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57132281417545,
+          6.2346897704360895
+        ]
+      },
+      "properties": {
+        "objectid": 324442,
+        "radicado": "1790637",
+        "fecha": 1652659200000,
+        "hora": "12:20:00",
+        "dia": "16",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Calle 34 Con Carrera 45",
+        "direccion_enc": "CL  034   045  000 00000",
+        "cbml": "1012",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Perpetuo Socorro",
+        "comuna": "La Candelaria",
+        "diseno": "Tramo de via",
+        "dia_nombre": "LUNES    ",
+        "mes": "05",
+        "mes_nombre": "MAYO      ",
+        "longitud": -75.57132281,
+        "latitud": 6.23468977,
+        "x_origen_nacional": 4715577.1881,
+        "y_origen_nacional": 2247615.0228
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 325944,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.70381587428412,
+          6.221805664456599
+        ]
+      },
+      "properties": {
+        "objectid": 325944,
+        "radicado": "1787210",
+        "fecha": 1650067200000,
+        "hora": "21:18:00",
+        "dia": "16",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Calle 67 C Con Carrera 104",
+        "direccion_enc": "0",
+        "cbml": "Sin inf",
+        "tipo_geocod": "No Ubicada",
+        "gravedad": "MUERTO",
+        "barrio": null,
+        "comuna": null,
+        "diseno": "Tramo de via",
+        "dia_nombre": "SÁBADO   ",
+        "mes": "04",
+        "mes_nombre": "ABRIL     ",
+        "longitud": -75.70381587,
+        "latitud": 6.22180566,
+        "x_origen_nacional": 4700903.936,
+        "y_origen_nacional": 2246263.1574
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 327721,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.54244823304218,
+          6.233615596434654
+        ]
+      },
+      "properties": {
+        "objectid": 327721,
+        "radicado": "1791898",
+        "fecha": 1653264000000,
+        "hora": "22:10:00",
+        "dia": "23",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Calle 49 Con Carrera 14 A",
+        "direccion_enc": "CL  049   014 A  000 00000",
+        "cbml": "0905",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Alejandro Echavarría",
+        "comuna": "Buenos Aires",
+        "diseno": "Tramo de via",
+        "dia_nombre": "LUNES    ",
+        "mes": "05",
+        "mes_nombre": "MAYO      ",
+        "longitud": -75.54244823,
+        "latitud": 6.2336156,
+        "x_origen_nacional": 4718772.6051,
+        "y_origen_nacional": 2247480.7131
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 328056,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56352309244635,
+          6.2488737655005435
+        ]
+      },
+      "properties": {
+        "objectid": 328056,
+        "radicado": "1776309",
+        "fecha": 1641945600000,
+        "hora": "06:00:00",
+        "dia": "12",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Calle 52 Con Carrera 45",
+        "direccion_enc": "CL  052   045  000 00000",
+        "cbml": "1019",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "La Candelaria",
+        "comuna": "La Candelaria",
+        "diseno": "Tramo de via",
+        "dia_nombre": "MIÉRCOLES",
+        "mes": "01",
+        "mes_nombre": "ENERO     ",
+        "longitud": -75.56352309,
+        "latitud": 6.24887377,
+        "x_origen_nacional": 4716448.1461,
+        "y_origen_nacional": 2249179.6782
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 328414,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.53979334222676,
+          6.283752483052498
+        ]
+      },
+      "properties": {
+        "objectid": 328414,
+        "radicado": "1778779",
+        "fecha": 1644105600000,
+        "hora": "07:50:00",
+        "dia": "06",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Carrera 24 C Con Calle 93",
+        "direccion_enc": "CR  024 C   093  000 00000",
+        "cbml": "0313",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "María Cano Carambolas",
+        "comuna": "Manrique",
+        "diseno": "Tramo de via",
+        "dia_nombre": "DOMINGO  ",
+        "mes": "02",
+        "mes_nombre": "FEBRERO   ",
+        "longitud": -75.53979334,
+        "latitud": 6.2837524799999995,
+        "x_origen_nacional": 4719093.2756,
+        "y_origen_nacional": 2253024.7267
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 328734,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57874899574325,
+          6.240285498506223
+        ]
+      },
+      "properties": {
+        "objectid": 328734,
+        "radicado": "1778783",
+        "fecha": 1644105600000,
+        "hora": "06:40:00",
+        "dia": "06",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 63 Con Calle 34",
+        "direccion_enc": "CR  063   034  000 00000",
+        "cbml": "1105",
+        "tipo_geocod": "Malla vial cruce invertido",
+        "gravedad": "MUERTO",
+        "barrio": "Los Conquistadores",
+        "comuna": "Laureles Estadio",
+        "diseno": "Tramo de via",
+        "dia_nombre": "DOMINGO  ",
+        "mes": "02",
+        "mes_nombre": "FEBRERO   ",
+        "longitud": -75.578749,
+        "latitud": 6.2402855,
+        "x_origen_nacional": 4714758.2367,
+        "y_origen_nacional": 2248237.9755
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 329232,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57666860463945,
+          6.2968937253646065
+        ]
+      },
+      "properties": {
+        "objectid": 329232,
+        "radicado": "1790423",
+        "fecha": 1652400000000,
+        "hora": "19:15:00",
+        "dia": "13",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Calle 99 Con Carrera 74 A",
+        "direccion_enc": "CL  099   074 A  000 00000",
+        "cbml": "0604",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Pedregal",
+        "comuna": "Doce de Octubre",
+        "diseno": "Tramo de via",
+        "dia_nombre": "VIERNES  ",
+        "mes": "05",
+        "mes_nombre": "MAYO      ",
+        "longitud": -75.5766686,
+        "latitud": 6.29689373,
+        "x_origen_nacional": 4715019.2735,
+        "y_origen_nacional": 2254498.2248
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 329249,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57947281127862,
+          6.204073058606805
+        ]
+      },
+      "properties": {
+        "objectid": 329249,
+        "radicado": "1782284",
+        "fecha": 1646611200000,
+        "hora": "05:09:00",
+        "dia": "07",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 49 Con Calle 2  Sur",
+        "direccion_enc": "CR  049  S 002  000 00000",
+        "cbml": "1509",
+        "tipo_geocod": "Malla vial cruce invertido",
+        "gravedad": "MUERTO",
+        "barrio": " ",
+        "comuna": " ",
+        "diseno": "Tramo de via",
+        "dia_nombre": "LUNES    ",
+        "mes": "03",
+        "mes_nombre": "MARZO     ",
+        "longitud": -75.57947281000001,
+        "latitud": 6.20407306,
+        "x_origen_nacional": 4714658.5626,
+        "y_origen_nacional": 2244232.945
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 329498,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.70381587428412,
+          6.221805664456599
+        ]
+      },
+      "properties": {
+        "objectid": 329498,
+        "radicado": "1790465",
+        "fecha": 1652572800000,
+        "hora": "01:00:00",
+        "dia": "15",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Carrera 63 Con Calle 75 B",
+        "direccion_enc": "CR  063   075 B  000 00000",
+        "cbml": " ",
+        "tipo_geocod": "No Ubicada",
+        "gravedad": "MUERTO",
+        "barrio": " ",
+        "comuna": " ",
+        "diseno": "Tramo de via",
+        "dia_nombre": "DOMINGO  ",
+        "mes": "05",
+        "mes_nombre": "MAYO      ",
+        "longitud": -75.70381587,
+        "latitud": 6.22180566,
+        "x_origen_nacional": 4700903.936,
+        "y_origen_nacional": 2246263.1574
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 330157,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.54188707909283,
+          6.236753067323382
+        ]
+      },
+      "properties": {
+        "objectid": 330157,
+        "radicado": "1784097",
+        "fecha": 1647993600000,
+        "hora": "09:30:00",
+        "dia": "23",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Calle 52 Con Carrera 17",
+        "direccion_enc": "CL  052   017  000 00000",
+        "cbml": "0813",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Villatina",
+        "comuna": "Villa Hermosa",
+        "diseno": "Tramo de via",
+        "dia_nombre": "MIÉRCOLES",
+        "mes": "03",
+        "mes_nombre": "MARZO     ",
+        "longitud": -75.54188708,
+        "latitud": 6.23675307,
+        "x_origen_nacional": 4718836.3892,
+        "y_origen_nacional": 2247827.4364
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 330167,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.70381587428412,
+          6.221805664456599
+        ]
+      },
+      "properties": {
+        "objectid": 330167,
+        "radicado": "1786605",
+        "fecha": 1649808000000,
+        "hora": "12:30:00",
+        "dia": "13",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Diagonal 75 D Con Calle 24",
+        "direccion_enc": "0",
+        "cbml": "Sin inf",
+        "tipo_geocod": "No Ubicada",
+        "gravedad": "MUERTO",
+        "barrio": null,
+        "comuna": null,
+        "diseno": "Tramo de via",
+        "dia_nombre": "MIÉRCOLES",
+        "mes": "04",
+        "mes_nombre": "ABRIL     ",
+        "longitud": -75.70381587,
+        "latitud": 6.22180566,
+        "x_origen_nacional": 4700903.936,
+        "y_origen_nacional": 2246263.1574
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 330679,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.70381587428412,
+          6.221805664456599
+        ]
+      },
+      "properties": {
+        "objectid": 330679,
+        "radicado": "1794979",
+        "fecha": 1655856000000,
+        "hora": "09:22:00",
+        "dia": "22",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 64 A Con Calle 89  NorOriente",
+        "direccion_enc": "0",
+        "cbml": "Sin inf",
+        "tipo_geocod": "No Ubicada",
+        "gravedad": "MUERTO",
+        "barrio": null,
+        "comuna": null,
+        "diseno": "Tramo de via",
+        "dia_nombre": "MIÉRCOLES",
+        "mes": "06",
+        "mes_nombre": "JUNIO     ",
+        "longitud": -75.70381587,
+        "latitud": 6.22180566,
+        "x_origen_nacional": 4700903.936,
+        "y_origen_nacional": 2246263.1574
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 331300,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56346039997933,
+          6.279881857850308
+        ]
+      },
+      "properties": {
+        "objectid": 331300,
+        "radicado": "1799075",
+        "fecha": 1658880000000,
+        "hora": "10:30:00",
+        "dia": "27",
+        "periodo": "2022",
+        "clase": "Otro",
+        "direccion": "Carrera 52 Con Calle 87",
+        "direccion_enc": "CR  052   087  000 00000",
+        "cbml": "0413",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Aranjuez",
+        "comuna": "Aranjuez",
+        "diseno": "Tramo de via",
+        "dia_nombre": "MIÉRCOLES",
+        "mes": "07",
+        "mes_nombre": "JULIO     ",
+        "longitud": -75.5634604,
+        "latitud": 6.27988186,
+        "x_origen_nacional": 4716471.8403,
+        "y_origen_nacional": 2252609.3814
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 331994,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57502296782937,
+          6.265726644609283
+        ]
+      },
+      "properties": {
+        "objectid": 331994,
+        "radicado": "1796635",
+        "fecha": 1657497600000,
+        "hora": "05:35:00",
+        "dia": "11",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Carrera 64 C Con Calle 67",
+        "direccion_enc": "CR  064 C   067  000 00000",
+        "cbml": "0517",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Caribe",
+        "comuna": "Castilla",
+        "diseno": "Tramo de via",
+        "dia_nombre": "LUNES    ",
+        "mes": "07",
+        "mes_nombre": "JULIO     ",
+        "longitud": -75.57502297,
+        "latitud": 6.26572664,
+        "x_origen_nacional": 4715184.4393,
+        "y_origen_nacional": 2251049.9713
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 332190,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55276344841246,
+          6.28047152055688
+        ]
+      },
+      "properties": {
+        "objectid": 332190,
+        "radicado": "1783909",
+        "fecha": 1647820800000,
+        "hora": "21:25:00",
+        "dia": "21",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Carrera 45 Con Calle 88",
+        "direccion_enc": "CR  045   088  000 00000",
+        "cbml": "0302",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Las Granjas",
+        "comuna": "Manrique",
+        "diseno": "Tramo de via",
+        "dia_nombre": "LUNES    ",
+        "mes": "03",
+        "mes_nombre": "MARZO     ",
+        "longitud": -75.55276345,
+        "latitud": 6.28047152,
+        "x_origen_nacional": 4717656.052,
+        "y_origen_nacional": 2252668.8164
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 332457,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57170273118881,
+          6.265181466781799
+        ]
+      },
+      "properties": {
+        "objectid": 332457,
+        "radicado": "1790249",
+        "fecha": 1652313600000,
+        "hora": "06:15:00",
+        "dia": "12",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 62 Con Calle 67",
+        "direccion_enc": "CR  062   067  000 00000",
+        "cbml": "0406",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Universidad de Antioquia",
+        "comuna": "Aranjuez",
+        "diseno": "Tramo de via",
+        "dia_nombre": "JUEVES   ",
+        "mes": "05",
+        "mes_nombre": "MAYO      ",
+        "longitud": -75.57170273000001,
+        "latitud": 6.26518147,
+        "x_origen_nacional": 4715551.6278,
+        "y_origen_nacional": 2250987.8674
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 334038,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57117402767376,
+          6.28804491543109
+        ]
+      },
+      "properties": {
+        "objectid": 334038,
+        "radicado": "1784765",
+        "fecha": 1648425600000,
+        "hora": "21:27:00",
+        "dia": "28",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Calle 94 Con Carrera 63",
+        "direccion_enc": "CL  094   063  000 00000",
+        "cbml": "0512",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": " ",
+        "comuna": " ",
+        "diseno": "Puente",
+        "dia_nombre": "LUNES    ",
+        "mes": "03",
+        "mes_nombre": "MARZO     ",
+        "longitud": -75.57117403,
+        "latitud": 6.28804492,
+        "x_origen_nacional": 4715622.5604,
+        "y_origen_nacional": 2253516.4724
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 334039,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56675837274017,
+          6.2461264549352284
+        ]
+      },
+      "properties": {
+        "objectid": 334039,
+        "radicado": "1796404",
+        "fecha": 1656979200000,
+        "hora": "18:43:00",
+        "dia": "05",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Carrera 46 Con Calle 47",
+        "direccion_enc": "CR  046   047  000 00000",
+        "cbml": "1019",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "La Candelaria",
+        "comuna": "La Candelaria",
+        "diseno": "Interseccion",
+        "dia_nombre": "MARTES   ",
+        "mes": "07",
+        "mes_nombre": "JULIO     ",
+        "longitud": -75.56675837,
+        "latitud": 6.24612645,
+        "x_origen_nacional": 4716088.5733,
+        "y_origen_nacional": 2248877.5498
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 334281,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.70381587428412,
+          6.221805664456599
+        ]
+      },
+      "properties": {
+        "objectid": 334281,
+        "radicado": "1785666",
+        "fecha": 1649116800000,
+        "hora": "04:00:00",
+        "dia": "05",
+        "periodo": "2022",
+        "clase": "Volcamiento",
+        "direccion": "Tramo 18 Con Kilometro 45",
+        "direccion_enc": "Sin inf",
+        "cbml": "Sin inf",
+        "tipo_geocod": "No Ubicada",
+        "gravedad": "MUERTO",
+        "barrio": "Sin inf",
+        "comuna": "Sin inf",
+        "diseno": "Tramo de via",
+        "dia_nombre": "MARTES   ",
+        "mes": "04",
+        "mes_nombre": "ABRIL     ",
+        "longitud": -75.70381587,
+        "latitud": 6.22180566,
+        "x_origen_nacional": 4700903.936,
+        "y_origen_nacional": 2246263.1574
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 334561,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5689262113049,
+          6.277206587662896
+        ]
+      },
+      "properties": {
+        "objectid": 334561,
+        "radicado": "1797182",
+        "fecha": 1657929600000,
+        "hora": "01:14:00",
+        "dia": "16",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 62 Con Calle 80 C",
+        "direccion_enc": "CR  062   080 C  000 00000",
+        "cbml": "0405",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Moravia",
+        "comuna": "Aranjuez",
+        "diseno": "Tramo de via",
+        "dia_nombre": "SÁBADO   ",
+        "mes": "07",
+        "mes_nombre": "JULIO     ",
+        "longitud": -75.56892621,
+        "latitud": 6.27720659,
+        "x_origen_nacional": 4715865.4516,
+        "y_origen_nacional": 2252316.44
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 334819,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57604211170772,
+          6.254702854534965
+        ]
+      },
+      "properties": {
+        "objectid": 334819,
+        "radicado": "1791895",
+        "fecha": 1653350400000,
+        "hora": "04:36:00",
+        "dia": "24",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Carrera 62 Con Calle 51",
+        "direccion_enc": "CR  062   051  000 00000",
+        "cbml": "1006",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "San Benito",
+        "comuna": "La Candelaria",
+        "diseno": "Tramo de via",
+        "dia_nombre": "MARTES   ",
+        "mes": "05",
+        "mes_nombre": "MAYO      ",
+        "longitud": -75.57604210999999,
+        "latitud": 6.25470285,
+        "x_origen_nacional": 4715065.6581,
+        "y_origen_nacional": 2249831.1962
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 335071,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55859107061355,
+          6.308194317600828
+        ]
+      },
+      "properties": {
+        "objectid": 335071,
+        "radicado": "1795422",
+        "fecha": 1656374400000,
+        "hora": "15:11:00",
+        "dia": "28",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 63 Con Calle 113 A",
+        "direccion_enc": "CR  063   113 A  000 00000",
+        "cbml": "0501",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Toscana",
+        "comuna": "Castilla",
+        "diseno": "Tramo de via",
+        "dia_nombre": "MARTES   ",
+        "mes": "06",
+        "mes_nombre": "JUNIO     ",
+        "longitud": -75.55859106999999,
+        "latitud": 6.308194319999999,
+        "x_origen_nacional": 4717026.0999,
+        "y_origen_nacional": 2255738.3148
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 335126,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57826525741008,
+          6.217017236884212
+        ]
+      },
+      "properties": {
+        "objectid": 335126,
+        "radicado": "1795142",
+        "fecha": 1655942400000,
+        "hora": "23:00:00",
+        "dia": "23",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 50 Con Calle 14",
+        "direccion_enc": "CR  050   014  000 00000",
+        "cbml": "1504",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Santa Fé",
+        "comuna": "Guayabal",
+        "diseno": "Tramo de via",
+        "dia_nombre": "JUEVES   ",
+        "mes": "06",
+        "mes_nombre": "JUNIO     ",
+        "longitud": -75.57826526,
+        "latitud": 6.21701724,
+        "x_origen_nacional": 4714799.2057,
+        "y_origen_nacional": 2245664.0355
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 335534,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57120271783651,
+          6.28460203273399
+        ]
+      },
+      "properties": {
+        "objectid": 335534,
+        "radicado": "1789227",
+        "fecha": 1651622400000,
+        "hora": "14:25:00",
+        "dia": "04",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Carrera 64 C Con Calle 92",
+        "direccion_enc": "CR  064 C   092  000 00000",
+        "cbml": "513",
+        "tipo_geocod": "Malla vial aproximada: CR 65-92",
+        "gravedad": "MUERTO",
+        "barrio": "Francisco Antonio Zea",
+        "comuna": "Castilla",
+        "diseno": "Tramo de via",
+        "dia_nombre": "MIÉRCOLES",
+        "mes": "05",
+        "mes_nombre": "MAYO      ",
+        "longitud": -75.57120272,
+        "latitud": 6.28460203,
+        "x_origen_nacional": 4715617.5126,
+        "y_origen_nacional": 2253135.6758
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 336471,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55402234835515,
+          6.272793385634312
+        ]
+      },
+      "properties": {
+        "objectid": 336471,
+        "radicado": "1793756",
+        "fecha": 1654819200000,
+        "hora": "00:15:00",
+        "dia": "10",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 45 Con Calle 80",
+        "direccion_enc": "CR  045   080  000 00000",
+        "cbml": "0303",
+        "tipo_geocod": "EPM con Interior",
+        "gravedad": "MUERTO",
+        "barrio": "Campo Valdés No.2",
+        "comuna": "Manrique",
+        "diseno": "Interseccion",
+        "dia_nombre": "VIERNES  ",
+        "mes": "06",
+        "mes_nombre": "JUNIO     ",
+        "longitud": -75.55402235,
+        "latitud": 6.27279339,
+        "x_origen_nacional": 4717512.5813,
+        "y_origen_nacional": 2251820.2403
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 337628,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57642316617344,
+          6.2538477083987205
+        ]
+      },
+      "properties": {
+        "objectid": 337628,
+        "radicado": "1786166",
+        "fecha": 1649376000000,
+        "hora": "09:10:00",
+        "dia": "08",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Calle 50 Con Carrera 60",
+        "direccion_enc": "CL  050   060  000 00000",
+        "cbml": "1006",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "San Benito",
+        "comuna": "La Candelaria",
+        "diseno": "Tramo de via",
+        "dia_nombre": "VIERNES  ",
+        "mes": "04",
+        "mes_nombre": "ABRIL     ",
+        "longitud": -75.57642317000001,
+        "latitud": 6.25384771,
+        "x_origen_nacional": 4715023.0183,
+        "y_origen_nacional": 2249736.8162
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 337749,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5540370931632,
+          6.276282103415434
+        ]
+      },
+      "properties": {
+        "objectid": 337749,
+        "radicado": "1780507",
+        "fecha": 1645142400000,
+        "hora": "06:40:00",
+        "dia": "18",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Calle 84 Con Carrera 45 A",
+        "direccion_enc": "CL  084   045 A  000 00000",
+        "cbml": "0410",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Campo Valdés No. 1",
+        "comuna": "Aranjuez",
+        "diseno": "Tramo de via",
+        "dia_nombre": "VIERNES  ",
+        "mes": "02",
+        "mes_nombre": "FEBRERO   ",
+        "longitud": -75.55403709000001,
+        "latitud": 6.2762821,
+        "x_origen_nacional": 4717512.8306,
+        "y_origen_nacional": 2252206.125
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 338742,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56431269524862,
+          6.2477076366355515
+        ]
+      },
+      "properties": {
+        "objectid": 338742,
+        "radicado": "1781288",
+        "fecha": 1645833600000,
+        "hora": "07:25:00",
+        "dia": "26",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Calle 50 Con Carrera 45",
+        "direccion_enc": "CL  050   045  000 00000",
+        "cbml": "1019",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "La Candelaria",
+        "comuna": "La Candelaria",
+        "diseno": "Interseccion",
+        "dia_nombre": "SÁBADO   ",
+        "mes": "02",
+        "mes_nombre": "FEBRERO   ",
+        "longitud": -75.5643127,
+        "latitud": 6.24770764,
+        "x_origen_nacional": 4716360.1219,
+        "y_origen_nacional": 2249051.1212
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 339269,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.70381587428412,
+          6.221805664456599
+        ]
+      },
+      "properties": {
+        "objectid": 339269,
+        "radicado": "1780894",
+        "fecha": 1645401600000,
+        "hora": "19:00:00",
+        "dia": "21",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Tramo 18 Con Kilometro 36",
+        "direccion_enc": "Sin inf",
+        "cbml": "Sin inf",
+        "tipo_geocod": "No Ubicada",
+        "gravedad": "MUERTO",
+        "barrio": "Sin inf",
+        "comuna": "Sin inf",
+        "diseno": "Tramo de via",
+        "dia_nombre": "LUNES    ",
+        "mes": "02",
+        "mes_nombre": "FEBRERO   ",
+        "longitud": -75.70381587,
+        "latitud": 6.22180566,
+        "x_origen_nacional": 4700903.936,
+        "y_origen_nacional": 2246263.1574
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 340140,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6100956044965,
+          6.274030648217018
+        ]
+      },
+      "properties": {
+        "objectid": 340140,
+        "radicado": "1792539",
+        "fecha": 1653782400000,
+        "hora": "21:50:00",
+        "dia": "29",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Calle 58 Con Carrera 58",
+        "direccion_enc": "CL  058   058  000 00000",
+        "cbml": "0722",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Enciso",
+        "comuna": "Villa Hermosa",
+        "diseno": "Tramo de via",
+        "dia_nombre": "DOMINGO  ",
+        "mes": "05",
+        "mes_nombre": "MAYO      ",
+        "longitud": -75.6100956,
+        "latitud": 6.27403065,
+        "x_origen_nacional": 4711307.112,
+        "y_origen_nacional": 2251987.6761
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 340595,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.62136634704454,
+          6.253332036427375
+        ]
+      },
+      "properties": {
+        "objectid": 340595,
+        "radicado": "1776386",
+        "fecha": 1641945600000,
+        "hora": "23:30:00",
+        "dia": "12",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Carrera 108 Con Calle 39 F",
+        "direccion_enc": "CR  108   039 F  000 00000",
+        "cbml": "1310",
+        "tipo_geocod": "Malla vial aproximada: CR 108-39D",
+        "gravedad": "MUERTO",
+        "barrio": "Veinte de Julio",
+        "comuna": "San Javier",
+        "diseno": "Tramo de via",
+        "dia_nombre": "MIÉRCOLES",
+        "mes": "01",
+        "mes_nombre": "ENERO     ",
+        "longitud": -75.62136635,
+        "latitud": 6.25333204,
+        "x_origen_nacional": 4710048.2072,
+        "y_origen_nacional": 2249704.3734
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 341008,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.70381587428412,
+          6.221805664456599
+        ]
+      },
+      "properties": {
+        "objectid": 341008,
+        "radicado": "1788864",
+        "fecha": 1651276800000,
+        "hora": "23:50:00",
+        "dia": "30",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Tramo 18 Con Kilometro 47",
+        "direccion_enc": "Sin inf",
+        "cbml": "Sin inf",
+        "tipo_geocod": "No Ubicada",
+        "gravedad": "MUERTO",
+        "barrio": "Sin inf",
+        "comuna": "Sin inf",
+        "diseno": "Pontón",
+        "dia_nombre": "SÁBADO   ",
+        "mes": "04",
+        "mes_nombre": "ABRIL     ",
+        "longitud": -75.70381587,
+        "latitud": 6.22180566,
+        "x_origen_nacional": 4700903.936,
+        "y_origen_nacional": 2246263.1574
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 341456,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.70381587428412,
+          6.221805664456599
+        ]
+      },
+      "properties": {
+        "objectid": 341456,
+        "radicado": "1787355",
+        "fecha": 1649980800000,
+        "hora": "19:15:00",
+        "dia": "15",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Tramo 18 Con Kilometro 13",
+        "direccion_enc": "Sin inf",
+        "cbml": "Sin inf",
+        "tipo_geocod": "No Ubicada",
+        "gravedad": "MUERTO",
+        "barrio": "Sin inf",
+        "comuna": "Sin inf",
+        "diseno": "Tramo de via",
+        "dia_nombre": "VIERNES  ",
+        "mes": "04",
+        "mes_nombre": "ABRIL     ",
+        "longitud": -75.70381587,
+        "latitud": 6.22180566,
+        "x_origen_nacional": 4700903.936,
+        "y_origen_nacional": 2246263.1574
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 342307,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56591800458041,
+          6.247578356795356
+        ]
+      },
+      "properties": {
+        "objectid": 342307,
+        "radicado": "1781122",
+        "fecha": 1645488000000,
+        "hora": "23:20:00",
+        "dia": "22",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Carrera 46 Con Calle 49",
+        "direccion_enc": "CR  046   049  000 00000",
+        "cbml": "1019",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "La Candelaria",
+        "comuna": "La Candelaria",
+        "diseno": "Interseccion",
+        "dia_nombre": "MARTES   ",
+        "mes": "02",
+        "mes_nombre": "FEBRERO   ",
+        "longitud": -75.565918,
+        "latitud": 6.247578359999999,
+        "x_origen_nacional": 4716182.3714,
+        "y_origen_nacional": 2249037.6881
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 342660,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56486559648282,
+          6.253103079652281
+        ]
+      },
+      "properties": {
+        "objectid": 342660,
+        "radicado": "1789858",
+        "fecha": 1652140800000,
+        "hora": "01:28:00",
+        "dia": "10",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 49 Con Calle 55",
+        "direccion_enc": "CR  049   055  000 00000",
+        "cbml": "1018",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Villa Nueva",
+        "comuna": "La Candelaria",
+        "diseno": "Interseccion",
+        "dia_nombre": "MARTES   ",
+        "mes": "05",
+        "mes_nombre": "MAYO      ",
+        "longitud": -75.5648656,
+        "latitud": 6.25310308,
+        "x_origen_nacional": 4716301.8356,
+        "y_origen_nacional": 2249648.198
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 342848,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55728775320242,
+          6.299630261692063
+        ]
+      },
+      "properties": {
+        "objectid": 342848,
+        "radicado": "1788690",
+        "fecha": 1651017600000,
+        "hora": "05:15:00",
+        "dia": "27",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Carrera 52 Con Calle 107",
+        "direccion_enc": "CR  052   107  000 00000",
+        "cbml": "0206",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Andalucía",
+        "comuna": "Santa Cruz",
+        "diseno": "Lote o Predio",
+        "dia_nombre": "MIÉRCOLES",
+        "mes": "04",
+        "mes_nombre": "ABRIL     ",
+        "longitud": -75.55728775,
+        "latitud": 6.29963026,
+        "x_origen_nacional": 4717165.6923,
+        "y_origen_nacional": 2254790.3587
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 343119,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.61528200705425,
+          6.273894481045528
+        ]
+      },
+      "properties": {
+        "objectid": 343119,
+        "radicado": "1790980",
+        "fecha": 1652659200000,
+        "hora": "09:50:00",
+        "dia": "16",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Calle 59 Con Carrera 106",
+        "direccion_enc": "CL  059   106  000 00000",
+        "cbml": "0720",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Santa Margarita",
+        "comuna": "Robledo",
+        "diseno": "Tramo de via",
+        "dia_nombre": "LUNES    ",
+        "mes": "05",
+        "mes_nombre": "MAYO      ",
+        "longitud": -75.61528201,
+        "latitud": 6.273894479999999,
+        "x_origen_nacional": 4710732.9969,
+        "y_origen_nacional": 2251975.477
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 343181,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.58031131026968,
+          6.19481161472311
+        ]
+      },
+      "properties": {
+        "objectid": 343181,
+        "radicado": "1777953",
+        "fecha": 1643414400000,
+        "hora": "13:27:00",
+        "dia": "29",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 49 Con Calle 12  Sur",
+        "direccion_enc": "CR  049  S 012  000 00000",
+        "cbml": "1423",
+        "tipo_geocod": "EPM sin Interior",
+        "gravedad": "MUERTO",
+        "barrio": "Santa María de Los Ángeles",
+        "comuna": "El Poblado",
+        "diseno": "Tramo de via",
+        "dia_nombre": "SÁBADO   ",
+        "mes": "01",
+        "mes_nombre": "ENERO     ",
+        "longitud": -75.58031131,
+        "latitud": 6.1948116099999995,
+        "x_origen_nacional": 4714560.7607,
+        "y_origen_nacional": 2243208.9977
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 344875,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55530918123034,
+          6.272124777691507
+        ]
+      },
+      "properties": {
+        "objectid": 344875,
+        "radicado": "1775996",
+        "fecha": 1641686400000,
+        "hora": "03:45:00",
+        "dia": "09",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 46 Con Calle 79",
+        "direccion_enc": "CR  046   079  000 00000",
+        "cbml": "0410",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Campo Valdés No. 1",
+        "comuna": "Aranjuez",
+        "diseno": "Interseccion",
+        "dia_nombre": "DOMINGO  ",
+        "mes": "01",
+        "mes_nombre": "ENERO     ",
+        "longitud": -75.55530918000001,
+        "latitud": 6.27212478,
+        "x_origen_nacional": 4717369.7979,
+        "y_origen_nacional": 2251746.9818
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 345958,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.58905178705719,
+          6.206843339972493
+        ]
+      },
+      "properties": {
+        "objectid": 345958,
+        "radicado": "1791161",
+        "fecha": 1652918400000,
+        "hora": "01:50:00",
+        "dia": "19",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Calle 2  Sur Con Carrera 65",
+        "direccion_enc": "CL S 002   065  000 00000",
+        "cbml": "1509",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Cristo Rey",
+        "comuna": "Guayabal",
+        "diseno": "Interseccion",
+        "dia_nombre": "JUEVES   ",
+        "mes": "05",
+        "mes_nombre": "MAYO      ",
+        "longitud": -75.58905179,
+        "latitud": 6.206843340000001,
+        "x_origen_nacional": 4713599.7252,
+        "y_origen_nacional": 2244544.5373
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 346116,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5542313215554,
+          6.241589932907896
+        ]
+      },
+      "properties": {
+        "objectid": 346116,
+        "radicado": "1785591",
+        "fecha": 1648944000000,
+        "hora": "11:20:00",
+        "dia": "03",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Calle 49 Con Carrera 32",
+        "direccion_enc": "CL  049   032  000 00000",
+        "cbml": "0906",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Barrio Caicedo",
+        "comuna": "Buenos Aires",
+        "diseno": "Tramo de via",
+        "dia_nombre": "DOMINGO  ",
+        "mes": "04",
+        "mes_nombre": "ABRIL     ",
+        "longitud": -75.55423132,
+        "latitud": 6.24158993,
+        "x_origen_nacional": 4717472.6721,
+        "y_origen_nacional": 2248369.0328
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 346907,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55004882704515,
+          6.283561574585095
+        ]
+      },
+      "properties": {
+        "objectid": 346907,
+        "radicado": "1789506",
+        "fecha": 1651881600000,
+        "hora": "18:40:00",
+        "dia": "07",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Calle 92 Con Carrera 42 B",
+        "direccion_enc": "CL  092   042 B  000 00000",
+        "cbml": "0301",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "La Salle",
+        "comuna": "Manrique",
+        "diseno": "Tramo de via",
+        "dia_nombre": "SÁBADO   ",
+        "mes": "05",
+        "mes_nombre": "MAYO      ",
+        "longitud": -75.55004883,
+        "latitud": 6.28356157,
+        "x_origen_nacional": 4717958.1586,
+        "y_origen_nacional": 2253009.1326
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 347684,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5795818971182,
+          6.244914017066828
+        ]
+      },
+      "properties": {
+        "objectid": 347684,
+        "radicado": "1795511",
+        "fecha": 1656460800000,
+        "hora": "12:46:00",
+        "dia": "29",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 63 Con Calle 42 D",
+        "direccion_enc": "CR  063   042 D  000 00000",
+        "cbml": "1105",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Los Conquistadores",
+        "comuna": "Laureles Estadio",
+        "diseno": "Tramo de via",
+        "dia_nombre": "MIÉRCOLES",
+        "mes": "06",
+        "mes_nombre": "JUNIO     ",
+        "longitud": -75.5795819,
+        "latitud": 6.24491402,
+        "x_origen_nacional": 4714668.5543,
+        "y_origen_nacional": 2248750.3832
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 348224,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55397742792756,
+          6.273638578117231
+        ]
+      },
+      "properties": {
+        "objectid": 348224,
+        "radicado": "1778104",
+        "fecha": 1643587200000,
+        "hora": "04:20:00",
+        "dia": "31",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 45 Con Calle 81",
+        "direccion_enc": "CR  045   081  000 00000",
+        "cbml": "0303",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Campo Valdés No. 2",
+        "comuna": "Manrique",
+        "diseno": "Tramo de via",
+        "dia_nombre": "LUNES    ",
+        "mes": "01",
+        "mes_nombre": "ENERO     ",
+        "longitud": -75.55397743,
+        "latitud": 6.27363858,
+        "x_origen_nacional": 4717518.0086,
+        "y_origen_nacional": 2251913.7003
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 348667,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.58137587030544,
+          6.196801118336307
+        ]
+      },
+      "properties": {
+        "objectid": 348667,
+        "radicado": "1782224",
+        "fecha": 1646438400000,
+        "hora": "04:50:00",
+        "dia": "05",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 50 Con Calle 11  Sur",
+        "direccion_enc": "CR  050  S 011  000 00000",
+        "cbml": "1510",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Guayabal",
+        "comuna": "Guayabal",
+        "diseno": "Tramo de via",
+        "dia_nombre": "SÁBADO   ",
+        "mes": "03",
+        "mes_nombre": "MARZO     ",
+        "longitud": -75.58137587,
+        "latitud": 6.19680112,
+        "x_origen_nacional": 4714443.9893,
+        "y_origen_nacional": 2243429.6281
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 349307,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56667458260199,
+          6.28680369337067
+        ]
+      },
+      "properties": {
+        "objectid": 349307,
+        "radicado": "1776600",
+        "fecha": 1642204800000,
+        "hora": "20:00:00",
+        "dia": "15",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 63 Con Calle 94 A",
+        "direccion_enc": "CR  063   094 A  000 00000",
+        "cbml": "0510",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Tricentenario",
+        "comuna": "Castilla",
+        "diseno": "Tramo de via",
+        "dia_nombre": "SÁBADO   ",
+        "mes": "01",
+        "mes_nombre": "ENERO     ",
+        "longitud": -75.56667458,
+        "latitud": 6.28680369,
+        "x_origen_nacional": 4716119.8624,
+        "y_origen_nacional": 2253376.736
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 349668,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57647088895447,
+          6.2135970882364315
+        ]
+      },
+      "properties": {
+        "objectid": 349668,
+        "radicado": "1775992",
+        "fecha": 1641600000000,
+        "hora": "07:47:00",
+        "dia": "08",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Carrera 48 Con Calle 10",
+        "direccion_enc": "CR  048   010  000 00000",
+        "cbml": "1419",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Manila",
+        "comuna": "El Poblado",
+        "diseno": "Glorieta",
+        "dia_nombre": "SÁBADO   ",
+        "mes": "01",
+        "mes_nombre": "ENERO     ",
+        "longitud": -75.57647089000001,
+        "latitud": 6.2135970899999995,
+        "x_origen_nacional": 4714995.9826,
+        "y_origen_nacional": 2245284.7689
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 349971,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.59274444760366,
+          6.230566981822811
+        ]
+      },
+      "properties": {
+        "objectid": 349971,
+        "radicado": "1776453",
+        "fecha": 1642032000000,
+        "hora": "11:36:00",
+        "dia": "13",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 72 Con Calle 29",
+        "direccion_enc": "CR  072   029  000 00000",
+        "cbml": "1604",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Granada",
+        "comuna": "Belén",
+        "diseno": "Interseccion",
+        "dia_nombre": "JUEVES   ",
+        "mes": "01",
+        "mes_nombre": "ENERO     ",
+        "longitud": -75.59274445,
+        "latitud": 6.23056698,
+        "x_origen_nacional": 4713203.8417,
+        "y_origen_nacional": 2247170.6128
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 350594,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.59263086537361,
+          6.281496391611739
+        ]
+      },
+      "properties": {
+        "objectid": 350594,
+        "radicado": "1787396",
+        "fecha": 1650153600000,
+        "hora": "11:57:00",
+        "dia": "17",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Calle 76 D Con Carrera 86 B",
+        "direccion_enc": "CL  076 D   086 B  000 00000",
+        "cbml": "0715",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Villa Flora",
+        "comuna": "Robledo",
+        "diseno": "Tramo de via",
+        "dia_nombre": "DOMINGO  ",
+        "mes": "04",
+        "mes_nombre": "ABRIL     ",
+        "longitud": -75.59263087000001,
+        "latitud": 6.28149639,
+        "x_origen_nacional": 4713244.211,
+        "y_origen_nacional": 2252803.8667
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 352223,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56150737956253,
+          6.28606797200216
+        ]
+      },
+      "properties": {
+        "objectid": 352223,
+        "radicado": "1780368",
+        "fecha": 1645056000000,
+        "hora": "07:55:00",
+        "dia": "17",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Carrera 51 A Con Calle 94",
+        "direccion_enc": "CR  051 A   094  000 00000",
+        "cbml": "0402",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "San Isidro",
+        "comuna": "Aranjuez",
+        "diseno": "Interseccion",
+        "dia_nombre": "JUEVES   ",
+        "mes": "02",
+        "mes_nombre": "FEBRERO   ",
+        "longitud": -75.56150738,
+        "latitud": 6.2860679699999995,
+        "x_origen_nacional": 4716691.3431,
+        "y_origen_nacional": 2253292.5551
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 353274,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56143101896893,
+          6.219631085808329
+        ]
+      },
+      "properties": {
+        "objectid": 353274,
+        "radicado": "1783818",
+        "fecha": 1647734400000,
+        "hora": "04:15:00",
+        "dia": "20",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 32 Con Calle 18 C",
+        "direccion_enc": "CR  032   018 C  000 00000",
+        "cbml": "0916",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Asomadera No. 3",
+        "comuna": "Buenos Aires",
+        "diseno": "Tramo de via",
+        "dia_nombre": "DOMINGO  ",
+        "mes": "03",
+        "mes_nombre": "MARZO     ",
+        "longitud": -75.56143102,
+        "latitud": 6.21963109,
+        "x_origen_nacional": 4716663.9894,
+        "y_origen_nacional": 2245944.0896
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 353280,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57296675481811,
+          6.240912304935531
+        ]
+      },
+      "properties": {
+        "objectid": 353280,
+        "radicado": "1794292",
+        "fecha": 1655078400000,
+        "hora": "11:35:00",
+        "dia": "13",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Carrera 52 Con Calle 40",
+        "direccion_enc": "CR  052   040  000 00000",
+        "cbml": "1011",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Calle Nueva",
+        "comuna": "La Candelaria",
+        "diseno": "Interseccion",
+        "dia_nombre": "LUNES    ",
+        "mes": "06",
+        "mes_nombre": "JUNIO     ",
+        "longitud": -75.57296675,
+        "latitud": 6.2409123,
+        "x_origen_nacional": 4715398.5866,
+        "y_origen_nacional": 2248304.1759
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 354000,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5622482331113,
+          6.253322304570969
+        ]
+      },
+      "properties": {
+        "objectid": 354000,
+        "radicado": "1784812",
+        "fecha": 1648166400000,
+        "hora": "15:15:00",
+        "dia": "25",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Carrera 46 Con Calle 57",
+        "direccion_enc": "CR  046   057  000 00000",
+        "cbml": "1018",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Villa Nueva",
+        "comuna": "La Candelaria",
+        "diseno": "Tramo de via",
+        "dia_nombre": "VIERNES  ",
+        "mes": "03",
+        "mes_nombre": "MARZO     ",
+        "longitud": -75.56224823000001,
+        "latitud": 6.253322300000001,
+        "x_origen_nacional": 4716591.6486,
+        "y_origen_nacional": 2249671.0332
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 354199,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55283240943434,
+          6.295067001215381
+        ]
+      },
+      "properties": {
+        "objectid": 354199,
+        "radicado": "1789103",
+        "fecha": 1651363200000,
+        "hora": "05:30:00",
+        "dia": "01",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 47 Con Calle 106",
+        "direccion_enc": "CR  047   106  000 00000",
+        "cbml": "0206",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Villa del Socorro",
+        "comuna": "Santa Cruz",
+        "diseno": "Tramo de via",
+        "dia_nombre": "DOMINGO  ",
+        "mes": "05",
+        "mes_nombre": "MAYO      ",
+        "longitud": -75.55283241000001,
+        "latitud": 6.2950669999999995,
+        "x_origen_nacional": 4717656.3028,
+        "y_origen_nacional": 2254283.2157
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 354325,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.62773134290042,
+          6.274259826592571
+        ]
+      },
+      "properties": {
+        "objectid": 354325,
+        "radicado": "1793177",
+        "fecha": 1654387200000,
+        "hora": "09:51:00",
+        "dia": "05",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 121 Con Calle 59",
+        "direccion_enc": "CR  121   059  000 00000",
+        "cbml": "6084",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Suburbano La Loma",
+        "comuna": "Corregimiento de San Cristóbal",
+        "diseno": "Tramo de via",
+        "dia_nombre": "DOMINGO  ",
+        "mes": "06",
+        "mes_nombre": "JUNIO     ",
+        "longitud": -75.62773134000001,
+        "latitud": 6.27425983,
+        "x_origen_nacional": 4709355.2759,
+        "y_origen_nacional": 2252022.7837
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 355719,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56922931823348,
+          6.275771411187592
+        ]
+      },
+      "properties": {
+        "objectid": 355719,
+        "radicado": "1787207",
+        "fecha": 1650153600000,
+        "hora": "00:47:00",
+        "dia": "17",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Carrera 62 Con Calle 57",
+        "direccion_enc": "CR  062   057  000 00000",
+        "cbml": "405",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Moravia",
+        "comuna": "Aranjuez",
+        "diseno": "Tramo de via",
+        "dia_nombre": "DOMINGO  ",
+        "mes": "04",
+        "mes_nombre": "ABRIL     ",
+        "longitud": -75.56922931999999,
+        "latitud": 6.27577141,
+        "x_origen_nacional": 4715831.1258,
+        "y_origen_nacional": 2252157.8621
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 356011,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56355269296947,
+          6.189887222735093
+        ]
+      },
+      "properties": {
+        "objectid": 356011,
+        "radicado": "1776409",
+        "fecha": 1642032000000,
+        "hora": "07:00:00",
+        "dia": "13",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Calle 9 A Sur Con Carrera 29",
+        "direccion_enc": "CL S 009 A   029  000 00000",
+        "cbml": "Sin inf",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Los Balsos No.1",
+        "comuna": "El Poblado",
+        "diseno": "Interseccion",
+        "dia_nombre": "JUEVES   ",
+        "mes": "01",
+        "mes_nombre": "ENERO     ",
+        "longitud": -75.56355269000001,
+        "latitud": 6.18988722,
+        "x_origen_nacional": 4716413.2234,
+        "y_origen_nacional": 2242655.3306
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 357379,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56524267340212,
+          6.224647202687463
+        ]
+      },
+      "properties": {
+        "objectid": 357379,
+        "radicado": "1776210",
+        "fecha": 1641772800000,
+        "hora": "22:40:00",
+        "dia": "10",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 38 Con Calle 26",
+        "direccion_enc": "CR  038   026  000 00000",
+        "cbml": "0914",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "San Diego",
+        "comuna": "La Candelaria",
+        "diseno": "Tramo de via",
+        "dia_nombre": "LUNES    ",
+        "mes": "01",
+        "mes_nombre": "ENERO     ",
+        "longitud": -75.56524267,
+        "latitud": 6.2246472,
+        "x_origen_nacional": 4716244.7755,
+        "y_origen_nacional": 2246500.9577
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 357465,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.59206008083035,
+          6.222783533560851
+        ]
+      },
+      "properties": {
+        "objectid": 357465,
+        "radicado": "1776385",
+        "fecha": 1642032000000,
+        "hora": "03:59:00",
+        "dia": "13",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 70 Con Calle 19",
+        "direccion_enc": "CR  070   019  000 00000",
+        "cbml": "1605",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Parque Juan Pablo II",
+        "comuna": "Guayabal",
+        "diseno": "Tramo de via",
+        "dia_nombre": "JUEVES   ",
+        "mes": "01",
+        "mes_nombre": "ENERO     ",
+        "longitud": -75.59206008,
+        "latitud": 6.22278353,
+        "x_origen_nacional": 4713275.3663,
+        "y_origen_nacional": 2246309.3124
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 357632,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57654639487983,
+          6.22926250527071
+        ]
+      },
+      "properties": {
+        "objectid": 357632,
+        "radicado": "1795512",
+        "fecha": 1656374400000,
+        "hora": "22:00:00",
+        "dia": "28",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 50 Con Calle 25",
+        "direccion_enc": "CR  050   025  000 00000",
+        "cbml": "1504",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Santa Fé",
+        "comuna": "Guayabal",
+        "diseno": "Tramo de via",
+        "dia_nombre": "MARTES   ",
+        "mes": "06",
+        "mes_nombre": "JUNIO     ",
+        "longitud": -75.57654638999999,
+        "latitud": 6.22926251,
+        "x_origen_nacional": 4714996.0748,
+        "y_origen_nacional": 2247017.5422
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 358344,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.70381587428412,
+          6.221805664456599
+        ]
+      },
+      "properties": {
+        "objectid": 358344,
+        "radicado": "1782029",
+        "fecha": 1646438400000,
+        "hora": "04:35:00",
+        "dia": "05",
+        "periodo": "2022",
+        "clase": "Otro",
+        "direccion": "Avenida 80 Con Calle 33",
+        "direccion_enc": "AV  080   033  000 00000",
+        "cbml": " ",
+        "tipo_geocod": "No Ubicada",
+        "gravedad": "MUERTO",
+        "barrio": "Sin Inf",
+        "comuna": "Sin Inf",
+        "diseno": "Glorieta",
+        "dia_nombre": "SÁBADO   ",
+        "mes": "03",
+        "mes_nombre": "MARZO     ",
+        "longitud": -75.70381587,
+        "latitud": 6.22180566,
+        "x_origen_nacional": 4700903.936,
+        "y_origen_nacional": 2246263.1574
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 358486,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.61598805521277,
+          6.2346115767373425
+        ]
+      },
+      "properties": {
+        "objectid": 358486,
+        "radicado": "1794586",
+        "fecha": 1655596800000,
+        "hora": "02:10:00",
+        "dia": "19",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Calle 31 B Con Carrera 89 E",
+        "direccion_enc": "CL  031 B   089 E  000 00000",
+        "cbml": "1616",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Las Violetas",
+        "comuna": "Belén",
+        "diseno": "Tramo de via",
+        "dia_nombre": "DOMINGO  ",
+        "mes": "06",
+        "mes_nombre": "JUNIO     ",
+        "longitud": -75.61598805999999,
+        "latitud": 6.23461158,
+        "x_origen_nacional": 4710633.222,
+        "y_origen_nacional": 2247630.6956
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 360348,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.577063587584,
+          6.229090091789129
+        ]
+      },
+      "properties": {
+        "objectid": 360348,
+        "radicado": "1792188",
+        "fecha": 1653523200000,
+        "hora": "08:15:00",
+        "dia": "26",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 52 Con Calle 25",
+        "direccion_enc": "CR  052   025  000 00000",
+        "cbml": "1504",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Santa Fé",
+        "comuna": "Guayabal",
+        "diseno": "Interseccion",
+        "dia_nombre": "JUEVES   ",
+        "mes": "05",
+        "mes_nombre": "MAYO      ",
+        "longitud": -75.57706359,
+        "latitud": 6.22909009,
+        "x_origen_nacional": 4714938.7346,
+        "y_origen_nacional": 2246998.7513
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 360434,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57786444145302,
+          6.239651874709498
+        ]
+      },
+      "properties": {
+        "objectid": 360434,
+        "radicado": "1782035",
+        "fecha": 1646438400000,
+        "hora": "17:00:00",
+        "dia": "05",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Carrera 62 Con Calle 34",
+        "direccion_enc": "CR  062   034  000 00000",
+        "cbml": "1105",
+        "tipo_geocod": "Malla vial aproximada: CR 62-33",
+        "gravedad": "MUERTO",
+        "barrio": "Los Conquistadores",
+        "comuna": "Laureles Estadio",
+        "diseno": "Tramo de via",
+        "dia_nombre": "SÁBADO   ",
+        "mes": "03",
+        "mes_nombre": "MARZO     ",
+        "longitud": -75.57786444,
+        "latitud": 6.23965187,
+        "x_origen_nacional": 4714855.8014,
+        "y_origen_nacional": 2248167.4118
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 360816,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56014641510991,
+          6.248802326067688
+        ]
+      },
+      "properties": {
+        "objectid": 360816,
+        "radicado": "1783056",
+        "fecha": 1647043200000,
+        "hora": "16:00:00",
+        "dia": "12",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Calle 53 Con Carrera 41",
+        "direccion_enc": "CL  053   041  000 00000",
+        "cbml": "1016",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Boston",
+        "comuna": "La Candelaria",
+        "diseno": "Tramo de via",
+        "dia_nombre": "SÁBADO   ",
+        "mes": "03",
+        "mes_nombre": "MARZO     ",
+        "longitud": -75.56014642000001,
+        "latitud": 6.24880233,
+        "x_origen_nacional": 4716821.8473,
+        "y_origen_nacional": 2249169.9563
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 361007,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5617176774128,
+          6.1868950899411725
+        ]
+      },
+      "properties": {
+        "objectid": 361007,
+        "radicado": "1789748",
+        "fecha": 1652054400000,
+        "hora": "15:05:00",
+        "dia": "09",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Calle 12  Sur Con Carrera 25",
+        "direccion_enc": "CL S 012   025  000 00000",
+        "cbml": "Sin inf",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Los Balsos No.1",
+        "comuna": "El Poblado",
+        "diseno": "Tramo de via",
+        "dia_nombre": "LUNES    ",
+        "mes": "05",
+        "mes_nombre": "MAYO      ",
+        "longitud": -75.56171768,
+        "latitud": 6.18689509,
+        "x_origen_nacional": 4716614.7545,
+        "y_origen_nacional": 2242323.3983
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 361080,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.70381587428412,
+          6.221805664456599
+        ]
+      },
+      "properties": {
+        "objectid": 361080,
+        "radicado": "1792777",
+        "fecha": 1654041600000,
+        "hora": "08:15:00",
+        "dia": "01",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Carrera 49 C Con Calle 94",
+        "direccion_enc": "0",
+        "cbml": "Sin inf",
+        "tipo_geocod": "No Ubicada",
+        "gravedad": "MUERTO",
+        "barrio": null,
+        "comuna": null,
+        "diseno": "Tramo de via",
+        "dia_nombre": "MIÉRCOLES",
+        "mes": "06",
+        "mes_nombre": "JUNIO     ",
+        "longitud": -75.70381587,
+        "latitud": 6.22180566,
+        "x_origen_nacional": 4700903.936,
+        "y_origen_nacional": 2246263.1574
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 361505,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.61874729638258,
+          6.2518522940894625
+        ]
+      },
+      "properties": {
+        "objectid": 361505,
+        "radicado": "1775413",
+        "fecha": 1640995200000,
+        "hora": "00:10:00",
+        "dia": "01",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Calle 38 A Con Carrera 106 A",
+        "direccion_enc": "CL  038 A   106 A  000 00000",
+        "cbml": "1310",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Veinte de Julio",
+        "comuna": "San Javier",
+        "diseno": "Tramo de via",
+        "dia_nombre": "SÁBADO   ",
+        "mes": "01",
+        "mes_nombre": "ENERO     ",
+        "longitud": -75.61874730000001,
+        "latitud": 6.25185229,
+        "x_origen_nacional": 4710337.286,
+        "y_origen_nacional": 2249539.2504
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 363283,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.54635297170316,
+          6.268825580506459
+        ]
+      },
+      "properties": {
+        "objectid": 363283,
+        "radicado": "1795795",
+        "fecha": 1656806400000,
+        "hora": "18:18:00",
+        "dia": "03",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Calle 75 C Con Carrera 36",
+        "direccion_enc": "CL  075 C   036  000 00000",
+        "cbml": "0305",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "El Raizal",
+        "comuna": "Manrique",
+        "diseno": "Tramo de via",
+        "dia_nombre": "DOMINGO  ",
+        "mes": "07",
+        "mes_nombre": "JULIO     ",
+        "longitud": -75.54635297,
+        "latitud": 6.26882558,
+        "x_origen_nacional": 4718359.2702,
+        "y_origen_nacional": 2251377.245
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 364051,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.70381587428412,
+          6.221805664456599
+        ]
+      },
+      "properties": {
+        "objectid": 364051,
+        "radicado": "1781946",
+        "fecha": 1646179200000,
+        "hora": "00:49:00",
+        "dia": "02",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Calle 33 Con Carrera 57",
+        "direccion_enc": "CL  033   057  000 00000",
+        "cbml": " ",
+        "tipo_geocod": "No Ubicada",
+        "gravedad": "MUERTO",
+        "barrio": " ",
+        "comuna": " ",
+        "diseno": "Puente",
+        "dia_nombre": "MIÉRCOLES",
+        "mes": "03",
+        "mes_nombre": "MARZO     ",
+        "longitud": -75.70381587,
+        "latitud": 6.22180566,
+        "x_origen_nacional": 4700903.936,
+        "y_origen_nacional": 2246263.1574
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 364949,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55538620800408,
+          6.264341836885998
+        ]
+      },
+      "properties": {
+        "objectid": 364949,
+        "radicado": "1775812",
+        "fecha": 1641427200000,
+        "hora": "14:00:00",
+        "dia": "06",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 45 Con Calle 69",
+        "direccion_enc": "CR  045   069  000 00000",
+        "cbml": "0307",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Manrique Central No. 2",
+        "comuna": "Manrique",
+        "diseno": "Interseccion",
+        "dia_nombre": "JUEVES   ",
+        "mes": "01",
+        "mes_nombre": "ENERO     ",
+        "longitud": -75.55538621000001,
+        "latitud": 6.26434184,
+        "x_origen_nacional": 4717357.078,
+        "y_origen_nacional": 2250886.1746
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 364957,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57416676329383,
+          6.261085643711673
+        ]
+      },
+      "properties": {
+        "objectid": 364957,
+        "radicado": "1794278",
+        "fecha": 1655251200000,
+        "hora": "10:13:00",
+        "dia": "15",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 63 Con Calle 57 A",
+        "direccion_enc": "CR  063   057 A  000 00000",
+        "cbml": "701",
+        "tipo_geocod": "Malla vial aproximada: CR 63-58",
+        "gravedad": "MUERTO",
+        "barrio": "Universidad Nacional",
+        "comuna": "Robledo",
+        "diseno": "Tramo de via",
+        "dia_nombre": "MIÉRCOLES",
+        "mes": "06",
+        "mes_nombre": "JUNIO     ",
+        "longitud": -75.57416676,
+        "latitud": 6.26108564,
+        "x_origen_nacional": 4715276.6863,
+        "y_origen_nacional": 2250536.1711
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 365252,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56922931823348,
+          6.275771411187592
+        ]
+      },
+      "properties": {
+        "objectid": 365252,
+        "radicado": "1787354",
+        "fecha": 1650153600000,
+        "hora": "21:37:00",
+        "dia": "17",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Carrera 62 Con Calle 57",
+        "direccion_enc": "CR  062   057  000 00000",
+        "cbml": "405",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Moravia",
+        "comuna": "Aranjuez",
+        "diseno": "Tramo de via",
+        "dia_nombre": "DOMINGO  ",
+        "mes": "04",
+        "mes_nombre": "ABRIL     ",
+        "longitud": -75.56922931999999,
+        "latitud": 6.27577141,
+        "x_origen_nacional": 4715831.1258,
+        "y_origen_nacional": 2252157.8621
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 365540,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.552503044624,
+          6.24286532424543
+        ]
+      },
+      "properties": {
+        "objectid": 365540,
+        "radicado": "1795227",
+        "fecha": 1656115200000,
+        "hora": "19:50:00",
+        "dia": "25",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Calle 52 Con Carrera 31",
+        "direccion_enc": "CL  052   031  000 00000",
+        "cbml": "0809",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "Sucre",
+        "comuna": "Villa Hermosa",
+        "diseno": "Tramo de via",
+        "dia_nombre": "SÁBADO   ",
+        "mes": "06",
+        "mes_nombre": "JUNIO     ",
+        "longitud": -75.55250303999999,
+        "latitud": 6.24286532,
+        "x_origen_nacional": 4717664.6476,
+        "y_origen_nacional": 2248509.1723
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 365761,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.59534639412364,
+          6.27210210752984
+        ]
+      },
+      "properties": {
+        "objectid": 365761,
+        "radicado": "1785269",
+        "fecha": 1648771200000,
+        "hora": "20:13:00",
+        "dia": "01",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Calle 59 Con Carrera 80",
+        "direccion_enc": "CL  059   080  000 00000",
+        "cbml": "1301",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "San Germán",
+        "comuna": "Robledo",
+        "diseno": "Paso Elevado",
+        "dia_nombre": "VIERNES  ",
+        "mes": "04",
+        "mes_nombre": "ABRIL     ",
+        "longitud": -75.59534638999999,
+        "latitud": 6.27210211,
+        "x_origen_nacional": 4712938.5106,
+        "y_origen_nacional": 2251766.2494
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 367363,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6180676528444,
+          6.276985777580381
+        ]
+      },
+      "properties": {
+        "objectid": 367363,
+        "radicado": "1795226",
+        "fecha": 1656115200000,
+        "hora": "16:45:00",
+        "dia": "25",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Calle 63 Con Carrera 108 BB",
+        "direccion_enc": "CL  063   108 BB 000 00000",
+        "cbml": "6098",
+        "tipo_geocod": "Malla vial aproximada: CL 63-108A",
+        "gravedad": "MUERTO",
+        "barrio": "Área de Expansión Pajarito",
+        "comuna": "Corregimiento de San Cristóbal",
+        "diseno": "Tramo de via",
+        "dia_nombre": "SÁBADO   ",
+        "mes": "06",
+        "mes_nombre": "JUNIO     ",
+        "longitud": -75.61806765,
+        "latitud": 6.27698578,
+        "x_origen_nacional": 4710426.3849,
+        "y_origen_nacional": 2252318.953
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 367400,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.58015338882034,
+          6.231842926024375
+        ]
+      },
+      "properties": {
+        "objectid": 367400,
+        "radicado": "1795143",
+        "fecha": 1656028800000,
+        "hora": "00:38:00",
+        "dia": "24",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 54 Con Calle 31",
+        "direccion_enc": "CR  054   031  000 00000",
+        "cbml": "1502",
+        "tipo_geocod": "Malla vial aproximada: CR 55-30",
+        "gravedad": "MUERTO",
+        "barrio": "Tenche",
+        "comuna": "Guayabal",
+        "diseno": "Tramo de via",
+        "dia_nombre": "VIERNES  ",
+        "mes": "06",
+        "mes_nombre": "JUNIO     ",
+        "longitud": -75.58015339,
+        "latitud": 6.23184293,
+        "x_origen_nacional": 4714598.219,
+        "y_origen_nacional": 2247304.9111
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 368284,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57322566459786,
+          6.263057295754866
+        ]
+      },
+      "properties": {
+        "objectid": 368284,
+        "radicado": "1794053",
+        "fecha": 1655078400000,
+        "hora": "05:40:00",
+        "dia": "13",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 63 Con Calle 64",
+        "direccion_enc": "CR  063   064  000 00000",
+        "cbml": "701",
+        "tipo_geocod": "Malla vial aproximada: CR 63-63",
+        "gravedad": "MUERTO",
+        "barrio": "Universidad Nacional",
+        "comuna": "Robledo",
+        "diseno": "Tramo de via",
+        "dia_nombre": "LUNES    ",
+        "mes": "06",
+        "mes_nombre": "JUNIO     ",
+        "longitud": -75.57322566,
+        "latitud": 6.2630573,
+        "x_origen_nacional": 4715381.9172,
+        "y_origen_nacional": 2250753.7422
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 368944,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56181108716059,
+          6.263676263611128
+        ]
+      },
+      "properties": {
+        "objectid": 368944,
+        "radicado": "1779329",
+        "fecha": 1644451200000,
+        "hora": "06:30:00",
+        "dia": "10",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Calle 67 Con Carrera 50 B",
+        "direccion_enc": "CL  067   050 B  000 00000",
+        "cbml": "1001",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "San Pedro",
+        "comuna": "Aranjuez",
+        "diseno": "Tramo de via",
+        "dia_nombre": "JUEVES   ",
+        "mes": "02",
+        "mes_nombre": "FEBRERO   ",
+        "longitud": -75.56181109,
+        "latitud": 6.26367626,
+        "x_origen_nacional": 4716645.6186,
+        "y_origen_nacional": 2250816.0244
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 369229,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56524267340212,
+          6.224647202687463
+        ]
+      },
+      "properties": {
+        "objectid": 369229,
+        "radicado": "1793788",
+        "fecha": 1654819200000,
+        "hora": "04:31:00",
+        "dia": "10",
+        "periodo": "2022",
+        "clase": "Choque",
+        "direccion": "Carrera 38 Con Calle 26",
+        "direccion_enc": "CR  038   026  000 00000",
+        "cbml": "0914",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "San Diego",
+        "comuna": "La Candelaria",
+        "diseno": "Tramo de via",
+        "dia_nombre": "VIERNES  ",
+        "mes": "06",
+        "mes_nombre": "JUNIO     ",
+        "longitud": -75.56524267,
+        "latitud": 6.2246472,
+        "x_origen_nacional": 4716244.7755,
+        "y_origen_nacional": 2246500.9577
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 369394,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66665449069394,
+          6.197096948600804
+        ]
+      },
+      "properties": {
+        "objectid": 369394,
+        "radicado": "1785259",
+        "fecha": 1648771200000,
+        "hora": "23:30:00",
+        "dia": "01",
+        "periodo": "2022",
+        "clase": "Otro",
+        "direccion": "Calle 34  Sur Con Carrera 90",
+        "direccion_enc": "CL S 034   090  000 00000",
+        "cbml": "8004",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": null,
+        "comuna": null,
+        "diseno": "Tramo de via",
+        "dia_nombre": "VIERNES  ",
+        "mes": "04",
+        "mes_nombre": "ABRIL     ",
+        "longitud": -75.66665449,
+        "latitud": 6.19709695,
+        "x_origen_nacional": 4705003.8986,
+        "y_origen_nacional": 2243509.0538
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 369713,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.60701934779311,
+          6.277348122602324
+        ]
+      },
+      "properties": {
+        "objectid": 369713,
+        "radicado": "1788069",
+        "fecha": 1650672000000,
+        "hora": "06:10:00",
+        "dia": "23",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Calle 62 AA Con Carrera 96",
+        "direccion_enc": "CL  062 AA  096  000 00000",
+        "cbml": "0719",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": null,
+        "comuna": null,
+        "diseno": "Tramo de via",
+        "dia_nombre": "SÁBADO   ",
+        "mes": "04",
+        "mes_nombre": "ABRIL     ",
+        "longitud": -75.60701935,
+        "latitud": 6.27734812,
+        "x_origen_nacional": 4711649.4227,
+        "y_origen_nacional": 2252352.9319
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 369804,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56901056606678,
+          6.238652504064522
+        ]
+      },
+      "properties": {
+        "objectid": 369804,
+        "radicado": "1790656",
+        "fecha": 1652659200000,
+        "hora": "05:50:00",
+        "dia": "16",
+        "periodo": "2022",
+        "clase": "Atropello",
+        "direccion": "Carrera 44 A Con Calle 39",
+        "direccion_enc": "CR  044 A   039  000 00000",
+        "cbml": "1020",
+        "tipo_geocod": "Malla vial",
+        "gravedad": "MUERTO",
+        "barrio": "San Diego",
+        "comuna": "La Candelaria",
+        "diseno": "Lote o Predio",
+        "dia_nombre": "LUNES    ",
+        "mes": "05",
+        "mes_nombre": "MAYO      ",
+        "longitud": -75.56901057,
+        "latitud": 6.2386525,
+        "x_origen_nacional": 4715835.2589,
+        "y_origen_nacional": 2248052.0859
+      }
+    }
+  ]
+}

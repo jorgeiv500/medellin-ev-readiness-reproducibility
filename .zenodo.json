@@ -1,0 +1,19 @@
+{
+  "title": "Medellin Electric-Mobility Transition Readiness: Reproducibility Package",
+  "upload_type": "dataset",
+  "description": "Standalone reproducibility package for a public-data analysis of public EV charging readiness in Medellin and the Valle de Aburra, Colombia.",
+  "creators": [
+    {
+      "name": "Romero, Jorge Ivan"
+    }
+  ],
+  "keywords": [
+    "electric vehicle charging",
+    "urban planning",
+    "spatial justice",
+    "Medellin",
+    "Valle de Aburra",
+    "transport accessibility"
+  ],
+  "license": "MIT"
+}

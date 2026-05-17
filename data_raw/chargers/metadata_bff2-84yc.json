@@ -1,0 +1,564 @@
+{
+  "id": "bff2-84yc",
+  "name": "Uso de estaciones de carga pública de EPM para vehículos eléctricos (2019-2025)",
+  "assetType": "dataset",
+  "attribution": "Fundación Empresas Públicas de Medellín, Antioquia",
+  "averageRating": 0,
+  "category": "Función pública",
+  "createdAt": 1617887376,
+  "description": "Este conjunto de datos muestra la cantidad de recargas realizadas a vehículos eléctricos en las estaciones de carga pública de EPM, entre enero de 2019 y junio de 2025. La información está organizada por quincenas y presenta un total mensual para facilitar el seguimiento del uso de este servicio.\n\nEstos datos permiten conocer cómo ha evolucionado el uso de la infraestructura de carga pública y aportan insumos valiosos para entender la adopción de la movilidad eléctrica.\n\nEs importante tener en cuenta que en algunos meses pueden presentarse variaciones atípicas (altas o bajas) debido a ajustes operativos en los procesos de lectura y liquidación.",
+  "diciBackend": false,
+  "displayType": "table",
+  "downloadCount": 238,
+  "hideFromCatalog": false,
+  "hideFromDataJson": false,
+  "licenseId": "CC_40_BY_SA",
+  "locked": false,
+  "newBackend": true,
+  "numberOfComments": 0,
+  "oid": 36963859,
+  "provenance": "official",
+  "publicationAppendEnabled": false,
+  "publicationDate": 1617887669,
+  "publicationGroup": 18205776,
+  "publicationStage": "published",
+  "rowsUpdatedAt": 1756228631,
+  "rowsUpdatedBy": "2hkq-c8bw",
+  "tableId": 18205776,
+  "totalTimesRated": 0,
+  "viewCount": 2407,
+  "viewLastModified": 1778647898,
+  "viewType": "tabular",
+  "approvals": [
+    {
+      "reviewedAt": 1712185371,
+      "reviewedAutomatically": false,
+      "state": "approved",
+      "submissionId": 6245580,
+      "submissionObject": "public_audience_request",
+      "submissionOutcome": "change_audience",
+      "submittedAt": 1712010595,
+      "targetAudience": "public",
+      "workflowId": 2188,
+      "reviewer": {
+        "id": "vc9x-zjzh",
+        "displayName": "soporteccc"
+      },
+      "submissionDetails": {
+        "permissionType": "read"
+      },
+      "submissionOutcomeApplication": {
+        "endedAt": 1712185371,
+        "failureCount": 0,
+        "startedAt": 1712185371,
+        "status": "success"
+      },
+      "submitter": {
+        "id": "2hkq-c8bw",
+        "displayName": "EPM"
+      }
+    }
+  ],
+  "clientContext": {
+    "clientContextVariables": [],
+    "inheritedVariables": {}
+  },
+  "columns": [
+    {
+      "id": 535257341,
+      "name": "CONSUMO PRIMERA MITAD DEL MES",
+      "dataTypeName": "number",
+      "description": "CONSUMOS ENTRE EL 1 Y EL 15 DE CADA MES",
+      "fieldName": "consumos_entre_el_1_y_el",
+      "position": 1,
+      "renderTypeName": "number",
+      "tableColumnId": 135091741,
+      "cachedContents": {
+        "non_null": "78",
+        "largest": "106700",
+        "null": "0",
+        "top": [
+          {
+            "item": "440",
+            "count": "2"
+          },
+          {
+            "item": "2163",
+            "count": "1"
+          },
+          {
+            "item": "10858",
+            "count": "1"
+          },
+          {
+            "item": "4950",
+            "count": "1"
+          },
+          {
+            "item": "10215",
+            "count": "1"
+          },
+          {
+            "item": "5760",
+            "count": "1"
+          },
+          {
+            "item": "6280",
+            "count": "1"
+          },
+          {
+            "item": "14.380",
+            "count": "1"
+          },
+          {
+            "item": "6233",
+            "count": "1"
+          },
+          {
+            "item": "14020",
+            "count": "1"
+          },
+          {
+            "item": "16.780",
+            "count": "1"
+          },
+          {
+            "item": "3350",
+            "count": "1"
+          },
+          {
+            "item": "25.426",
+            "count": "1"
+          },
+          {
+            "item": "11960",
+            "count": "1"
+          },
+          {
+            "item": "12.820",
+            "count": "1"
+          },
+          {
+            "item": "4644",
+            "count": "1"
+          },
+          {
+            "item": "3610",
+            "count": "1"
+          },
+          {
+            "item": "5620",
+            "count": "1"
+          },
+          {
+            "item": "8080",
+            "count": "1"
+          },
+          {
+            "item": "14883",
+            "count": "1"
+          }
+        ],
+        "smallest": "-203350",
+        "count": "78",
+        "cardinality": "78"
+      },
+      "format": {}
+    },
+    {
+      "id": 535257342,
+      "name": "CONSUMO SEGUNDA MITAD DEL MES",
+      "dataTypeName": "number",
+      "description": "CONSUMOS ENTRE EL 16 Y EL 30/31 DE CADA MES",
+      "fieldName": "consumos_entre_el_16_y_el",
+      "position": 2,
+      "renderTypeName": "number",
+      "tableColumnId": 135091742,
+      "cachedContents": {
+        "non_null": "78",
+        "largest": "213663",
+        "null": "0",
+        "top": [
+          {
+            "item": "151050",
+            "count": "1"
+          },
+          {
+            "item": "47.993",
+            "count": "1"
+          },
+          {
+            "item": "42505",
+            "count": "1"
+          },
+          {
+            "item": "465",
+            "count": "1"
+          },
+          {
+            "item": "16744",
+            "count": "1"
+          },
+          {
+            "item": "12390",
+            "count": "1"
+          },
+          {
+            "item": "10557",
+            "count": "1"
+          },
+          {
+            "item": "17941",
+            "count": "1"
+          },
+          {
+            "item": "8396",
+            "count": "1"
+          },
+          {
+            "item": "19229",
+            "count": "1"
+          },
+          {
+            "item": "8947",
+            "count": "1"
+          },
+          {
+            "item": "13495",
+            "count": "1"
+          },
+          {
+            "item": "8730",
+            "count": "1"
+          },
+          {
+            "item": "13340",
+            "count": "1"
+          },
+          {
+            "item": "11299",
+            "count": "1"
+          },
+          {
+            "item": "8543",
+            "count": "1"
+          },
+          {
+            "item": "6780",
+            "count": "1"
+          },
+          {
+            "item": "7607",
+            "count": "1"
+          },
+          {
+            "item": "5976",
+            "count": "1"
+          },
+          {
+            "item": "6087",
+            "count": "1"
+          }
+        ],
+        "smallest": "0",
+        "count": "78",
+        "cardinality": "78"
+      },
+      "format": {}
+    },
+    {
+      "id": 535257343,
+      "name": "TOTAL DE CONSUMO",
+      "dataTypeName": "number",
+      "description": "CONSUMO TOTAL",
+      "fieldName": "total",
+      "position": 3,
+      "renderTypeName": "number",
+      "tableColumnId": 135091743,
+      "cachedContents": {
+        "non_null": "78",
+        "largest": "216123",
+        "null": "0",
+        "top": [
+          {
+            "item": "12837",
+            "count": "1"
+          },
+          {
+            "item": "26564",
+            "count": "1"
+          },
+          {
+            "item": "8660",
+            "count": "1"
+          },
+          {
+            "item": "59.756",
+            "count": "1"
+          },
+          {
+            "item": "28031",
+            "count": "1"
+          },
+          {
+            "item": "22742",
+            "count": "1"
+          },
+          {
+            "item": "8886",
+            "count": "1"
+          },
+          {
+            "item": "9467",
+            "count": "1"
+          },
+          {
+            "item": "65.287",
+            "count": "1"
+          },
+          {
+            "item": "25219",
+            "count": "1"
+          },
+          {
+            "item": "69184",
+            "count": "1"
+          },
+          {
+            "item": "36504",
+            "count": "1"
+          },
+          {
+            "item": "27222",
+            "count": "1"
+          },
+          {
+            "item": "11241",
+            "count": "1"
+          },
+          {
+            "item": "28152",
+            "count": "1"
+          },
+          {
+            "item": "15919",
+            "count": "1"
+          },
+          {
+            "item": "152330",
+            "count": "1"
+          },
+          {
+            "item": "10263",
+            "count": "1"
+          },
+          {
+            "item": "14775",
+            "count": "1"
+          },
+          {
+            "item": "45964",
+            "count": "1"
+          }
+        ],
+        "smallest": "-195525",
+        "count": "78",
+        "cardinality": "78"
+      },
+      "format": {}
+    },
+    {
+      "id": 535257344,
+      "name": "MES",
+      "dataTypeName": "text",
+      "description": "MES DE CONUSMO",
+      "fieldName": "mes",
+      "position": 4,
+      "renderTypeName": "text",
+      "tableColumnId": 135091744,
+      "cachedContents": {
+        "non_null": "78",
+        "largest": "Septiembre",
+        "null": "0",
+        "top": [
+          {
+            "item": "Marzo",
+            "count": "7"
+          },
+          {
+            "item": "Abril",
+            "count": "7"
+          },
+          {
+            "item": "Febrero",
+            "count": "7"
+          },
+          {
+            "item": "Junio",
+            "count": "7"
+          },
+          {
+            "item": "Mayo",
+            "count": "7"
+          },
+          {
+            "item": "Enero",
+            "count": "7"
+          },
+          {
+            "item": "Diciembre",
+            "count": "6"
+          },
+          {
+            "item": "Julio",
+            "count": "6"
+          },
+          {
+            "item": "Octubre",
+            "count": "6"
+          },
+          {
+            "item": "Septiembre",
+            "count": "6"
+          },
+          {
+            "item": "Noviembre",
+            "count": "6"
+          },
+          {
+            "item": "Agosto",
+            "count": "6"
+          }
+        ],
+        "smallest": "Abril",
+        "count": "78",
+        "cardinality": "78"
+      },
+      "format": {}
+    },
+    {
+      "id": 535257345,
+      "name": "AÑO",
+      "dataTypeName": "number",
+      "description": "AÑO DE CONSUMO",
+      "fieldName": "a_o",
+      "position": 5,
+      "renderTypeName": "number",
+      "tableColumnId": 135091745,
+      "cachedContents": {
+        "non_null": "78",
+        "largest": "2025",
+        "null": "0",
+        "top": [
+          {
+            "item": "2019",
+            "count": "12"
+          },
+          {
+            "item": "2021",
+            "count": "12"
+          },
+          {
+            "item": "2022",
+            "count": "12"
+          },
+          {
+            "item": "2024",
+            "count": "12"
+          },
+          {
+            "item": "2023",
+            "count": "12"
+          },
+          {
+            "item": "2020",
+            "count": "12"
+          },
+          {
+            "item": "2025",
+            "count": "6"
+          }
+        ],
+        "smallest": "2019",
+        "count": "78",
+        "cardinality": "78"
+      },
+      "format": {}
+    }
+  ],
+  "grants": [
+    {
+      "inherited": false,
+      "type": "viewer",
+      "flags": [
+        "public"
+      ]
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution | Share Alike 4.0 International",
+    "logoUrl": "images/licenses/cc30bysa.png",
+    "termsLink": "http://creativecommons.org/licenses/by-sa/4.0/legalcode"
+  },
+  "metadata": {
+    "custom_fields": {
+      "Información de la Entidad": {
+        "Municipio": "Medellín",
+        "Nombre de la Entidad": "Fundación Empresas Públicas de Medellín, Antioquia",
+        "DIVIPOLA Municipio": "5001",
+        "Orden": "Territorial",
+        "Sector": "Educación",
+        "Departamento": "Antioquia"
+      },
+      "Información de Datos": {
+        "Cobertura Geográfica": "Municipal",
+        "Idioma": "Español"
+      }
+    }
+  },
+  "owner": {
+    "id": "2hkq-c8bw",
+    "displayName": "EPM",
+    "profileImageUrlLarge": "/api/users/2hkq-c8bw/profile_images/LARGE",
+    "profileImageUrlMedium": "/api/users/2hkq-c8bw/profile_images/THUMB",
+    "profileImageUrlSmall": "/api/users/2hkq-c8bw/profile_images/TINY",
+    "screenName": "EPM",
+    "type": "interactive",
+    "flags": [
+      "acceptedEula",
+      "mayBeStoriesCoOwner"
+    ]
+  },
+  "query": {},
+  "rights": [
+    "read"
+  ],
+  "tableAuthor": {
+    "id": "2hkq-c8bw",
+    "displayName": "EPM",
+    "profileImageUrlLarge": "/api/users/2hkq-c8bw/profile_images/LARGE",
+    "profileImageUrlMedium": "/api/users/2hkq-c8bw/profile_images/THUMB",
+    "profileImageUrlSmall": "/api/users/2hkq-c8bw/profile_images/TINY",
+    "screenName": "EPM",
+    "type": "interactive",
+    "flags": [
+      "acceptedEula",
+      "mayBeStoriesCoOwner"
+    ]
+  },
+  "tags": [
+    "movilidad",
+    "vehiculos",
+    "estaciones",
+    "recarga",
+    "consumos",
+    "movilidad eléctrica",
+    "epm"
+  ],
+  "flags": [
+    "default",
+    "ownerMayBeContacted",
+    "restorable",
+    "restorePossibleForType"
+  ]
+}

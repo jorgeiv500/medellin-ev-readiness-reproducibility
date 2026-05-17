@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility package, please cite it using the metadata below."
+title: "Medellin Electric-Mobility Transition Readiness: Reproducibility Package"
+version: "1.0.0"
+date-released: "2026-05-17"
+authors:
+  - family-names: "Romero"
+    given-names: "Jorge Ivan"
+keywords:
+  - "electric vehicle charging"
+  - "urban planning"
+  - "spatial justice"
+  - "Medellin"
+  - "Valle de Aburra"
+  - "transport accessibility"
+license: "MIT"
+repository-code: "https://github.com/jorgeiv500/medellin-ev-readiness-reproducibility"
+preferred-citation:
+  type: dataset
+  title: "Medellin Electric-Mobility Transition Readiness: Reproducibility Package"
+  authors:
+    - family-names: "Romero"
+      given-names: "Jorge Ivan"
+  year: 2026

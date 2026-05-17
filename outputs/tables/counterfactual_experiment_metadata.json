@@ -1,0 +1,33 @@
+{
+  "budget": 20,
+  "decay_min": 12.0,
+  "gain_scale": 0.18,
+  "scenarios": {
+    "coverage_first": {
+      "label": "Coverage-first",
+      "alpha": 0.82,
+      "quality_weight": 0.18
+    },
+    "market_ready": {
+      "label": "Market-ready",
+      "alpha": 0.36,
+      "quality_weight": 0.64
+    },
+    "mobility_hub": {
+      "label": "Mobility-hub",
+      "alpha": 0.45,
+      "quality_weight": 0.55
+    },
+    "equity_transition": {
+      "label": "Equity-transition",
+      "alpha": 0.84,
+      "quality_weight": 0.16
+    },
+    "balanced_governance": {
+      "label": "Balanced-governance",
+      "alpha": 0.66,
+      "quality_weight": 0.34
+    }
+  },
+  "interpretation": "Greedy territorial counterfactual for Cities narrative; not a deployment-ready optimization."
+}

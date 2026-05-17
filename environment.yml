@@ -1,0 +1,33 @@
+name: medellin-aaca
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - geopandas
+  - pandas
+  - numpy
+  - scipy
+  - shapely
+  - pyogrio
+  - fiona
+  - pyproj
+  - rasterio
+  - osmnx
+  - networkx
+  - h3-py
+  - libpysal
+  - esda
+  - spopt
+  - mapclassify
+  - matplotlib
+  - seaborn
+  - contextily
+  - folium
+  - jupyterlab
+  - pyyaml
+  - tqdm
+  - pytest
+  - pip
+  - pip:
+      - highspy
+

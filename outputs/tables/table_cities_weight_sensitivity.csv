@@ -1,0 +1,9 @@
+specification,M,H,V,T,disadvantage_gini,top10_jaccard,reading
+Base,0.4,0.25,0.25,0.1,0.4142189010989128,1.0,Manuscript transition-pressure screen
+Equal weights,0.25,0.25,0.25,0.25,0.41246572639449686,0.6666666666666666,No component receives priority
+Mobility-heavy,0.5,0.2,0.2,0.1,0.4202579782753486,0.8181818181818182,Private motorized exposure emphasized
+Home-heavy,0.3,0.4,0.2,0.1,0.39809815842801677,0.8181818181818182,Residential charging constraint emphasized
+Vulnerability-heavy,0.3,0.2,0.4,0.1,0.4388593575515436,0.6666666666666666,Social vulnerability emphasized once
+Topography-heavy,0.3,0.2,0.2,0.3,0.41557955915366596,0.6666666666666666,Slope/elevation burden emphasized
+No vulnerability,0.55,0.3,0.0,0.15,0.3867748014783874,0.5384615384615384,Social vulnerability removed
+No topography,0.45,0.25,0.3,0.0,0.4263877087958883,0.6666666666666666,Slope/elevation burden removed

@@ -1,0 +1,12 @@
+\begin{tabular}{p{0.12\textwidth}p{0.18\textwidth}p{0.09\textwidth}p{0.22\textwidth}p{0.16\textwidth}p{0.14\textwidth}}
+\toprule
+Indicator & Source & Unit & Transformation & Role & Sensitivity \\
+\midrule
+$A_i$ public charging access & CargaME, EPM, OSM, OSMnx drive network, SITVA/GTFS and centralities & OD/SIT zone & Source-weighted exponential decay using 12-minute network travel time and activity anchoring & Baseline access term & Decay, source-strength and activity-anchor checks \\
+$M_i$ mobility pressure & AMVA EOD household/trip evidence aggregated by municipality & OD/SIT zone via municipality & Min--max normalized private motorized exposure & Transition-pressure component, weight 0.40 & Weight sensitivity and no-vulnerability/no-topography checks \\
+$H_i$ home-charging constraint & EOD household/parking proxy by municipality & OD/SIT zone via municipality & Min--max normalized residential charging constraint & Transition-pressure component, weight 0.25 & No-home-constraint and home-heavy checks \\
+$V_i$ social vulnerability & Medellin ECV poverty indicators joined to OD/SIT representative points & OD/SIT zone & Min--max normalized poverty screen & Transition-pressure component, weight 0.25; not reused as a multiplier & No-vulnerability and vulnerability-heavy checks \\
+$T_i$ topographic burden & SRTM elevation and slope over OD/SIT zones & OD/SIT zone & Min--max normalized slope/elevation burden & Transition-pressure component, weight 0.10 & No-topography and topography-heavy checks \\
+$D_i$ readiness trap & Constructed from transition pressure and public-charging access & OD/SIT zone & $D_i=N_i(1-\widetilde{A}_i)$, normalized within the study area & Baseline comparison surface & Weight sensitivity, access ablations and scenario residual comparison \\
+\bottomrule
+\end{tabular}

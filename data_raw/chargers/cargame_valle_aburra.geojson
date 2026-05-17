@@ -1,0 +1,4116 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57732830611691,
+          6.2713032911172295
+        ]
+      },
+      "properties": {
+        "Id": "E508433E-F36B-1410-83CF-008C0C1C7C12",
+        "Operador": {
+          "Id": 21,
+          "Nombreempresa": "EMPRESAS PÚBLICAS DE MEDELLIN E.S.P.",
+          "Sitio": "https://www.epm.com.co"
+        },
+        "Nombre": "Centro Comercial Florida",
+        "Direccion": "Cra. 71 Nro. 65 – 150. ",
+        "Departamento": {
+          "Id": 5,
+          "NombreDepartamento": "ANTIOQUIA"
+        },
+        "Municipio": {
+          "Id": 5001,
+          "NombreMunicipio": "MEDELLIN"
+        },
+        "Ubicacion": {
+          "Id": 69,
+          "Nombre": "Centro comercial"
+        },
+        "Tipoestacion": {
+          "Nivelcarga": "0",
+          "Puntoscarga": "2",
+          "Acceso": "Debe ser cliente de la oferta de carga pública de EPM"
+        },
+        "Parqueadero": {
+          "Parqueo": "NO",
+          "Tarifa": "",
+          "Valor": ""
+        },
+        "Horario": {
+          "Diainicia": "Lunes",
+          "Diacierre": "Domingo",
+          "Horainicia": "09:00",
+          "Horacierre": "21:00",
+          "Diainicia2": "",
+          "Diacierre2": "",
+          "Horainicia2": "",
+          "Horacierre2": "",
+          "Diainicia3": "",
+          "Diacierre3": "",
+          "Horainicia3": "",
+          "Horacierre3": ""
+        },
+        "Altitud": "0",
+        "PuntoWkb": {
+          "srid": 4326,
+          "version": 1,
+          "points": [
+            {
+              "x": 6.2713032911172295,
+              "y": -75.57732830611691,
+              "z": null,
+              "m": null
+            }
+          ],
+          "figures": [
+            {
+              "attribute": 1,
+              "pointOffset": 0
+            }
+          ],
+          "shapes": [
+            {
+              "parentOffset": -1,
+              "figureOffset": 0,
+              "type": 1
+            }
+          ],
+          "segments": []
+        },
+        "Fechacreacion": "2022-08-03",
+        "Estado": {
+          "Id": 1,
+          "NombreEstado": "Activo"
+        },
+        "Observacion": "Ingreso por la entrada Parqueaderos Por Transversal 73\\r\\n",
+        "Files": {
+          "File_foto": {
+            "name": "Imagen estacion Florida.png",
+            "mimetype": "image/png",
+            "type": ".png",
+            "size": 212880,
+            "folder": "estacion/filefoto",
+            "rename": "E508433E-F36B-1410-83CF-008C0C1C7C12.png"
+          },
+          "File_cumplimiento": {
+            "name": "DECLARACION_DE_CUMPLIMIENTO_ESTACIONES_DE_CARGA.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 275507,
+            "folder": "estacion/filecumplimiento"
+          },
+          "File_conformidad": {
+            "name": "Cargador Publico Lento-Español.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 557856,
+            "folder": "estacion/fileconformidad",
+            "rename": "E508433E-F36B-1410-83CF-008C0C1C7C12.pdf"
+          }
+        },
+        "Acceso": "Debe ser cliente de la oferta de carga pública de EPM",
+        "Puntoscarga": 2,
+        "Conectores": {
+          "Tipo 1 - SAE J1772": 2,
+          "Schuko": 4,
+          "Tipo 2 - IEC 62196": 2
+        },
+        "PotenciaMax": 22,
+        "Cobros": {
+          "kWh consumidos": 4
+        },
+        "Precios": {
+          "Min": 948,
+          "Max": 948
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.60496102150621,
+          6.232060080212314
+        ]
+      },
+      "properties": {
+        "Id": "EE08433E-F36B-1410-83CF-008C0C1C7C12",
+        "Operador": {
+          "Id": 21,
+          "Nombreempresa": "EMPRESAS PÚBLICAS DE MEDELLIN E.S.P.",
+          "Sitio": "https://www.epm.com.co"
+        },
+        "Nombre": "Centro Comercial Los Molinos",
+        "Direccion": "Calle 30a Nro. 82 A-26",
+        "Departamento": {
+          "Id": 5,
+          "NombreDepartamento": "ANTIOQUIA"
+        },
+        "Municipio": {
+          "Id": 5001,
+          "NombreMunicipio": "MEDELLIN"
+        },
+        "Ubicacion": {
+          "Id": 69,
+          "Nombre": "Centro comercial"
+        },
+        "Tipoestacion": {
+          "Nivelcarga": "0",
+          "Puntoscarga": "2",
+          "Acceso": "Debe ser cliente de la oferta de carga publica de EPM "
+        },
+        "Parqueadero": {
+          "Parqueo": "SI",
+          "Tarifa": "",
+          "Valor": ""
+        },
+        "Horario": {
+          "Diainicia": "Lunes",
+          "Diacierre": "Domingo",
+          "Horainicia": "09:00",
+          "Horacierre": "21:00",
+          "Diainicia2": "",
+          "Diacierre2": "",
+          "Horainicia2": "",
+          "Horacierre2": "",
+          "Diainicia3": "",
+          "Diacierre3": "",
+          "Horainicia3": "",
+          "Horacierre3": ""
+        },
+        "Altitud": "0",
+        "PuntoWkb": {
+          "srid": 4326,
+          "version": 1,
+          "points": [
+            {
+              "x": 6.232060080212314,
+              "y": -75.60496102150621,
+              "z": null,
+              "m": null
+            }
+          ],
+          "figures": [
+            {
+              "attribute": 1,
+              "pointOffset": 0
+            }
+          ],
+          "shapes": [
+            {
+              "parentOffset": -1,
+              "figureOffset": 0,
+              "type": 1
+            }
+          ],
+          "segments": []
+        },
+        "Fechacreacion": "2022-08-03",
+        "Estado": {
+          "Id": 1,
+          "NombreEstado": "Activo"
+        },
+        "Observacion": "El ingreso por Calle 30A Primer piso parqueaderos\\r\\n",
+        "Files": {
+          "File_foto": {
+            "name": "Imagen estacion Los Molinos.png",
+            "mimetype": "image/png",
+            "type": ".png",
+            "size": 137741,
+            "folder": "estacion/filefoto",
+            "rename": "EE08433E-F36B-1410-83CF-008C0C1C7C12.png"
+          },
+          "File_cumplimiento": {
+            "name": "DECLARACION_DE_CUMPLIMIENTO_ESTACIONES_DE_CARGA.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 275507,
+            "folder": "estacion/filecumplimiento"
+          },
+          "File_conformidad": {
+            "name": "Cargador Publico Lento-Español.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 557856,
+            "folder": "estacion/fileconformidad",
+            "rename": "EE08433E-F36B-1410-83CF-008C0C1C7C12.pdf"
+          }
+        },
+        "Acceso": "Debe ser cliente de la oferta de carga publica de EPM ",
+        "Puntoscarga": 2,
+        "Conectores": {
+          "Schuko": 4,
+          "Tipo 2 - IEC 62196": 2,
+          "Tipo 1 - SAE J1772": 2
+        },
+        "PotenciaMax": 22,
+        "Cobros": {
+          "kWh consumidos": 4
+        },
+        "Precios": {
+          "Min": 948,
+          "Max": 948
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.60923183578677,
+          6.15650379250727
+        ]
+      },
+      "properties": {
+        "Id": "8E08433E-F36B-1410-83CF-008C0C1C7C12",
+        "Operador": {
+          "Id": 21,
+          "Nombreempresa": "EMPRESAS PÚBLICAS DE MEDELLIN E.S.P.",
+          "Sitio": "https://www.epm.com.co"
+        },
+        "Nombre": "Centro Comercial Mayorca ",
+        "Direccion": "Cl. 51 Sur Nro.48-57. Segundo Nivel parqueaderos entrada Cr 44",
+        "Departamento": {
+          "Id": 5,
+          "NombreDepartamento": "ANTIOQUIA"
+        },
+        "Municipio": {
+          "Id": 5001,
+          "NombreMunicipio": "MEDELLIN"
+        },
+        "Ubicacion": {
+          "Id": 69,
+          "Nombre": "Centro comercial"
+        },
+        "Tipoestacion": {
+          "Nivelcarga": "0",
+          "Puntoscarga": "2",
+          "Acceso": "Debe ser cliente de la oferta de movilidad de EPM"
+        },
+        "Parqueadero": {
+          "Parqueo": "NO",
+          "Tarifa": "",
+          "Valor": ""
+        },
+        "Horario": {
+          "Diainicia": "Lunes",
+          "Diacierre": "Domingo",
+          "Horainicia": "09:00",
+          "Horacierre": "21:00",
+          "Diainicia2": "",
+          "Diacierre2": "",
+          "Horainicia2": "",
+          "Horacierre2": "",
+          "Diainicia3": "",
+          "Diacierre3": "",
+          "Horainicia3": "",
+          "Horacierre3": ""
+        },
+        "Altitud": "0",
+        "PuntoWkb": {
+          "srid": 4326,
+          "version": 1,
+          "points": [
+            {
+              "x": 6.15650379250727,
+              "y": -75.60923183578677,
+              "z": null,
+              "m": null
+            }
+          ],
+          "figures": [
+            {
+              "attribute": 1,
+              "pointOffset": 0
+            }
+          ],
+          "shapes": [
+            {
+              "parentOffset": -1,
+              "figureOffset": 0,
+              "type": 1
+            }
+          ],
+          "segments": []
+        },
+        "Fechacreacion": "2022-08-02",
+        "Estado": {
+          "Id": 1,
+          "NombreEstado": "Activo"
+        },
+        "Observacion": "el ingreso segundo Nivel parqueaderos entrada Cr 44. Debe ser cliente de la oferta de movilidad de EPM",
+        "Files": {
+          "File_foto": {
+            "name": "Imagen Ecoestacion Mayorca.png",
+            "mimetype": "image/png",
+            "type": ".png",
+            "size": 272742,
+            "folder": "estacion/filefoto",
+            "rename": "8E08433E-F36B-1410-83CF-008C0C1C7C12.png"
+          },
+          "File_cumplimiento": {
+            "name": "DECLARACION_DE_CUMPLIMIENTO_ESTACIONES_DE_CARGA.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 275507,
+            "folder": "estacion/filecumplimiento"
+          },
+          "File_conformidad": {
+            "name": "Cargador Publico Lento-Español.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 557856,
+            "folder": "estacion/fileconformidad",
+            "rename": "8E08433E-F36B-1410-83CF-008C0C1C7C12.pdf"
+          }
+        },
+        "Acceso": "Debe ser cliente de la oferta de movilidad de EPM",
+        "Puntoscarga": 2,
+        "Conectores": {
+          "Tipo 1 - SAE J1772": 2,
+          "Schuko": 4,
+          "Tipo 2 - IEC 62196": 2
+        },
+        "PotenciaMax": 22,
+        "Cobros": {
+          "kWh consumidos": 4
+        },
+        "Precios": {
+          "Min": 948,
+          "Max": 948
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.44210977283757,
+          6.179508480327888
+        ]
+      },
+      "properties": {
+        "Id": "0009433E-F36B-1410-83CF-008C0C1C7C12",
+        "Operador": {
+          "Id": 21,
+          "Nombreempresa": "EMPRESAS PÚBLICAS DE MEDELLIN E.S.P.",
+          "Sitio": "https://www.epm.com.co"
+        },
+        "Nombre": "EDS Aeropuerto Jose Maria Cordoba",
+        "Direccion": "Km 1 Glorieta Aeropuerto José María Córdova, Rionegro vía a Santa Elena ",
+        "Departamento": {
+          "Id": 5,
+          "NombreDepartamento": "ANTIOQUIA"
+        },
+        "Municipio": {
+          "Id": 5001,
+          "NombreMunicipio": "MEDELLIN"
+        },
+        "Ubicacion": {
+          "Id": 71,
+          "Nombre": "Estación de Servicio"
+        },
+        "Tipoestacion": {
+          "Nivelcarga": "0",
+          "Puntoscarga": "1",
+          "Acceso": "Debe ser cliente de la oferta de carga pública de EPM"
+        },
+        "Parqueadero": {
+          "Parqueo": "NO",
+          "Tarifa": "",
+          "Valor": ""
+        },
+        "Horario": {
+          "Diainicia": "Lunes",
+          "Diacierre": "Domingo",
+          "Horainicia": "00:00",
+          "Horacierre": "24:00",
+          "Diainicia2": "",
+          "Diacierre2": "",
+          "Horainicia2": "",
+          "Horacierre2": "",
+          "Diainicia3": "",
+          "Diacierre3": "",
+          "Horainicia3": "",
+          "Horacierre3": ""
+        },
+        "Altitud": "0",
+        "PuntoWkb": {
+          "srid": 4326,
+          "version": 1,
+          "points": [
+            {
+              "x": 6.179508480327888,
+              "y": -75.44210977283757,
+              "z": null,
+              "m": null
+            }
+          ],
+          "figures": [
+            {
+              "attribute": 1,
+              "pointOffset": 0
+            }
+          ],
+          "shapes": [
+            {
+              "parentOffset": -1,
+              "figureOffset": 0,
+              "type": 1
+            }
+          ],
+          "segments": []
+        },
+        "Fechacreacion": "2022-08-03",
+        "Estado": {
+          "Id": 1,
+          "NombreEstado": "Activo"
+        },
+        "Observacion": "",
+        "Files": {
+          "File_foto": {
+            "name": "Imagen estacion Rionegro.png",
+            "mimetype": "image/png",
+            "type": ".png",
+            "size": 99975,
+            "folder": "estacion/filefoto",
+            "rename": "0009433E-F36B-1410-83CF-008C0C1C7C12.png"
+          },
+          "File_cumplimiento": {
+            "name": "DECLARACION_DE_CUMPLIMIENTO_ESTACIONES_DE_CARGA.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 275507,
+            "folder": "estacion/filecumplimiento"
+          },
+          "File_conformidad": {
+            "name": "Estacion Carga Rapida ABB-Español.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 384421,
+            "folder": "estacion/fileconformidad",
+            "rename": "0009433E-F36B-1410-83CF-008C0C1C7C12.pdf"
+          }
+        },
+        "Acceso": "Debe ser cliente de la oferta de carga pública de EPM",
+        "Puntoscarga": 1,
+        "Conectores": {
+          "CCS Combo 1": 1,
+          "CHAdeMO": 1
+        },
+        "PotenciaMax": 50,
+        "Cobros": {
+          "kWh consumidos": 2
+        },
+        "Precios": {
+          "Min": 1233,
+          "Max": 1233
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.58804353583366,
+          6.1788436016325425
+        ]
+      },
+      "properties": {
+        "Id": "E708433E-F36B-1410-83CF-008C0C1C7C12",
+        "Operador": {
+          "Id": 21,
+          "Nombreempresa": "EMPRESAS PÚBLICAS DE MEDELLIN E.S.P.",
+          "Sitio": "https://www.epm.com.co"
+        },
+        "Nombre": "EDS Avenida Las vegas",
+        "Direccion": "Carrera 48 Nro. 30 S - 48 ",
+        "Departamento": {
+          "Id": 5,
+          "NombreDepartamento": "ANTIOQUIA"
+        },
+        "Municipio": {
+          "Id": 5001,
+          "NombreMunicipio": "MEDELLIN"
+        },
+        "Ubicacion": {
+          "Id": 71,
+          "Nombre": "Estación de Servicio"
+        },
+        "Tipoestacion": {
+          "Nivelcarga": "0",
+          "Puntoscarga": "1",
+          "Acceso": "Debe estar inscrito en la oferta de carga publica de EPM "
+        },
+        "Parqueadero": {
+          "Parqueo": "NO",
+          "Tarifa": "",
+          "Valor": ""
+        },
+        "Horario": {
+          "Diainicia": "Lunes",
+          "Diacierre": "Domingo",
+          "Horainicia": "00:00",
+          "Horacierre": "24:00",
+          "Diainicia2": "",
+          "Diacierre2": "",
+          "Horainicia2": "",
+          "Horacierre2": "",
+          "Diainicia3": "",
+          "Diacierre3": "",
+          "Horainicia3": "",
+          "Horacierre3": ""
+        },
+        "Altitud": "0",
+        "PuntoWkb": {
+          "srid": 4326,
+          "version": 1,
+          "points": [
+            {
+              "x": 6.1788436016325425,
+              "y": -75.58804353583366,
+              "z": null,
+              "m": null
+            }
+          ],
+          "figures": [
+            {
+              "attribute": 1,
+              "pointOffset": 0
+            }
+          ],
+          "shapes": [
+            {
+              "parentOffset": -1,
+              "figureOffset": 0,
+              "type": 1
+            }
+          ],
+          "segments": []
+        },
+        "Fechacreacion": "2022-08-03",
+        "Estado": {
+          "Id": 1,
+          "NombreEstado": "Activo"
+        },
+        "Observacion": "Estación de Servicio Texaco Esquina entre Cr 48 con Cll 30 Sur\\r\\n",
+        "Files": {
+          "File_foto": {
+            "name": "Imagen estacion Las vegas.png",
+            "mimetype": "image/png",
+            "type": ".png",
+            "size": 169414,
+            "folder": "estacion/filefoto",
+            "rename": "E708433E-F36B-1410-83CF-008C0C1C7C12.png"
+          },
+          "File_cumplimiento": {
+            "name": "DECLARACION_DE_CUMPLIMIENTO_ESTACIONES_DE_CARGA.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 275507,
+            "folder": "estacion/filecumplimiento"
+          },
+          "File_conformidad": {
+            "name": "Estacion Carga Rapida EFACEC.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 689799,
+            "folder": "estacion/fileconformidad",
+            "rename": "E708433E-F36B-1410-83CF-008C0C1C7C12.pdf"
+          }
+        },
+        "Acceso": "Debe estar inscrito en la oferta de carga publica de EPM ",
+        "Puntoscarga": 1,
+        "Conectores": {
+          "CCS Combo 1": 1,
+          "CHAdeMO": 1,
+          "Tipo 2 - IEC 62196": 1
+        },
+        "PotenciaMax": 50,
+        "Cobros": {
+          "kWh consumidos": 3
+        },
+        "Precios": {
+          "Min": 1233,
+          "Max": 1233
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57566541522739,
+          6.237816271520947
+        ]
+      },
+      "properties": {
+        "Id": "BD08433E-F36B-1410-83CF-008C0C1C7C12",
+        "Operador": {
+          "Id": 21,
+          "Nombreempresa": "EMPRESAS PÚBLICAS DE MEDELLIN E.S.P.",
+          "Sitio": "https://www.epm.com.co"
+        },
+        "Nombre": "EDS Colibrí - Exposiciones ",
+        "Direccion": "Calle 36 Nro 54 - 55 Glorieta Exposiciones",
+        "Departamento": {
+          "Id": 5,
+          "NombreDepartamento": "ANTIOQUIA"
+        },
+        "Municipio": {
+          "Id": 5001,
+          "NombreMunicipio": "MEDELLIN"
+        },
+        "Ubicacion": {
+          "Id": 71,
+          "Nombre": "Estación de Servicio"
+        },
+        "Tipoestacion": {
+          "Nivelcarga": "0",
+          "Puntoscarga": "1",
+          "Acceso": "Debe estar inscrito en la oferta de movilidad de EPM "
+        },
+        "Parqueadero": {
+          "Parqueo": "NO",
+          "Tarifa": "",
+          "Valor": ""
+        },
+        "Horario": {
+          "Diainicia": "Lunes",
+          "Diacierre": "Domingo",
+          "Horainicia": "00:00",
+          "Horacierre": "24:00",
+          "Diainicia2": "",
+          "Diacierre2": "",
+          "Horainicia2": "",
+          "Horacierre2": "",
+          "Diainicia3": "",
+          "Diacierre3": "",
+          "Horainicia3": "",
+          "Horacierre3": ""
+        },
+        "Altitud": "0",
+        "PuntoWkb": {
+          "srid": 4326,
+          "version": 1,
+          "points": [
+            {
+              "x": 6.237816271520947,
+              "y": -75.57566541522739,
+              "z": null,
+              "m": null
+            }
+          ],
+          "figures": [
+            {
+              "attribute": 1,
+              "pointOffset": 0
+            }
+          ],
+          "shapes": [
+            {
+              "parentOffset": -1,
+              "figureOffset": 0,
+              "type": 1
+            }
+          ],
+          "segments": []
+        },
+        "Fechacreacion": "2022-08-02",
+        "Estado": {
+          "Id": 1,
+          "NombreEstado": "Activo"
+        },
+        "Observacion": "Debe estar inscrito en la oferta de carga pública de EPM ",
+        "Files": {
+          "File_foto": {
+            "name": "Imagen estacion Colibri.png",
+            "mimetype": "image/png",
+            "type": ".png",
+            "size": 199570,
+            "folder": "estacion/filefoto",
+            "rename": "BD08433E-F36B-1410-83CF-008C0C1C7C12.png"
+          },
+          "File_cumplimiento": {
+            "name": "DECLARACION_DE_CUMPLIMIENTO_ESTACIONES_DE_CARGA.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 275507,
+            "folder": "estacion/filecumplimiento"
+          },
+          "File_conformidad": {
+            "name": "Estacion Carga Rapida Circontrol.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 468076,
+            "folder": "estacion/fileconformidad",
+            "rename": "BD08433E-F36B-1410-83CF-008C0C1C7C12.pdf"
+          }
+        },
+        "Acceso": "Debe estar inscrito en la oferta de movilidad de EPM ",
+        "Puntoscarga": 1,
+        "Conectores": {
+          "CCS Combo 1": 1,
+          "CHAdeMO": 1,
+          "Tipo 2 - IEC 62196": 1
+        },
+        "PotenciaMax": 50,
+        "Cobros": {
+          "kWh consumidos": 3
+        },
+        "Precios": {
+          "Min": 1233,
+          "Max": 1233
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.59836735350756,
+          6.248238680892737
+        ]
+      },
+      "properties": {
+        "Id": "F108433E-F36B-1410-83CF-008C0C1C7C12",
+        "Operador": {
+          "Id": 21,
+          "Nombreempresa": "EMPRESAS PÚBLICAS DE MEDELLIN E.S.P.",
+          "Sitio": "https://www.epm.com.co"
+        },
+        "Nombre": "EDS Nutibara",
+        "Direccion": "Transversal 39 B Nro. 79 - 41",
+        "Departamento": {
+          "Id": 5,
+          "NombreDepartamento": "ANTIOQUIA"
+        },
+        "Municipio": {
+          "Id": 5001,
+          "NombreMunicipio": "MEDELLIN"
+        },
+        "Ubicacion": {
+          "Id": 71,
+          "Nombre": "Estación de Servicio"
+        },
+        "Tipoestacion": {
+          "Nivelcarga": "0",
+          "Puntoscarga": "1",
+          "Acceso": "Debe ser cliente de la oferta de carga publica de EPM"
+        },
+        "Parqueadero": {
+          "Parqueo": "NO",
+          "Tarifa": "",
+          "Valor": ""
+        },
+        "Horario": {
+          "Diainicia": "Lunes",
+          "Diacierre": "Domingo",
+          "Horainicia": "00:00",
+          "Horacierre": "24:00",
+          "Diainicia2": "",
+          "Diacierre2": "",
+          "Horainicia2": "",
+          "Horacierre2": "",
+          "Diainicia3": "",
+          "Diacierre3": "",
+          "Horainicia3": "",
+          "Horacierre3": ""
+        },
+        "Altitud": "0",
+        "PuntoWkb": {
+          "srid": 4326,
+          "version": 1,
+          "points": [
+            {
+              "x": 6.248238680892737,
+              "y": -75.59836735350756,
+              "z": null,
+              "m": null
+            }
+          ],
+          "figures": [
+            {
+              "attribute": 1,
+              "pointOffset": 0
+            }
+          ],
+          "shapes": [
+            {
+              "parentOffset": -1,
+              "figureOffset": 0,
+              "type": 1
+            }
+          ],
+          "segments": []
+        },
+        "Fechacreacion": "2022-08-03",
+        "Estado": {
+          "Id": 1,
+          "NombreEstado": "Activo"
+        },
+        "Observacion": "",
+        "Files": {
+          "File_foto": {
+            "name": "Imagen estacion Nutibara.png",
+            "mimetype": "image/png",
+            "type": ".png",
+            "size": 178469,
+            "folder": "estacion/filefoto",
+            "rename": "F108433E-F36B-1410-83CF-008C0C1C7C12.png"
+          },
+          "File_cumplimiento": {
+            "name": "DECLARACION_DE_CUMPLIMIENTO_ESTACIONES_DE_CARGA.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 275507,
+            "folder": "estacion/filecumplimiento"
+          },
+          "File_conformidad": {
+            "name": "Estacion Carga Rapida EFACEC.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 689799,
+            "folder": "estacion/fileconformidad",
+            "rename": "F108433E-F36B-1410-83CF-008C0C1C7C12.pdf"
+          }
+        },
+        "Acceso": "Debe ser cliente de la oferta de carga publica de EPM",
+        "Puntoscarga": 1,
+        "Conectores": {
+          "CCS Combo 1": 1,
+          "CHAdeMO": 1,
+          "Tipo 2 - IEC 62196": 1
+        },
+        "PotenciaMax": 50,
+        "Cobros": {
+          "kWh consumidos": 3
+        },
+        "Precios": {
+          "Min": 1233,
+          "Max": 1233
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.61928285513841,
+          6.153477923116654
+        ]
+      },
+      "properties": {
+        "Id": "0609433E-F36B-1410-83CF-008C0C1C7C12",
+        "Operador": {
+          "Id": 21,
+          "Nombreempresa": "EMPRESAS PÚBLICAS DE MEDELLIN E.S.P.",
+          "Sitio": "https://www.epm.com.co"
+        },
+        "Nombre": "EDS Sabaneta",
+        "Direccion": "CR 48 - AV LAS VEGAS, entre Calle 72 Sur y 73 Sur",
+        "Departamento": {
+          "Id": 5,
+          "NombreDepartamento": "ANTIOQUIA"
+        },
+        "Municipio": {
+          "Id": 5001,
+          "NombreMunicipio": "MEDELLIN"
+        },
+        "Ubicacion": {
+          "Id": 71,
+          "Nombre": "Estación de Servicio"
+        },
+        "Tipoestacion": {
+          "Nivelcarga": "0",
+          "Puntoscarga": "1",
+          "Acceso": "Debe ser cliente de la oferta de carga publica de EPM"
+        },
+        "Parqueadero": {
+          "Parqueo": "NO",
+          "Tarifa": "",
+          "Valor": ""
+        },
+        "Horario": {
+          "Diainicia": "Lunes",
+          "Diacierre": "Domingo",
+          "Horainicia": "00:00",
+          "Horacierre": "24:00",
+          "Diainicia2": "",
+          "Diacierre2": "",
+          "Horainicia2": "",
+          "Horacierre2": "",
+          "Diainicia3": "",
+          "Diacierre3": "",
+          "Horainicia3": "",
+          "Horacierre3": ""
+        },
+        "Altitud": "0",
+        "PuntoWkb": {
+          "srid": 4326,
+          "version": 1,
+          "points": [
+            {
+              "x": 6.153477923116654,
+              "y": -75.61928285513841,
+              "z": null,
+              "m": null
+            }
+          ],
+          "figures": [
+            {
+              "attribute": 1,
+              "pointOffset": 0
+            }
+          ],
+          "shapes": [
+            {
+              "parentOffset": -1,
+              "figureOffset": 0,
+              "type": 1
+            }
+          ],
+          "segments": []
+        },
+        "Fechacreacion": "2022-08-03",
+        "Estado": {
+          "Id": 1,
+          "NombreEstado": "Activo"
+        },
+        "Observacion": "",
+        "Files": {
+          "File_foto": {
+            "name": "Imagen estacion Sabaneta.png",
+            "mimetype": "image/png",
+            "type": ".png",
+            "size": 298784,
+            "folder": "estacion/filefoto",
+            "rename": "0609433E-F36B-1410-83CF-008C0C1C7C12.png"
+          },
+          "File_cumplimiento": {
+            "name": "DECLARACION_DE_CUMPLIMIENTO_ESTACIONES_DE_CARGA.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 275507,
+            "folder": "estacion/filecumplimiento"
+          },
+          "File_conformidad": {
+            "name": "Estacion Carga Rapida EFACEC.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 689799,
+            "folder": "estacion/fileconformidad",
+            "rename": "0609433E-F36B-1410-83CF-008C0C1C7C12.pdf"
+          }
+        },
+        "Acceso": "Debe ser cliente de la oferta de carga publica de EPM",
+        "Puntoscarga": 1,
+        "Conectores": {
+          "CCS Combo 1": 1,
+          "CHAdeMO": 1,
+          "Tipo 2 - IEC 62196": 1
+        },
+        "PotenciaMax": 50,
+        "Cobros": {
+          "kWh consumidos": 3
+        },
+        "Precios": {
+          "Min": 1233,
+          "Max": 1233
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56010273259619,
+          6.196861613021281
+        ]
+      },
+      "properties": {
+        "Id": "E408433E-F36B-1410-83CF-008C0C1C7C12",
+        "Operador": {
+          "Id": 21,
+          "Nombreempresa": "EMPRESAS PÚBLICAS DE MEDELLIN E.S.P.",
+          "Sitio": "https://www.epm.com.co"
+        },
+        "Nombre": "El Tesoro",
+        "Direccion": "Cra. 25 A Nro. 1a Sur – 45",
+        "Departamento": {
+          "Id": 5,
+          "NombreDepartamento": "ANTIOQUIA"
+        },
+        "Municipio": {
+          "Id": 5001,
+          "NombreMunicipio": "MEDELLIN"
+        },
+        "Ubicacion": {
+          "Id": 69,
+          "Nombre": "Centro comercial"
+        },
+        "Tipoestacion": {
+          "Nivelcarga": "0",
+          "Puntoscarga": "2",
+          "Acceso": "Debe estar inscrito en la oferta de carga publica de EPM "
+        },
+        "Parqueadero": {
+          "Parqueo": "NO",
+          "Tarifa": "",
+          "Valor": ""
+        },
+        "Horario": {
+          "Diainicia": "Lunes",
+          "Diacierre": "Domingo",
+          "Horainicia": "08:00",
+          "Horacierre": "21:00",
+          "Diainicia2": "",
+          "Diacierre2": "",
+          "Horainicia2": "",
+          "Horacierre2": "",
+          "Diainicia3": "",
+          "Diacierre3": "",
+          "Horainicia3": "",
+          "Horacierre3": ""
+        },
+        "Altitud": "0",
+        "PuntoWkb": {
+          "srid": 4326,
+          "version": 1,
+          "points": [
+            {
+              "x": 6.196861613021281,
+              "y": -75.56010273259619,
+              "z": null,
+              "m": null
+            }
+          ],
+          "figures": [
+            {
+              "attribute": 1,
+              "pointOffset": 0
+            }
+          ],
+          "shapes": [
+            {
+              "parentOffset": -1,
+              "figureOffset": 0,
+              "type": 1
+            }
+          ],
+          "segments": []
+        },
+        "Fechacreacion": "2022-08-02",
+        "Estado": {
+          "Id": 1,
+          "NombreEstado": "Activo"
+        },
+        "Observacion": "Ingreso por los parqueaderos  entrada por Cr 29",
+        "Files": {
+          "File_foto": {
+            "name": "Imagen estacion Tesoro.png",
+            "mimetype": "image/png",
+            "type": ".png",
+            "size": 447555,
+            "folder": "estacion/filefoto",
+            "rename": "E408433E-F36B-1410-83CF-008C0C1C7C12.png"
+          },
+          "File_cumplimiento": {
+            "name": "DECLARACION_DE_CUMPLIMIENTO_ESTACIONES_DE_CARGA.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 275507,
+            "folder": "estacion/filecumplimiento"
+          },
+          "File_conformidad": {
+            "name": "Cargador Publico Lento-Español.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 557856,
+            "folder": "estacion/fileconformidad",
+            "rename": "E408433E-F36B-1410-83CF-008C0C1C7C12.pdf"
+          }
+        },
+        "Acceso": "Debe estar inscrito en la oferta de carga publica de EPM ",
+        "Puntoscarga": 2,
+        "Conectores": {
+          "Tipo 1 - SAE J1772": 2,
+          "Schuko": 4,
+          "Tipo 2 - IEC 62196": 2
+        },
+        "PotenciaMax": 22,
+        "Cobros": {
+          "kWh consumidos": 4
+        },
+        "Precios": {
+          "Min": 948,
+          "Max": 948
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56671321397516,
+          6.263214271303456
+        ]
+      },
+      "properties": {
+        "Id": "50F7D87E-FF02-EF11-9B05-005056BD7421",
+        "Operador": {
+          "Id": 21,
+          "Nombreempresa": "EMPRESAS PÚBLICAS DE MEDELLIN E.S.P.",
+          "Sitio": "https://www.epm.com.co"
+        },
+        "Nombre": "Estación Los Alamos",
+        "Direccion": "Carrera 52 # 65 – 07",
+        "Departamento": {
+          "Id": 5,
+          "NombreDepartamento": "ANTIOQUIA"
+        },
+        "Municipio": {
+          "Id": 5001,
+          "NombreMunicipio": "MEDELLIN"
+        },
+        "Ubicacion": {
+          "Id": 75,
+          "Nombre": "Estación de Servicio"
+        },
+        "Tipoestacion": {
+          "Nivelcarga": "0",
+          "Puntoscarga": "1",
+          "Acceso": "Debe ser cliente de la oferta de carga publica de EPM"
+        },
+        "Parqueadero": {
+          "Parqueo": "NO",
+          "Tarifa": "",
+          "Valor": ""
+        },
+        "Horario": {
+          "Diainicia": "Lunes",
+          "Diacierre": "Domingo",
+          "Horainicia": "00:00",
+          "Horacierre": "24:00",
+          "Diainicia2": "",
+          "Diacierre2": "",
+          "Horainicia2": "",
+          "Horacierre2": "",
+          "Diainicia3": "",
+          "Diacierre3": "",
+          "Horainicia3": "",
+          "Horacierre3": ""
+        },
+        "Altitud": "0",
+        "PuntoWkb": {
+          "srid": 4326,
+          "version": 1,
+          "points": [
+            {
+              "x": 6.263214271303456,
+              "y": -75.56671321397516,
+              "z": null,
+              "m": null
+            }
+          ],
+          "figures": [
+            {
+              "attribute": 1,
+              "pointOffset": 0
+            }
+          ],
+          "shapes": [
+            {
+              "parentOffset": -1,
+              "figureOffset": 0,
+              "type": 1
+            }
+          ],
+          "segments": []
+        },
+        "Fechacreacion": "2024-04-25",
+        "Estado": {
+          "Id": 1,
+          "NombreEstado": "Activo"
+        },
+        "Observacion": "",
+        "Files": {
+          "File_foto": {
+            "name": "Estacion los Alamos.jpg",
+            "mimetype": "image/jpeg",
+            "type": ".jpg",
+            "size": 83402,
+            "folder": "estacion/filefoto",
+            "rename": "50F7D87E-FF02-EF11-9B05-005056BD7421.jpg"
+          },
+          "File_cumplimiento": {
+            "name": "Declaración de Cumplimiento.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 142765,
+            "folder": "estacion/filecumplimiento",
+            "rename": "50F7D87E-FF02-EF11-9B05-005056BD7421.pdf"
+          },
+          "File_conformidad": {
+            "name": "Retie Cargadores Circutor.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 768430,
+            "folder": "estacion/fileconformidad",
+            "rename": "50F7D87E-FF02-EF11-9B05-005056BD7421.pdf"
+          }
+        },
+        "Acceso": "Debe ser cliente de la oferta de carga publica de EPM",
+        "Puntoscarga": 1,
+        "Conectores": {
+          "CCS Combo 1": 1,
+          "CHAdeMO": 1,
+          "Tipo 2 - IEC 62196": 1
+        },
+        "PotenciaMax": 50,
+        "Cobros": {
+          "kWh consumidos": 3
+        },
+        "Precios": {
+          "Min": 1200,
+          "Max": 1200
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6020424453106,
+          6.24533465406657
+        ]
+      },
+      "properties": {
+        "Id": "2A09433E-F36B-1410-83CF-008C0C1C7C12",
+        "Operador": {
+          "Id": 21,
+          "Nombreempresa": "EMPRESAS PÚBLICAS DE MEDELLIN E.S.P.",
+          "Sitio": "https://www.epm.com.co"
+        },
+        "Nombre": "Éxito Laureles",
+        "Direccion": "Carrera 81 No. 37 - 100",
+        "Departamento": {
+          "Id": 5,
+          "NombreDepartamento": "ANTIOQUIA"
+        },
+        "Municipio": {
+          "Id": 5001,
+          "NombreMunicipio": "MEDELLIN"
+        },
+        "Ubicacion": {
+          "Id": 69,
+          "Nombre": "Centro comercial"
+        },
+        "Tipoestacion": {
+          "Nivelcarga": "0",
+          "Puntoscarga": "2",
+          "Acceso": "Debe ser cliente de la oferta carga publica de EPM"
+        },
+        "Parqueadero": {
+          "Parqueo": "NO",
+          "Tarifa": "",
+          "Valor": ""
+        },
+        "Horario": {
+          "Diainicia": "Lunes",
+          "Diacierre": "Domingo",
+          "Horainicia": "09:00",
+          "Horacierre": "21:00",
+          "Diainicia2": "",
+          "Diacierre2": "",
+          "Horainicia2": "",
+          "Horacierre2": "",
+          "Diainicia3": "",
+          "Diacierre3": "",
+          "Horainicia3": "",
+          "Horacierre3": ""
+        },
+        "Altitud": "0",
+        "PuntoWkb": {
+          "srid": 4326,
+          "version": 1,
+          "points": [
+            {
+              "x": 6.24533465406657,
+              "y": -75.6020424453106,
+              "z": null,
+              "m": null
+            }
+          ],
+          "figures": [
+            {
+              "attribute": 1,
+              "pointOffset": 0
+            }
+          ],
+          "shapes": [
+            {
+              "parentOffset": -1,
+              "figureOffset": 0,
+              "type": 1
+            }
+          ],
+          "segments": []
+        },
+        "Fechacreacion": "2022-08-03",
+        "Estado": {
+          "Id": 1,
+          "NombreEstado": "Activo"
+        },
+        "Observacion": "",
+        "Files": {
+          "File_foto": {
+            "name": "Imagen estacion Viva Laureles.png",
+            "mimetype": "image/png",
+            "type": ".png",
+            "size": 175154,
+            "folder": "estacion/filefoto",
+            "rename": "2A09433E-F36B-1410-83CF-008C0C1C7C12.png"
+          },
+          "File_cumplimiento": {
+            "name": "DECLARACION_DE_CUMPLIMIENTO_ESTACIONES_DE_CARGA.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 275507,
+            "folder": "estacion/filecumplimiento"
+          },
+          "File_conformidad": {
+            "name": "Cargador Publico Lento-Español.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 557856,
+            "folder": "estacion/fileconformidad",
+            "rename": "2A09433E-F36B-1410-83CF-008C0C1C7C12.pdf"
+          }
+        },
+        "Acceso": "Debe ser cliente de la oferta carga publica de EPM",
+        "Puntoscarga": 2,
+        "Conectores": {
+          "Tipo 1 - SAE J1772": 2,
+          "Schuko": 4,
+          "Tipo 2 - IEC 62196": 2
+        },
+        "PotenciaMax": 22,
+        "Cobros": {
+          "kWh consumidos": 4
+        },
+        "Precios": {
+          "Min": 948,
+          "Max": 948
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57536996074862,
+          6.211924440570137
+        ]
+      },
+      "properties": {
+        "Id": "3909433E-F36B-1410-83CF-008C0C1C7C12",
+        "Operador": {
+          "Id": 21,
+          "Nombreempresa": "EMPRESAS PÚBLICAS DE MEDELLIN E.S.P.",
+          "Sitio": "https://www.epm.com.co"
+        },
+        "Nombre": "Éxito Poblado",
+        "Direccion": "Calle 10 No. 43E - 135",
+        "Departamento": {
+          "Id": 5,
+          "NombreDepartamento": "ANTIOQUIA"
+        },
+        "Municipio": {
+          "Id": 5001,
+          "NombreMunicipio": "MEDELLIN"
+        },
+        "Ubicacion": {
+          "Id": 69,
+          "Nombre": "Centro comercial"
+        },
+        "Tipoestacion": {
+          "Nivelcarga": "0",
+          "Puntoscarga": "2",
+          "Acceso": "Debe estar inscrito en la oferta de carga pública de EPM"
+        },
+        "Parqueadero": {
+          "Parqueo": "NO",
+          "Tarifa": "",
+          "Valor": ""
+        },
+        "Horario": {
+          "Diainicia": "Lunes",
+          "Diacierre": "Domingo",
+          "Horainicia": "08:30",
+          "Horacierre": "21:00",
+          "Diainicia2": "",
+          "Diacierre2": "",
+          "Horainicia2": "",
+          "Horacierre2": "",
+          "Diainicia3": "",
+          "Diacierre3": "",
+          "Horainicia3": "",
+          "Horacierre3": ""
+        },
+        "Altitud": "0",
+        "PuntoWkb": {
+          "srid": 4326,
+          "version": 1,
+          "points": [
+            {
+              "x": 6.211924440570137,
+              "y": -75.57536996074862,
+              "z": null,
+              "m": null
+            }
+          ],
+          "figures": [
+            {
+              "attribute": 1,
+              "pointOffset": 0
+            }
+          ],
+          "shapes": [
+            {
+              "parentOffset": -1,
+              "figureOffset": 0,
+              "type": 1
+            }
+          ],
+          "segments": []
+        },
+        "Fechacreacion": "2022-08-03",
+        "Estado": {
+          "Id": 1,
+          "NombreEstado": "Activo"
+        },
+        "Observacion": "",
+        "Files": {
+          "File_foto": {
+            "name": "Imagen estacion Éxito Poblado.png",
+            "mimetype": "image/png",
+            "type": ".png",
+            "size": 120833,
+            "folder": "estacion/filefoto",
+            "rename": "3909433E-F36B-1410-83CF-008C0C1C7C12.png"
+          },
+          "File_cumplimiento": {
+            "name": "DECLARACION_DE_CUMPLIMIENTO_ESTACIONES_DE_CARGA.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 275507,
+            "folder": "estacion/filecumplimiento"
+          },
+          "File_conformidad": {
+            "name": "Cargador Publico Lento-Español.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 557856,
+            "folder": "estacion/fileconformidad",
+            "rename": "3909433E-F36B-1410-83CF-008C0C1C7C12.pdf"
+          }
+        },
+        "Acceso": "Debe estar inscrito en la oferta de carga pública de EPM",
+        "Puntoscarga": 2,
+        "Conectores": {
+          "Tipo 1 - SAE J1772": 2,
+          "Schuko": 4,
+          "Tipo 2 - IEC 62196": 2
+        },
+        "PotenciaMax": 22,
+        "Cobros": {
+          "kWh consumidos": 4
+        },
+        "Precios": {
+          "Min": 948,
+          "Max": 948
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57205979777679,
+          6.199907650030389
+        ]
+      },
+      "properties": {
+        "Id": "EF08433E-F36B-1410-83CF-008C0C1C7C12",
+        "Operador": {
+          "Id": 21,
+          "Nombreempresa": "EMPRESAS PÚBLICAS DE MEDELLIN E.S.P.",
+          "Sitio": "https://www.epm.com.co"
+        },
+        "Nombre": "Milla de Oro",
+        "Direccion": "Carrera 43 A Nro. 3 sur -130",
+        "Departamento": {
+          "Id": 5,
+          "NombreDepartamento": "ANTIOQUIA"
+        },
+        "Municipio": {
+          "Id": 5001,
+          "NombreMunicipio": "MEDELLIN"
+        },
+        "Ubicacion": {
+          "Id": 69,
+          "Nombre": "Centro comercial"
+        },
+        "Tipoestacion": {
+          "Nivelcarga": "0",
+          "Puntoscarga": "2",
+          "Acceso": "Debe ser cliente de carga publica de EPM"
+        },
+        "Parqueadero": {
+          "Parqueo": "SI",
+          "Tarifa": "",
+          "Valor": ""
+        },
+        "Horario": {
+          "Diainicia": "Lunes",
+          "Diacierre": "Domingo",
+          "Horainicia": "08:00",
+          "Horacierre": "21:00",
+          "Diainicia2": "",
+          "Diacierre2": "",
+          "Horainicia2": "",
+          "Horacierre2": "",
+          "Diainicia3": "",
+          "Diacierre3": "",
+          "Horainicia3": "",
+          "Horacierre3": ""
+        },
+        "Altitud": "0",
+        "PuntoWkb": {
+          "srid": 4326,
+          "version": 1,
+          "points": [
+            {
+              "x": 6.199907650030389,
+              "y": -75.57205979777679,
+              "z": null,
+              "m": null
+            }
+          ],
+          "figures": [
+            {
+              "attribute": 1,
+              "pointOffset": 0
+            }
+          ],
+          "shapes": [
+            {
+              "parentOffset": -1,
+              "figureOffset": 0,
+              "type": 1
+            }
+          ],
+          "segments": []
+        },
+        "Fechacreacion": "2022-08-03",
+        "Estado": {
+          "Id": 1,
+          "NombreEstado": "Activo"
+        },
+        "Observacion": "Ingreso por parqueaderos externos Cra. 42\\r\\n",
+        "Files": {
+          "File_foto": {
+            "name": "Imagen estacion Milla de oro.png",
+            "mimetype": "image/png",
+            "type": ".png",
+            "size": 180349,
+            "folder": "estacion/filefoto",
+            "rename": "EF08433E-F36B-1410-83CF-008C0C1C7C12.png"
+          },
+          "File_cumplimiento": {
+            "name": "DECLARACION_DE_CUMPLIMIENTO_ESTACIONES_DE_CARGA.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 275507,
+            "folder": "estacion/filecumplimiento"
+          },
+          "File_conformidad": {
+            "name": "Cargador Publico Lento-Español.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 557856,
+            "folder": "estacion/fileconformidad",
+            "rename": "EF08433E-F36B-1410-83CF-008C0C1C7C12.pdf"
+          }
+        },
+        "Acceso": "Debe ser cliente de carga publica de EPM",
+        "Puntoscarga": 2,
+        "Conectores": {
+          "Tipo 1 - SAE J1772": 2,
+          "Schuko": 4,
+          "Tipo 2 - IEC 62196": 2
+        },
+        "PotenciaMax": 22,
+        "Cobros": {
+          "kWh consumidos": 4
+        },
+        "Precios": {
+          "Min": 948,
+          "Max": 948
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57578343242405,
+          6.243060525395186
+        ]
+      },
+      "properties": {
+        "Id": "FA08433E-F36B-1410-83CF-008C0C1C7C12",
+        "Operador": {
+          "Id": 21,
+          "Nombreempresa": "EMPRESAS PÚBLICAS DE MEDELLIN E.S.P.",
+          "Sitio": "https://www.epm.com.co"
+        },
+        "Nombre": "Plaza Mayor",
+        "Direccion": "Calle 41 Nro. 55 - 80",
+        "Departamento": {
+          "Id": 5,
+          "NombreDepartamento": "ANTIOQUIA"
+        },
+        "Municipio": {
+          "Id": 5001,
+          "NombreMunicipio": "MEDELLIN"
+        },
+        "Ubicacion": {
+          "Id": 69,
+          "Nombre": "Centro comercial"
+        },
+        "Tipoestacion": {
+          "Nivelcarga": "0",
+          "Puntoscarga": "2",
+          "Acceso": "Debe ser cliente de la oferta de carga publica de EPM "
+        },
+        "Parqueadero": {
+          "Parqueo": "SI",
+          "Tarifa": "",
+          "Valor": ""
+        },
+        "Horario": {
+          "Diainicia": "Lunes",
+          "Diacierre": "Domingo",
+          "Horainicia": "07:00",
+          "Horacierre": "21:00",
+          "Diainicia2": "",
+          "Diacierre2": "",
+          "Horainicia2": "",
+          "Horacierre2": "",
+          "Diainicia3": "",
+          "Diacierre3": "",
+          "Horainicia3": "",
+          "Horacierre3": ""
+        },
+        "Altitud": "0",
+        "PuntoWkb": {
+          "srid": 4326,
+          "version": 1,
+          "points": [
+            {
+              "x": 6.243060525395186,
+              "y": -75.57578343242405,
+              "z": null,
+              "m": null
+            }
+          ],
+          "figures": [
+            {
+              "attribute": 1,
+              "pointOffset": 0
+            }
+          ],
+          "shapes": [
+            {
+              "parentOffset": -1,
+              "figureOffset": 0,
+              "type": 1
+            }
+          ],
+          "segments": []
+        },
+        "Fechacreacion": "2022-08-03",
+        "Estado": {
+          "Id": 1,
+          "NombreEstado": "Activo"
+        },
+        "Observacion": "",
+        "Files": {
+          "File_foto": {
+            "name": "Imagen estacion Plaza Mayor.png",
+            "mimetype": "image/png",
+            "type": ".png",
+            "size": 181364,
+            "folder": "estacion/filefoto",
+            "rename": "FA08433E-F36B-1410-83CF-008C0C1C7C12.png"
+          },
+          "File_cumplimiento": {
+            "name": "DECLARACION_DE_CUMPLIMIENTO_ESTACIONES_DE_CARGA.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 275507,
+            "folder": "estacion/filecumplimiento",
+            "rename": "FA08433E-F36B-1410-83CF-008C0C1C7C12.pdf"
+          },
+          "File_conformidad": {
+            "name": "Cargador Publico Lento-Español.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 557856,
+            "folder": "estacion/fileconformidad",
+            "rename": "FA08433E-F36B-1410-83CF-008C0C1C7C12.pdf"
+          }
+        },
+        "Acceso": "Debe ser cliente de la oferta de carga publica de EPM ",
+        "Puntoscarga": 2,
+        "Conectores": {
+          "Tipo 1 - SAE J1772": 2,
+          "Schuko": 4,
+          "Tipo 2 - IEC 62196": 2
+        },
+        "PotenciaMax": 22,
+        "Cobros": {
+          "kWh consumidos": 4
+        },
+        "Precios": {
+          "Min": 948,
+          "Max": 948
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.59296796107809,
+          6.245685410034073
+        ]
+      },
+      "properties": {
+        "Id": "F408433E-F36B-1410-83CF-008C0C1C7C12",
+        "Operador": {
+          "Id": 21,
+          "Nombreempresa": "EMPRESAS PÚBLICAS DE MEDELLIN E.S.P.",
+          "Sitio": "https://www.epm.com.co"
+        },
+        "Nombre": "Primer Parque Laureles",
+        "Direccion": "Circular 5 Nro. 73 - 15 ",
+        "Departamento": {
+          "Id": 5,
+          "NombreDepartamento": "ANTIOQUIA"
+        },
+        "Municipio": {
+          "Id": 5001,
+          "NombreMunicipio": "MEDELLIN"
+        },
+        "Ubicacion": {
+          "Id": 78,
+          "Nombre": "Vía Pública"
+        },
+        "Tipoestacion": {
+          "Nivelcarga": "0",
+          "Puntoscarga": "2",
+          "Acceso": "Debe ser cliente de la oferta de carga publica de EPM"
+        },
+        "Parqueadero": {
+          "Parqueo": "NO",
+          "Tarifa": "",
+          "Valor": ""
+        },
+        "Horario": {
+          "Diainicia": "Lunes",
+          "Diacierre": "Domingo",
+          "Horainicia": "00:00",
+          "Horacierre": "24:00",
+          "Diainicia2": "",
+          "Diacierre2": "",
+          "Horainicia2": "",
+          "Horacierre2": "",
+          "Diainicia3": "",
+          "Diacierre3": "",
+          "Horainicia3": "",
+          "Horacierre3": ""
+        },
+        "Altitud": "0",
+        "PuntoWkb": {
+          "srid": 4326,
+          "version": 1,
+          "points": [
+            {
+              "x": 6.245685410034073,
+              "y": -75.59296796107809,
+              "z": null,
+              "m": null
+            }
+          ],
+          "figures": [
+            {
+              "attribute": 1,
+              "pointOffset": 0
+            }
+          ],
+          "shapes": [
+            {
+              "parentOffset": -1,
+              "figureOffset": 0,
+              "type": 1
+            }
+          ],
+          "segments": []
+        },
+        "Fechacreacion": "2022-08-03",
+        "Estado": {
+          "Id": 1,
+          "NombreEstado": "Activo"
+        },
+        "Observacion": "",
+        "Files": {
+          "File_foto": {
+            "name": "Imagen estacion Parque Laureles.png",
+            "mimetype": "image/png",
+            "type": ".png",
+            "size": 203382,
+            "folder": "estacion/filefoto",
+            "rename": "F408433E-F36B-1410-83CF-008C0C1C7C12.png"
+          },
+          "File_cumplimiento": {
+            "name": "DECLARACION_DE_CUMPLIMIENTO_ESTACIONES_DE_CARGA.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 275507,
+            "folder": "estacion/filecumplimiento"
+          },
+          "File_conformidad": {
+            "name": "Cargador Publico Lento-Español.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 557856,
+            "folder": "estacion/fileconformidad",
+            "rename": "F408433E-F36B-1410-83CF-008C0C1C7C12.pdf"
+          }
+        },
+        "Acceso": "Debe ser cliente de la oferta de carga publica de EPM",
+        "Puntoscarga": 2,
+        "Conectores": {
+          "Tipo 1 - SAE J1772": 2,
+          "Schuko": 4,
+          "Tipo 2 - IEC 62196": 2
+        },
+        "PotenciaMax": 22,
+        "Cobros": {
+          "kWh consumidos": 4
+        },
+        "Precios": {
+          "Min": 948,
+          "Max": 948
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.542830446562,
+          6.338889113249638
+        ]
+      },
+      "properties": {
+        "Id": "FD08433E-F36B-1410-83CF-008C0C1C7C12",
+        "Operador": {
+          "Id": 21,
+          "Nombreempresa": "EMPRESAS PÚBLICAS DE MEDELLIN E.S.P.",
+          "Sitio": "https://www.epm.com.co"
+        },
+        "Nombre": "Puerta del Norte",
+        "Direccion": "Diagonal 55 Nro. 34 - 67",
+        "Departamento": {
+          "Id": 5,
+          "NombreDepartamento": "ANTIOQUIA"
+        },
+        "Municipio": {
+          "Id": 5001,
+          "NombreMunicipio": "MEDELLIN"
+        },
+        "Ubicacion": {
+          "Id": 69,
+          "Nombre": "Centro comercial"
+        },
+        "Tipoestacion": {
+          "Nivelcarga": "0",
+          "Puntoscarga": "2",
+          "Acceso": "Debe estar inscrito en la oferta de carga publica de EPM"
+        },
+        "Parqueadero": {
+          "Parqueo": "NO",
+          "Tarifa": "",
+          "Valor": ""
+        },
+        "Horario": {
+          "Diainicia": "Lunes",
+          "Diacierre": "Domingo",
+          "Horainicia": "08:30",
+          "Horacierre": "21:00",
+          "Diainicia2": "",
+          "Diacierre2": "",
+          "Horainicia2": "",
+          "Horacierre2": "",
+          "Diainicia3": "",
+          "Diacierre3": "",
+          "Horainicia3": "",
+          "Horacierre3": ""
+        },
+        "Altitud": "0",
+        "PuntoWkb": {
+          "srid": 4326,
+          "version": 1,
+          "points": [
+            {
+              "x": 6.338889113249638,
+              "y": -75.542830446562,
+              "z": null,
+              "m": null
+            }
+          ],
+          "figures": [
+            {
+              "attribute": 1,
+              "pointOffset": 0
+            }
+          ],
+          "shapes": [
+            {
+              "parentOffset": -1,
+              "figureOffset": 0,
+              "type": 1
+            }
+          ],
+          "segments": []
+        },
+        "Fechacreacion": "2022-08-03",
+        "Estado": {
+          "Id": 1,
+          "NombreEstado": "Activo"
+        },
+        "Observacion": "",
+        "Files": {
+          "File_foto": {
+            "name": "Imagen estacion Puerta del Norte.png",
+            "mimetype": "image/png",
+            "type": ".png",
+            "size": 172211,
+            "folder": "estacion/filefoto",
+            "rename": "FD08433E-F36B-1410-83CF-008C0C1C7C12.png"
+          },
+          "File_cumplimiento": {
+            "name": "DECLARACION_DE_CUMPLIMIENTO_ESTACIONES_DE_CARGA.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 275507,
+            "folder": "estacion/filecumplimiento"
+          },
+          "File_conformidad": {
+            "name": "Cargador Publico Lento-Español.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 557856,
+            "folder": "estacion/fileconformidad",
+            "rename": "FD08433E-F36B-1410-83CF-008C0C1C7C12.pdf"
+          }
+        },
+        "Acceso": "Debe estar inscrito en la oferta de carga publica de EPM",
+        "Puntoscarga": 2,
+        "Conectores": {
+          "Tipo 1 - SAE J1772": 2,
+          "Schuko": 4,
+          "Tipo 2 - IEC 62196": 2
+        },
+        "PotenciaMax": 22,
+        "Cobros": {
+          "kWh consumidos": 4
+        },
+        "Precios": {
+          "Min": 948,
+          "Max": 948
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57428626735832,
+          6.196815226397389
+        ]
+      },
+      "properties": {
+        "Id": "0D09433E-F36B-1410-83CF-008C0C1C7C12",
+        "Operador": {
+          "Id": 21,
+          "Nombreempresa": "EMPRESAS PÚBLICAS DE MEDELLIN E.S.P.",
+          "Sitio": "https://www.epm.com.co"
+        },
+        "Nombre": "Santa Fe",
+        "Direccion": "Carrera 43A No. 7 Sur-170",
+        "Departamento": {
+          "Id": 5,
+          "NombreDepartamento": "ANTIOQUIA"
+        },
+        "Municipio": {
+          "Id": 5001,
+          "NombreMunicipio": "MEDELLIN"
+        },
+        "Ubicacion": {
+          "Id": 69,
+          "Nombre": "Centro comercial"
+        },
+        "Tipoestacion": {
+          "Nivelcarga": "0",
+          "Puntoscarga": "2",
+          "Acceso": "Debe estar inscrito en la oferta de carga publica de EPM"
+        },
+        "Parqueadero": {
+          "Parqueo": "SI",
+          "Tarifa": "",
+          "Valor": ""
+        },
+        "Horario": {
+          "Diainicia": "Lunes",
+          "Diacierre": "Domingo",
+          "Horainicia": "09:00",
+          "Horacierre": "21:00",
+          "Diainicia2": "",
+          "Diacierre2": "",
+          "Horainicia2": "",
+          "Horacierre2": "",
+          "Diainicia3": "",
+          "Diacierre3": "",
+          "Horainicia3": "",
+          "Horacierre3": ""
+        },
+        "Altitud": "0",
+        "PuntoWkb": {
+          "srid": 4326,
+          "version": 1,
+          "points": [
+            {
+              "x": 6.196815226397389,
+              "y": -75.57428626735832,
+              "z": null,
+              "m": null
+            }
+          ],
+          "figures": [
+            {
+              "attribute": 1,
+              "pointOffset": 0
+            }
+          ],
+          "shapes": [
+            {
+              "parentOffset": -1,
+              "figureOffset": 0,
+              "type": 1
+            }
+          ],
+          "segments": []
+        },
+        "Fechacreacion": "2022-08-03",
+        "Estado": {
+          "Id": 1,
+          "NombreEstado": "Activo"
+        },
+        "Observacion": "",
+        "Files": {
+          "File_foto": {
+            "name": "Imagen estacion Santa Fe.png",
+            "mimetype": "image/png",
+            "type": ".png",
+            "size": 177859,
+            "folder": "estacion/filefoto",
+            "rename": "0D09433E-F36B-1410-83CF-008C0C1C7C12.png"
+          },
+          "File_cumplimiento": {
+            "name": "DECLARACION_DE_CUMPLIMIENTO_ESTACIONES_DE_CARGA.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 275507,
+            "folder": "estacion/filecumplimiento"
+          },
+          "File_conformidad": {
+            "name": "Cargador Publico Lento-Español.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 557856,
+            "folder": "estacion/fileconformidad",
+            "rename": "0D09433E-F36B-1410-83CF-008C0C1C7C12.pdf"
+          }
+        },
+        "Acceso": "Debe estar inscrito en la oferta de carga publica de EPM",
+        "Puntoscarga": 2,
+        "Conectores": {
+          "Tipo 1 - SAE J1772": 2,
+          "Schuko": 4,
+          "Tipo 2 - IEC 62196": 2
+        },
+        "PotenciaMax": 22,
+        "Cobros": {
+          "kWh consumidos": 4
+        },
+        "Precios": {
+          "Min": 948,
+          "Max": 948
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57938391705865,
+          6.185260912801008
+        ]
+      },
+      "properties": {
+        "Id": "2309433E-F36B-1410-83CF-008C0C1C7C12",
+        "Operador": {
+          "Id": 21,
+          "Nombreempresa": "EMPRESAS PÚBLICAS DE MEDELLIN E.S.P.",
+          "Sitio": "https://www.epm.com.co"
+        },
+        "Nombre": "Sao Paulo",
+        "Direccion": "Carrera 43 A Nro. 18 sur-135",
+        "Departamento": {
+          "Id": 5,
+          "NombreDepartamento": "ANTIOQUIA"
+        },
+        "Municipio": {
+          "Id": 5001,
+          "NombreMunicipio": "MEDELLIN"
+        },
+        "Ubicacion": {
+          "Id": 69,
+          "Nombre": "Centro comercial"
+        },
+        "Tipoestacion": {
+          "Nivelcarga": "0",
+          "Puntoscarga": "2",
+          "Acceso": "Debe ser cliente de la oferta de carga publica de EPM"
+        },
+        "Parqueadero": {
+          "Parqueo": "SI",
+          "Tarifa": "",
+          "Valor": ""
+        },
+        "Horario": {
+          "Diainicia": "Lunes",
+          "Diacierre": "Domingo",
+          "Horainicia": "08:00",
+          "Horacierre": "21:00",
+          "Diainicia2": "",
+          "Diacierre2": "",
+          "Horainicia2": "",
+          "Horacierre2": "",
+          "Diainicia3": "",
+          "Diacierre3": "",
+          "Horainicia3": "",
+          "Horacierre3": ""
+        },
+        "Altitud": "0",
+        "PuntoWkb": {
+          "srid": 4326,
+          "version": 1,
+          "points": [
+            {
+              "x": 6.185260912801008,
+              "y": -75.57938391705865,
+              "z": null,
+              "m": null
+            }
+          ],
+          "figures": [
+            {
+              "attribute": 1,
+              "pointOffset": 0
+            }
+          ],
+          "shapes": [
+            {
+              "parentOffset": -1,
+              "figureOffset": 0,
+              "type": 1
+            }
+          ],
+          "segments": []
+        },
+        "Fechacreacion": "2022-08-03",
+        "Estado": {
+          "Id": 1,
+          "NombreEstado": "Activo"
+        },
+        "Observacion": "Entrada Parqueaderos Por Cr 43 A",
+        "Files": {
+          "File_foto": {
+            "name": "Imagen estacion Sao Paulo.png",
+            "mimetype": "image/png",
+            "type": ".png",
+            "size": 164877,
+            "folder": "estacion/filefoto",
+            "rename": "2309433E-F36B-1410-83CF-008C0C1C7C12.png"
+          },
+          "File_cumplimiento": {
+            "name": "DECLARACION_DE_CUMPLIMIENTO_ESTACIONES_DE_CARGA.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 275507,
+            "folder": "estacion/filecumplimiento"
+          },
+          "File_conformidad": {
+            "name": "Cargador Publico Lento-Español.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 557856,
+            "folder": "estacion/fileconformidad",
+            "rename": "2309433E-F36B-1410-83CF-008C0C1C7C12.pdf"
+          }
+        },
+        "Acceso": "Debe ser cliente de la oferta de carga publica de EPM",
+        "Puntoscarga": 2,
+        "Conectores": {
+          "Tipo 1 - SAE J1772": 2,
+          "Schuko": 4,
+          "Tipo 2 - IEC 62196": 2
+        },
+        "PotenciaMax": 22,
+        "Cobros": {
+          "kWh consumidos": 4
+        },
+        "Precios": {
+          "Min": 948,
+          "Max": 948
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.58682990017483,
+          6.24039566065355
+        ]
+      },
+      "properties": {
+        "Id": "0E09433E-F36B-1410-83CF-008C0C1C7C12",
+        "Operador": {
+          "Id": 21,
+          "Nombreempresa": "EMPRESAS PÚBLICAS DE MEDELLIN E.S.P.",
+          "Sitio": "https://www.epm.com.co"
+        },
+        "Nombre": "Unicentro",
+        "Direccion": "Carrera 66 B Nro. 34 A - 76",
+        "Departamento": {
+          "Id": 5,
+          "NombreDepartamento": "ANTIOQUIA"
+        },
+        "Municipio": {
+          "Id": 5001,
+          "NombreMunicipio": "MEDELLIN"
+        },
+        "Ubicacion": {
+          "Id": 69,
+          "Nombre": "Centro comercial"
+        },
+        "Tipoestacion": {
+          "Nivelcarga": "0",
+          "Puntoscarga": "2",
+          "Acceso": "Debe ser cliente de la oferta de carga publica de EPM"
+        },
+        "Parqueadero": {
+          "Parqueo": "NO",
+          "Tarifa": "",
+          "Valor": ""
+        },
+        "Horario": {
+          "Diainicia": "Lunes",
+          "Diacierre": "Domingo",
+          "Horainicia": "08:30",
+          "Horacierre": "21:00",
+          "Diainicia2": "",
+          "Diacierre2": "",
+          "Horainicia2": "",
+          "Horacierre2": "",
+          "Diainicia3": "",
+          "Diacierre3": "",
+          "Horainicia3": "",
+          "Horacierre3": ""
+        },
+        "Altitud": "0",
+        "PuntoWkb": {
+          "srid": 4326,
+          "version": 1,
+          "points": [
+            {
+              "x": 6.24039566065355,
+              "y": -75.58682990017483,
+              "z": null,
+              "m": null
+            }
+          ],
+          "figures": [
+            {
+              "attribute": 1,
+              "pointOffset": 0
+            }
+          ],
+          "shapes": [
+            {
+              "parentOffset": -1,
+              "figureOffset": 0,
+              "type": 1
+            }
+          ],
+          "segments": []
+        },
+        "Fechacreacion": "2022-08-03",
+        "Estado": {
+          "Id": 1,
+          "NombreEstado": "Activo"
+        },
+        "Observacion": "",
+        "Files": {
+          "File_foto": {
+            "name": "Imagen estacion Unicentro.png",
+            "mimetype": "image/png",
+            "type": ".png",
+            "size": 166973,
+            "folder": "estacion/filefoto",
+            "rename": "0E09433E-F36B-1410-83CF-008C0C1C7C12.png"
+          },
+          "File_cumplimiento": {
+            "name": "DECLARACION_DE_CUMPLIMIENTO_ESTACIONES_DE_CARGA.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 275507,
+            "folder": "estacion/filecumplimiento"
+          },
+          "File_conformidad": {
+            "name": "Cargador Publico Lento-Español.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 557856,
+            "folder": "estacion/fileconformidad",
+            "rename": "0E09433E-F36B-1410-83CF-008C0C1C7C12.pdf"
+          }
+        },
+        "Acceso": "Debe ser cliente de la oferta de carga publica de EPM",
+        "Puntoscarga": 2,
+        "Conectores": {
+          "Tipo 1 - SAE J1772": 2,
+          "Schuko": 4,
+          "Tipo 2 - IEC 62196": 2
+        },
+        "PotenciaMax": 22,
+        "Cobros": {
+          "kWh consumidos": 4
+        },
+        "Precios": {
+          "Min": 948,
+          "Max": 948
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.54084171194236,
+          6.152926015651908
+        ]
+      },
+      "properties": {
+        "Id": "3209433E-F36B-1410-83CF-008C0C1C7C12",
+        "Operador": {
+          "Id": 21,
+          "Nombreempresa": "EMPRESAS PÚBLICAS DE MEDELLIN E.S.P.",
+          "Sitio": "https://www.epm.com.co"
+        },
+        "Nombre": "Viva Palmas",
+        "Direccion": "Km. 17 + 750 mts, Vía El Escobero Las Palmas, (Calle 36DS #27A-105, Envigado)",
+        "Departamento": {
+          "Id": 5,
+          "NombreDepartamento": "ANTIOQUIA"
+        },
+        "Municipio": {
+          "Id": 5001,
+          "NombreMunicipio": "MEDELLIN"
+        },
+        "Ubicacion": {
+          "Id": 69,
+          "Nombre": "Centro comercial"
+        },
+        "Tipoestacion": {
+          "Nivelcarga": "0",
+          "Puntoscarga": "2",
+          "Acceso": "Debe ser cliente de la oferta carga publica de EPM"
+        },
+        "Parqueadero": {
+          "Parqueo": "NO",
+          "Tarifa": "",
+          "Valor": ""
+        },
+        "Horario": {
+          "Diainicia": "Lunes",
+          "Diacierre": "Domingo",
+          "Horainicia": "00:00",
+          "Horacierre": "24:00",
+          "Diainicia2": "",
+          "Diacierre2": "",
+          "Horainicia2": "",
+          "Horacierre2": "",
+          "Diainicia3": "",
+          "Diacierre3": "",
+          "Horainicia3": "",
+          "Horacierre3": ""
+        },
+        "Altitud": "0",
+        "PuntoWkb": {
+          "srid": 4326,
+          "version": 1,
+          "points": [
+            {
+              "x": 6.152926015651908,
+              "y": -75.54084171194236,
+              "z": null,
+              "m": null
+            }
+          ],
+          "figures": [
+            {
+              "attribute": 1,
+              "pointOffset": 0
+            }
+          ],
+          "shapes": [
+            {
+              "parentOffset": -1,
+              "figureOffset": 0,
+              "type": 1
+            }
+          ],
+          "segments": []
+        },
+        "Fechacreacion": "2022-08-03",
+        "Estado": {
+          "Id": 1,
+          "NombreEstado": "Activo"
+        },
+        "Observacion": "",
+        "Files": {
+          "File_foto": {
+            "name": "Imagen estacion Viva Palmas.png",
+            "mimetype": "image/png",
+            "type": ".png",
+            "size": 146694,
+            "folder": "estacion/filefoto",
+            "rename": "3209433E-F36B-1410-83CF-008C0C1C7C12.png"
+          },
+          "File_cumplimiento": {
+            "name": "DECLARACION_DE_CUMPLIMIENTO_ESTACIONES_DE_CARGA.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 275507,
+            "folder": "estacion/filecumplimiento"
+          },
+          "File_conformidad": {
+            "name": "Cargador Publico Lento-Español.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 557856,
+            "folder": "estacion/fileconformidad",
+            "rename": "3209433E-F36B-1410-83CF-008C0C1C7C12.pdf"
+          }
+        },
+        "Acceso": "Debe ser cliente de la oferta carga publica de EPM",
+        "Puntoscarga": 2,
+        "Conectores": {
+          "Tipo 1 - SAE J1772": 2,
+          "Schuko": 4,
+          "Tipo 2 - IEC 62196": 2
+        },
+        "PotenciaMax": 22,
+        "Cobros": {
+          "kWh consumidos": 4
+        },
+        "Precios": {
+          "Min": 948,
+          "Max": 948
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.58139126624533,
+          6.214474564962057
+        ]
+      },
+      "properties": {
+        "Id": "944E433E-F36B-1410-83D5-008C0C1C7C12",
+        "Operador": {
+          "Id": 43,
+          "Nombreempresa": "CELSIA COLOMBIA S.A. E.S.P.",
+          "Sitio": "https://www.celsia.com/"
+        },
+        "Nombre": "Celsia Autosura Rio 10",
+        "Direccion": "Calle 10 N.° 50-347, Mall Río 10",
+        "Departamento": {
+          "Id": 5,
+          "NombreDepartamento": "ANTIOQUIA"
+        },
+        "Municipio": {
+          "Id": 5001,
+          "NombreMunicipio": "MEDELLIN"
+        },
+        "Ubicacion": {
+          "Id": 69,
+          "Nombre": "Centro comercial"
+        },
+        "Tipoestacion": {
+          "Nivelcarga": "0",
+          "Puntoscarga": "2",
+          "Acceso": ""
+        },
+        "Parqueadero": {
+          "Parqueo": "NO",
+          "Tarifa": "",
+          "Valor": ""
+        },
+        "Horario": {
+          "Diainicia": "Lunes",
+          "Diacierre": "Domingo",
+          "Horainicia": "06:00",
+          "Horacierre": "20:30",
+          "Diainicia2": "",
+          "Diacierre2": "",
+          "Horainicia2": "",
+          "Horacierre2": "",
+          "Diainicia3": "",
+          "Diacierre3": "",
+          "Horainicia3": "",
+          "Horacierre3": ""
+        },
+        "Altitud": "0",
+        "PuntoWkb": null,
+        "Fechacreacion": "2022-08-05",
+        "Estado": {
+          "Id": 1,
+          "NombreEstado": "Activo"
+        },
+        "Observacion": "",
+        "Files": {
+          "File_foto": {
+            "name": "EDC Autosura Rio 10 Medellín.jpg",
+            "mimetype": "image/jpeg",
+            "type": ".jpg",
+            "size": 413350,
+            "folder": "estacion/filefoto"
+          },
+          "File_cumplimiento": {
+            "name": "20220803 DECLARACIÓN DE CUMPLIMIENTO_.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 262098,
+            "folder": "estacion/filecumplimiento"
+          },
+          "File_conformidad": {
+            "name": "20220803 DECLARACIÓN DE CUMPLIMIENTO_.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 262098,
+            "folder": "estacion/fileconformidad"
+          }
+        },
+        "Acceso": "",
+        "Puntoscarga": 2,
+        "Conectores": {
+          "Tipo 1 - SAE J1772": 1,
+          "Tipo 2 - IEC 62196": 2,
+          "GB-T AC": 1
+        },
+        "PotenciaMax": 11,
+        "Cobros": {
+          "Gratuito": 4
+        },
+        "Precios": {
+          "Min": 0,
+          "Max": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55663905882228,
+          6.198779443029705
+        ]
+      },
+      "properties": {
+        "Id": "634E433E-F36B-1410-83D5-008C0C1C7C12",
+        "Operador": {
+          "Id": 43,
+          "Nombreempresa": "CELSIA COLOMBIA S.A. E.S.P.",
+          "Sitio": "https://www.celsia.com/"
+        },
+        "Nombre": "Celsia CC Del Este",
+        "Direccion": "Transversal Superior Carrera 25 # 3-45",
+        "Departamento": {
+          "Id": 5,
+          "NombreDepartamento": "ANTIOQUIA"
+        },
+        "Municipio": {
+          "Id": 5001,
+          "NombreMunicipio": "MEDELLIN"
+        },
+        "Ubicacion": {
+          "Id": 69,
+          "Nombre": "Centro comercial"
+        },
+        "Tipoestacion": {
+          "Nivelcarga": "0",
+          "Puntoscarga": "2",
+          "Acceso": ""
+        },
+        "Parqueadero": {
+          "Parqueo": "NO",
+          "Tarifa": "",
+          "Valor": ""
+        },
+        "Horario": {
+          "Diainicia": "Lunes",
+          "Diacierre": "Viernes",
+          "Horainicia": "09:00",
+          "Horacierre": "24:00",
+          "Diainicia2": "Sabado",
+          "Diacierre2": "Sabado",
+          "Horainicia2": "",
+          "Horacierre2": "",
+          "Diainicia3": "",
+          "Diacierre3": "",
+          "Horainicia3": "",
+          "Horacierre3": ""
+        },
+        "Altitud": "0",
+        "PuntoWkb": null,
+        "Fechacreacion": "2022-08-05",
+        "Estado": {
+          "Id": 1,
+          "NombreEstado": "Activo"
+        },
+        "Observacion": "",
+        "Files": {
+          "File_foto": {
+            "name": "EDC Mall del Este Medellín.jpeg",
+            "mimetype": "image/jpeg",
+            "type": ".jpeg",
+            "size": 443619,
+            "folder": "estacion/filefoto"
+          },
+          "File_cumplimiento": {
+            "name": "20220803 DECLARACIÓN DE CUMPLIMIENTO_.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 262098,
+            "folder": "estacion/filecumplimiento"
+          },
+          "File_conformidad": {
+            "name": "20220803 DECLARACIÓN DE CUMPLIMIENTO_.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 262098,
+            "folder": "estacion/fileconformidad"
+          }
+        },
+        "Acceso": "",
+        "Puntoscarga": 2,
+        "Conectores": {
+          "Tipo 1 - SAE J1772": 2,
+          "Tipo 2 - IEC 62196": 1,
+          "GB-T AC": 1
+        },
+        "PotenciaMax": 11,
+        "Cobros": {
+          "Gratuito": 4
+        },
+        "Precios": {
+          "Min": 0,
+          "Max": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5747469015661,
+          6.198786307253062
+        ]
+      },
+      "properties": {
+        "Id": "4E4E433E-F36B-1410-83D5-008C0C1C7C12",
+        "Operador": {
+          "Id": 43,
+          "Nombreempresa": "CELSIA COLOMBIA S.A. E.S.P.",
+          "Sitio": "https://www.celsia.com/"
+        },
+        "Nombre": "Celsia CC Oviedo",
+        "Direccion": "Av El Poblado Cr 43 A No 6 S-15 El Poblado",
+        "Departamento": {
+          "Id": 5,
+          "NombreDepartamento": "ANTIOQUIA"
+        },
+        "Municipio": {
+          "Id": 5001,
+          "NombreMunicipio": "MEDELLIN"
+        },
+        "Ubicacion": {
+          "Id": 69,
+          "Nombre": "Centro comercial"
+        },
+        "Tipoestacion": {
+          "Nivelcarga": "0",
+          "Puntoscarga": "2",
+          "Acceso": "Ingreso por el parqueadero AV El Poblado"
+        },
+        "Parqueadero": {
+          "Parqueo": "SI",
+          "Tarifa": "",
+          "Valor": ""
+        },
+        "Horario": {
+          "Diainicia": "Lunes",
+          "Diacierre": "Viernes",
+          "Horainicia": "08:00",
+          "Horacierre": "21:00",
+          "Diainicia2": "Sabado",
+          "Diacierre2": "Sabado",
+          "Horainicia2": "09:00",
+          "Horacierre2": "21:00",
+          "Diainicia3": "Domingo",
+          "Diacierre3": "Domingo",
+          "Horainicia3": "11:00",
+          "Horacierre3": "20:00"
+        },
+        "Altitud": "0",
+        "PuntoWkb": null,
+        "Fechacreacion": "2022-08-05",
+        "Estado": {
+          "Id": 1,
+          "NombreEstado": "Activo"
+        },
+        "Observacion": "",
+        "Files": {
+          "File_foto": {
+            "name": "EDC Oviedo Medellín.png",
+            "mimetype": "image/png",
+            "type": ".png",
+            "size": 432229,
+            "folder": "estacion/filefoto"
+          },
+          "File_cumplimiento": {
+            "name": "20220803 DECLARACIÓN DE CUMPLIMIENTO_.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 262098,
+            "folder": "estacion/filecumplimiento"
+          },
+          "File_conformidad": {
+            "name": "20220803 DECLARACIÓN DE CUMPLIMIENTO_.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 262098,
+            "folder": "estacion/fileconformidad"
+          }
+        },
+        "Acceso": "Ingreso por el parqueadero AV El Poblado",
+        "Puntoscarga": 2,
+        "Conectores": {
+          "Tipo 1 - SAE J1772": 1,
+          "GB-T AC": 1,
+          "Tipo 2 - IEC 62196": 1
+        },
+        "PotenciaMax": 11,
+        "Cobros": {
+          "Gratuito": 3
+        },
+        "Precios": {
+          "Min": 0,
+          "Max": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55371529320945,
+          6.209080479343415
+        ]
+      },
+      "properties": {
+        "Id": "824E433E-F36B-1410-83D5-008C0C1C7C12",
+        "Operador": {
+          "Id": 43,
+          "Nombreempresa": "CELSIA COLOMBIA S.A. E.S.P.",
+          "Sitio": "https://www.celsia.com/"
+        },
+        "Nombre": "Celsia U CES",
+        "Direccion": "Calle 10A #22-04",
+        "Departamento": {
+          "Id": 5,
+          "NombreDepartamento": "ANTIOQUIA"
+        },
+        "Municipio": {
+          "Id": 5001,
+          "NombreMunicipio": "MEDELLIN"
+        },
+        "Ubicacion": {
+          "Id": 77,
+          "Nombre": "Universidad"
+        },
+        "Tipoestacion": {
+          "Nivelcarga": "0",
+          "Puntoscarga": "3",
+          "Acceso": ""
+        },
+        "Parqueadero": {
+          "Parqueo": "NO",
+          "Tarifa": "",
+          "Valor": ""
+        },
+        "Horario": {
+          "Diainicia": "Lunes",
+          "Diacierre": "Viernes",
+          "Horainicia": "07:30",
+          "Horacierre": "17:00",
+          "Diainicia2": "Sabado",
+          "Diacierre2": "Sabado",
+          "Horainicia2": "07:30",
+          "Horacierre2": "12:00",
+          "Diainicia3": "",
+          "Diacierre3": "",
+          "Horainicia3": "",
+          "Horacierre3": ""
+        },
+        "Altitud": "0",
+        "PuntoWkb": null,
+        "Fechacreacion": "2022-08-05",
+        "Estado": {
+          "Id": 1,
+          "NombreEstado": "Activo"
+        },
+        "Observacion": "",
+        "Files": {
+          "File_foto": {
+            "name": "EDC CES Medellín.jpg",
+            "mimetype": "image/jpeg",
+            "type": ".jpg",
+            "size": 97622,
+            "folder": "estacion/filefoto"
+          },
+          "File_cumplimiento": {
+            "name": "20220803 DECLARACIÓN DE CUMPLIMIENTO_.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 262098,
+            "folder": "estacion/filecumplimiento"
+          },
+          "File_conformidad": {
+            "name": "20220803 DECLARACIÓN DE CUMPLIMIENTO_.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 262098,
+            "folder": "estacion/fileconformidad"
+          }
+        },
+        "Acceso": "",
+        "Puntoscarga": 3,
+        "Conectores": {
+          "Tipo 1 - SAE J1772": 1,
+          "Tipo 2 - IEC 62196": 1,
+          "Schuko": 1
+        },
+        "PotenciaMax": 11,
+        "Cobros": {
+          "Gratuito": 3
+        },
+        "Precios": {
+          "Min": 0,
+          "Max": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.59116178665823,
+          6.176636087819928
+        ]
+      },
+      "properties": {
+        "Id": "FA4E433E-F36B-1410-83D5-008C0C1C7C12",
+        "Operador": {
+          "Id": 43,
+          "Nombreempresa": "CELSIA COLOMBIA S.A. E.S.P.",
+          "Sitio": "https://www.celsia.com/"
+        },
+        "Nombre": "Celsia Viva Envigado",
+        "Direccion": "Carrera 48 No. 32B Sur – 139",
+        "Departamento": {
+          "Id": 5,
+          "NombreDepartamento": "ANTIOQUIA"
+        },
+        "Municipio": {
+          "Id": 5266,
+          "NombreMunicipio": "ENVIGADO"
+        },
+        "Ubicacion": {
+          "Id": 69,
+          "Nombre": "Centro comercial"
+        },
+        "Tipoestacion": {
+          "Nivelcarga": "0",
+          "Puntoscarga": "2",
+          "Acceso": ""
+        },
+        "Parqueadero": {
+          "Parqueo": "NO",
+          "Tarifa": "",
+          "Valor": ""
+        },
+        "Horario": {
+          "Diainicia": "Lunes",
+          "Diacierre": "Sabado",
+          "Horainicia": "08:00",
+          "Horacierre": "23:00",
+          "Diainicia2": "Domingo",
+          "Diacierre2": "Domingo",
+          "Horainicia2": "08:00",
+          "Horacierre2": "22:00",
+          "Diainicia3": "",
+          "Diacierre3": "",
+          "Horainicia3": "",
+          "Horacierre3": ""
+        },
+        "Altitud": "0",
+        "PuntoWkb": null,
+        "Fechacreacion": "2022-08-05",
+        "Estado": {
+          "Id": 1,
+          "NombreEstado": "Activo"
+        },
+        "Observacion": "",
+        "Files": {
+          "File_foto": {
+            "name": "EDC Viva Envigado.jpg",
+            "mimetype": "image/jpeg",
+            "type": ".jpg",
+            "size": 154456,
+            "folder": "estacion/filefoto"
+          },
+          "File_cumplimiento": {
+            "name": "20220803 DECLARACIÓN DE CUMPLIMIENTO_.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 262098,
+            "folder": "estacion/filecumplimiento"
+          },
+          "File_conformidad": {
+            "name": "20220803 DECLARACIÓN DE CUMPLIMIENTO_.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 262098,
+            "folder": "estacion/fileconformidad"
+          }
+        },
+        "Acceso": "",
+        "Puntoscarga": 2,
+        "Conectores": {
+          "Tipo 1 - SAE J1772": 2,
+          "Tipo 2 - IEC 62196": 1,
+          "GB-T AC": 1
+        },
+        "PotenciaMax": 11,
+        "Cobros": {
+          "Gratuito": 4
+        },
+        "Precios": {
+          "Min": 0,
+          "Max": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55986642706559,
+          6.308633668255152
+        ]
+      },
+      "properties": {
+        "Id": "FAF429F6-D72C-EF11-9B05-005056BD7421",
+        "Operador": {
+          "Id": 124,
+          "Nombreempresa": "Organizacion Terpel S.A.",
+          "Sitio": "https://www.terpel.com"
+        },
+        "Nombre": "EDS Autopista Norte",
+        "Direccion": "Cra 64 Aa No.113A-34",
+        "Departamento": {
+          "Id": 5,
+          "NombreDepartamento": "ANTIOQUIA"
+        },
+        "Municipio": {
+          "Id": 5001,
+          "NombreMunicipio": "MEDELLIN"
+        },
+        "Ubicacion": {
+          "Id": 75,
+          "Nombre": "Estación de Servicio"
+        },
+        "Tipoestacion": {
+          "Nivelcarga": "0",
+          "Puntoscarga": "1",
+          "Acceso": "App Terpel"
+        },
+        "Parqueadero": {
+          "Parqueo": "NO",
+          "Tarifa": "",
+          "Valor": ""
+        },
+        "Horario": {
+          "Diainicia": "Lunes",
+          "Diacierre": "Domingo",
+          "Horainicia": "00:00",
+          "Horacierre": "24:00",
+          "Diainicia2": "",
+          "Diacierre2": "",
+          "Horainicia2": "",
+          "Horacierre2": "",
+          "Diainicia3": "",
+          "Diacierre3": "",
+          "Horainicia3": "",
+          "Horacierre3": ""
+        },
+        "Altitud": "0",
+        "PuntoWkb": {
+          "srid": 4326,
+          "version": 1,
+          "points": [
+            {
+              "x": 6.308633668255152,
+              "y": -75.55986642706559,
+              "z": null,
+              "m": null
+            }
+          ],
+          "figures": [
+            {
+              "attribute": 1,
+              "pointOffset": 0
+            }
+          ],
+          "shapes": [
+            {
+              "parentOffset": -1,
+              "figureOffset": 0,
+              "type": 1
+            }
+          ],
+          "segments": []
+        },
+        "Fechacreacion": "2024-06-17",
+        "Estado": {
+          "Id": 1,
+          "NombreEstado": "Activo"
+        },
+        "Observacion": "",
+        "Files": {
+          "File_foto": {
+            "name": "EDS Auto Norte.jpeg",
+            "mimetype": "image/jpeg",
+            "type": ".jpeg",
+            "size": 287398,
+            "folder": "estacion/filefoto",
+            "rename": "FAF429F6-D72C-EF11-9B05-005056BD7421.jpeg"
+          },
+          "File_cumplimiento": {
+            "name": "Cumplimiento estaciones de carga completo.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 92435,
+            "folder": "estacion/filecumplimiento",
+            "rename": "FAF429F6-D72C-EF11-9B05-005056BD7421.pdf"
+          },
+          "File_conformidad": {
+            "name": "BSP-0711 Certificado PR1-100911 Cargadores ABB.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 492166,
+            "folder": "estacion/fileconformidad"
+          }
+        },
+        "Acceso": "App Terpel",
+        "Puntoscarga": 1,
+        "Conectores": {
+          "Tipo 2 - IEC 62196": 1,
+          "CCS Combo 1": 1,
+          "CHAdeMO": 1
+        },
+        "PotenciaMax": 50,
+        "Cobros": {
+          "kWh consumidos": 3
+        },
+        "Precios": {
+          "Min": 1550,
+          "Max": 1550
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5689322968101,
+          6.224279199482602
+        ]
+      },
+      "properties": {
+        "Id": "690A05A6-1C4E-EF11-9B07-005056BD7421",
+        "Operador": {
+          "Id": 124,
+          "Nombreempresa": "Organizacion Terpel S.A.",
+          "Sitio": "https://www.terpel.com"
+        },
+        "Nombre": "EDS El Encierro",
+        "Direccion": "Cr43 A #24-30 ",
+        "Departamento": {
+          "Id": 5,
+          "NombreDepartamento": "ANTIOQUIA"
+        },
+        "Municipio": {
+          "Id": 5001,
+          "NombreMunicipio": "MEDELLIN"
+        },
+        "Ubicacion": {
+          "Id": 75,
+          "Nombre": "Estación de Servicio"
+        },
+        "Tipoestacion": {
+          "Nivelcarga": "0",
+          "Puntoscarga": "1",
+          "Acceso": "App Terpel"
+        },
+        "Parqueadero": {
+          "Parqueo": "NO",
+          "Tarifa": "",
+          "Valor": ""
+        },
+        "Horario": {
+          "Diainicia": "Lunes",
+          "Diacierre": "Domingo",
+          "Horainicia": "00:00",
+          "Horacierre": "24:00",
+          "Diainicia2": "",
+          "Diacierre2": "",
+          "Horainicia2": "",
+          "Horacierre2": "",
+          "Diainicia3": "",
+          "Diacierre3": "",
+          "Horainicia3": "",
+          "Horacierre3": ""
+        },
+        "Altitud": "0",
+        "PuntoWkb": {
+          "srid": 4326,
+          "version": 1,
+          "points": [
+            {
+              "x": 6.224279199482602,
+              "y": -75.5689322968101,
+              "z": null,
+              "m": null
+            }
+          ],
+          "figures": [
+            {
+              "attribute": 1,
+              "pointOffset": 0
+            }
+          ],
+          "shapes": [
+            {
+              "parentOffset": -1,
+              "figureOffset": 0,
+              "type": 1
+            }
+          ],
+          "segments": []
+        },
+        "Fechacreacion": "2024-07-29",
+        "Estado": {
+          "Id": 1,
+          "NombreEstado": "Activo"
+        },
+        "Observacion": "",
+        "Files": {
+          "File_foto": {
+            "name": "EDS El Encierro.jpeg",
+            "mimetype": "image/jpeg",
+            "type": ".jpeg",
+            "size": 272011,
+            "folder": "estacion/filefoto",
+            "rename": "690A05A6-1C4E-EF11-9B07-005056BD7421.jpeg"
+          },
+          "File_cumplimiento": {
+            "name": "Cumplimiento estaciones de carga completo.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 92435,
+            "folder": "estacion/filecumplimiento",
+            "rename": "690A05A6-1C4E-EF11-9B07-005056BD7421.pdf"
+          },
+          "File_conformidad": {
+            "name": "Certificado RETIE Cargadores DC ME 1.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 775244,
+            "folder": "estacion/fileconformidad"
+          }
+        },
+        "Acceso": "App Terpel",
+        "Puntoscarga": 2,
+        "Conectores": {
+          "GB-T DC": 4,
+          "CCS Combo 2": 4,
+          "CCS Combo 1": 4
+        },
+        "PotenciaMax": 40,
+        "Cobros": {
+          "kWh consumidos": 3
+        },
+        "Precios": {
+          "Min": 1650,
+          "Max": 1650
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.45690775304224,
+          6.3023886833798235
+        ]
+      },
+      "properties": {
+        "Id": "E209433E-F36B-1410-83CF-008C0C1C7C12",
+        "Operador": {
+          "Id": 124,
+          "Nombreempresa": "Organizacion Terpel S.A.",
+          "Sitio": "https://www.terpel.com"
+        },
+        "Nombre": "EDS La Garota",
+        "Direccion": "km 19 autopista Medellín-Bogotá / Guarne, Antioquia",
+        "Departamento": {
+          "Id": 5,
+          "NombreDepartamento": "ANTIOQUIA"
+        },
+        "Municipio": {
+          "Id": 5001,
+          "NombreMunicipio": "MEDELLIN"
+        },
+        "Ubicacion": {
+          "Id": 71,
+          "Nombre": "Estación de Servicio"
+        },
+        "Tipoestacion": {
+          "Nivelcarga": "0",
+          "Puntoscarga": "1",
+          "Acceso": "App Terpel "
+        },
+        "Parqueadero": {
+          "Parqueo": "NO",
+          "Tarifa": "",
+          "Valor": ""
+        },
+        "Horario": {
+          "Diainicia": "Lunes",
+          "Diacierre": "Domingo",
+          "Horainicia": "00:00",
+          "Horacierre": "24:00",
+          "Diainicia2": "",
+          "Diacierre2": "",
+          "Horainicia2": "",
+          "Horacierre2": "",
+          "Diainicia3": "",
+          "Diacierre3": "",
+          "Horainicia3": "",
+          "Horacierre3": ""
+        },
+        "Altitud": "0",
+        "PuntoWkb": {
+          "srid": 4326,
+          "version": 1,
+          "points": [
+            {
+              "x": 6.3023886833798235,
+              "y": -75.45690775304224,
+              "z": null,
+              "m": null
+            }
+          ],
+          "figures": [
+            {
+              "attribute": 1,
+              "pointOffset": 0
+            }
+          ],
+          "shapes": [
+            {
+              "parentOffset": -1,
+              "figureOffset": 0,
+              "type": 1
+            }
+          ],
+          "segments": []
+        },
+        "Fechacreacion": "2022-08-05",
+        "Estado": {
+          "Id": 1,
+          "NombreEstado": "Activo"
+        },
+        "Observacion": "",
+        "Files": {
+          "File_foto": {
+            "name": "Cargador Smart- La Garota.jpeg",
+            "mimetype": "image/jpeg",
+            "type": ".jpeg",
+            "size": 189604,
+            "folder": "estacion/filefoto",
+            "rename": "E209433E-F36B-1410-83CF-008C0C1C7C12.jpeg"
+          },
+          "File_cumplimiento": {
+            "name": "DECLARACION_DE_CUMPLIMIENTO_ESTACIONES_DE_CARGA.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 63024,
+            "folder": "estacion/filecumplimiento",
+            "rename": "E209433E-F36B-1410-83CF-008C0C1C7C12.pdf"
+          },
+          "File_conformidad": {
+            "name": "Certificado RETIE Cargadores DC ME 1.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 775244,
+            "folder": "estacion/fileconformidad"
+          }
+        },
+        "Acceso": "App Terpel ",
+        "Puntoscarga": 1,
+        "Conectores": {
+          "GB-T DC": 1,
+          "CCS Combo 1": 1,
+          "Tipo 2 - IEC 62196": 1
+        },
+        "PotenciaMax": 40,
+        "Cobros": {
+          "kWh consumidos": 3
+        },
+        "Precios": {
+          "Min": 0,
+          "Max": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.28804778910855,
+          6.47023781258171
+        ]
+      },
+      "properties": {
+        "Id": "B22F62D1-6B1C-EF11-9B05-005056BD7421",
+        "Operador": {
+          "Id": 124,
+          "Nombreempresa": "Organizacion Terpel S.A.",
+          "Sitio": "https://www.terpel.com"
+        },
+        "Nombre": "EDS Popalito",
+        "Direccion": "Autopista al río Magdalena 1",
+        "Departamento": {
+          "Id": 5,
+          "NombreDepartamento": "ANTIOQUIA"
+        },
+        "Municipio": {
+          "Id": 5001,
+          "NombreMunicipio": "MEDELLIN"
+        },
+        "Ubicacion": {
+          "Id": 75,
+          "Nombre": "Estación de Servicio"
+        },
+        "Tipoestacion": {
+          "Nivelcarga": "0",
+          "Puntoscarga": "1",
+          "Acceso": "App Terpel"
+        },
+        "Parqueadero": {
+          "Parqueo": "NO",
+          "Tarifa": "",
+          "Valor": ""
+        },
+        "Horario": {
+          "Diainicia": "Lunes",
+          "Diacierre": "Domingo",
+          "Horainicia": "00:00",
+          "Horacierre": "24:00",
+          "Diainicia2": "",
+          "Diacierre2": "",
+          "Horainicia2": "",
+          "Horacierre2": "",
+          "Diainicia3": "",
+          "Diacierre3": "",
+          "Horainicia3": "",
+          "Horacierre3": ""
+        },
+        "Altitud": "0",
+        "PuntoWkb": {
+          "srid": 4326,
+          "version": 1,
+          "points": [
+            {
+              "x": 6.47023781258171,
+              "y": -75.28804778910855,
+              "z": null,
+              "m": null
+            }
+          ],
+          "figures": [
+            {
+              "attribute": 1,
+              "pointOffset": 0
+            }
+          ],
+          "shapes": [
+            {
+              "parentOffset": -1,
+              "figureOffset": 0,
+              "type": 1
+            }
+          ],
+          "segments": []
+        },
+        "Fechacreacion": "2024-05-27",
+        "Estado": {
+          "Id": 1,
+          "NombreEstado": "Activo"
+        },
+        "Observacion": "",
+        "Files": {
+          "File_foto": {
+            "name": "Cargador ABB - Popalito.jpeg",
+            "mimetype": "image/jpeg",
+            "type": ".jpeg",
+            "size": 160098,
+            "folder": "estacion/filefoto",
+            "rename": "B22F62D1-6B1C-EF11-9B05-005056BD7421.jpeg"
+          },
+          "File_cumplimiento": {
+            "name": "Cumplimiento estaciones de carga completo.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 92435,
+            "folder": "estacion/filecumplimiento",
+            "rename": "B22F62D1-6B1C-EF11-9B05-005056BD7421.pdf"
+          },
+          "File_conformidad": {
+            "name": "BSP-0711 Certificado PR1-100911 Cargadores ABB.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 492166,
+            "folder": "estacion/fileconformidad"
+          }
+        },
+        "Acceso": "App Terpel",
+        "Puntoscarga": 1,
+        "Conectores": {
+          "Tipo 2 - IEC 62196": 1,
+          "CCS Combo 1": 1,
+          "CHAdeMO": 1
+        },
+        "PotenciaMax": 50,
+        "Cobros": {
+          "kWh consumidos": 3
+        },
+        "Precios": {
+          "Min": 1550,
+          "Max": 1550
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.58363527065013,
+          6.219279875574981
+        ]
+      },
+      "properties": {
+        "Id": "A24D4C81-A435-F011-9B0F-005056BD7421",
+        "Operador": {
+          "Id": 167,
+          "Nombreempresa": "ERCO ENERGÍA SAS",
+          "Sitio": "https://erco.energy"
+        },
+        "Nombre": "OUTLET DE MODA",
+        "Direccion": "CALLE 16 #55-129",
+        "Departamento": {
+          "Id": 5,
+          "NombreDepartamento": "ANTIOQUIA"
+        },
+        "Municipio": {
+          "Id": 5001,
+          "NombreMunicipio": "MEDELLIN"
+        },
+        "Ubicacion": {
+          "Id": 73,
+          "Nombre": "Centro comercial"
+        },
+        "Tipoestacion": {
+          "Nivelcarga": "0",
+          "Puntoscarga": "2",
+          "Acceso": "Pago tarjeta débito o crédito"
+        },
+        "Parqueadero": {
+          "Parqueo": "SI",
+          "Tarifa": "",
+          "Valor": ""
+        },
+        "Horario": {
+          "Diainicia": "Lunes",
+          "Diacierre": "Sabado",
+          "Horainicia": "05:00",
+          "Horacierre": "24:00",
+          "Diainicia2": "Domingo",
+          "Diacierre2": "Domingo",
+          "Horainicia2": "08:00",
+          "Horacierre2": "22:00",
+          "Diainicia3": "",
+          "Diacierre3": "",
+          "Horainicia3": "",
+          "Horacierre3": ""
+        },
+        "Altitud": "0",
+        "PuntoWkb": {
+          "srid": 4326,
+          "version": 1,
+          "points": [
+            {
+              "x": 6.219279875574981,
+              "y": -75.58363527065013,
+              "z": null,
+              "m": null
+            }
+          ],
+          "figures": [
+            {
+              "attribute": 1,
+              "pointOffset": 0
+            }
+          ],
+          "shapes": [
+            {
+              "parentOffset": -1,
+              "figureOffset": 0,
+              "type": 1
+            }
+          ],
+          "segments": []
+        },
+        "Fechacreacion": "2025-05-20",
+        "Estado": {
+          "Id": 1,
+          "NombreEstado": "Activo"
+        },
+        "Observacion": "",
+        "Files": {
+          "File_foto": {
+            "name": "WhatsApp Image 2025-05-20 at 12.34.17 PM.jpeg",
+            "mimetype": "image/jpeg",
+            "type": ".jpeg",
+            "size": 133131,
+            "folder": "estacion/filefoto",
+            "rename": "A24D4C81-A435-F011-9B0F-005056BD7421.jpeg"
+          },
+          "File_cumplimiento": {
+            "name": "DECLARACION_DE_CUMPLIMIENTO_ESTACIONES_DE_CARGA - OUTLET DE MODA.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 406954,
+            "folder": "estacion/filecumplimiento",
+            "rename": "A24D4C81-A435-F011-9B0F-005056BD7421.pdf"
+          },
+          "File_conformidad": {
+            "name": "Cert 3295_CargadoresElectricos.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 442014,
+            "folder": "estacion/fileconformidad",
+            "rename": "A24D4C81-A435-F011-9B0F-005056BD7421.pdf"
+          }
+        },
+        "Acceso": "Pago tarjeta débito o crédito",
+        "Puntoscarga": 1,
+        "Conectores": {
+          "CCS Combo 1": 1,
+          "CCS Combo 2": 1
+        },
+        "PotenciaMax": 20,
+        "Cobros": {
+          "kWh consumidos": 2
+        },
+        "Precios": {
+          "Min": 1700,
+          "Max": 1700
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.61558961587846,
+          6.151182545838579
+        ]
+      },
+      "properties": {
+        "Id": "7EBFA888-1043-F111-A075-CBA219538FFF",
+        "Operador": {
+          "Id": 198,
+          "Nombreempresa": "VELTTIO ",
+          "Sitio": "https://www.velttio.com"
+        },
+        "Nombre": "ECO CARGA",
+        "Direccion": "Cr 44 61 sur 38",
+        "Departamento": {
+          "Id": 5,
+          "NombreDepartamento": "ANTIOQUIA"
+        },
+        "Municipio": {
+          "Id": 5631,
+          "NombreMunicipio": "SABANETA"
+        },
+        "Ubicacion": {
+          "Id": 78,
+          "Nombre": "Parqueadero"
+        },
+        "Tipoestacion": {
+          "Nivelcarga": "0",
+          "Puntoscarga": "1",
+          "Acceso": "Descarga la App VELTTIO en google play o App store, crea el usuario, recarga la billetera de la App."
+        },
+        "Parqueadero": {
+          "Parqueo": "NO",
+          "Tarifa": "",
+          "Valor": ""
+        },
+        "Horario": {
+          "Diainicia": "Lunes",
+          "Diacierre": "Lunes",
+          "Horainicia": "00:00",
+          "Horacierre": "00:00",
+          "Diainicia2": "",
+          "Diacierre2": "",
+          "Horainicia2": "",
+          "Horacierre2": "",
+          "Diainicia3": "",
+          "Diacierre3": "",
+          "Horainicia3": "",
+          "Horacierre3": ""
+        },
+        "Altitud": "0",
+        "PuntoWkb": {
+          "srid": 4326,
+          "version": 1,
+          "points": [
+            {
+              "x": 6.151182545838579,
+              "y": -75.61558961587846,
+              "z": null,
+              "m": null
+            }
+          ],
+          "figures": [
+            {
+              "attribute": 1,
+              "pointOffset": 0
+            }
+          ],
+          "shapes": [
+            {
+              "parentOffset": -1,
+              "figureOffset": 0,
+              "type": 1
+            }
+          ],
+          "segments": []
+        },
+        "Fechacreacion": "2026-04-28",
+        "Estado": {
+          "Id": 1,
+          "NombreEstado": "Activo"
+        },
+        "Observacion": "Descarga VELTTIO en Google Play o App Store. Crea tu usuario, recarga tu billetera y verifica la disponibilidad de la estación. Antes de cargar verás las tarifas en la app. Cada estación incluye un instructivo para iniciar tu sesión\\r\\n",
+        "Files": {
+          "File_foto": {
+            "name": "WhatsApp Image 2026-04-28 at 9.47.42 AM.jpeg",
+            "mimetype": "image/jpeg",
+            "type": ".jpeg",
+            "size": 117609,
+            "folder": "estacion/filefoto"
+          },
+          "File_cumplimiento": {
+            "name": "DECLARACION CUMPLIMIENTO- RETIE - ECO CARGA.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 260748,
+            "folder": "estacion/filecumplimiento"
+          },
+          "File_conformidad": {
+            "name": "DECLARACION CUMPLIMIENTO- RETIE - ECO CARGA.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 260748,
+            "folder": "estacion/fileconformidad"
+          }
+        },
+        "Acceso": "Descarga la App VELTTIO en google play o App store, crea el usuario, recarga la billetera de la App.",
+        "Puntoscarga": 1,
+        "Conectores": {
+          "Tipo 2 - IEC 62196": 1
+        },
+        "PotenciaMax": 7,
+        "Cobros": {
+          "kWh consumidos": 1
+        },
+        "Precios": {
+          "Min": 1400,
+          "Max": 1400
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.61561106568462,
+          6.151228177183925
+        ]
+      },
+      "properties": {
+        "Id": "50003700-0F43-F111-A075-CBA219538FFF",
+        "Operador": {
+          "Id": 198,
+          "Nombreempresa": "VELTTIO ",
+          "Sitio": "https://www.velttio.com"
+        },
+        "Nombre": "MALL VEGAS PLAZA ",
+        "Direccion": "Cr 48 cl 76D sur  # 52",
+        "Departamento": {
+          "Id": 5,
+          "NombreDepartamento": "ANTIOQUIA"
+        },
+        "Municipio": {
+          "Id": 5631,
+          "NombreMunicipio": "SABANETA"
+        },
+        "Ubicacion": {
+          "Id": 73,
+          "Nombre": "Centro comercial"
+        },
+        "Tipoestacion": {
+          "Nivelcarga": "0",
+          "Puntoscarga": "1",
+          "Acceso": "Descarga la App VELTTIO en google play o App store, crea el usuario, recarga la billetera de la App."
+        },
+        "Parqueadero": {
+          "Parqueo": "NO",
+          "Tarifa": "",
+          "Valor": ""
+        },
+        "Horario": {
+          "Diainicia": "Lunes",
+          "Diacierre": "Lunes",
+          "Horainicia": "05:00",
+          "Horacierre": "22:00",
+          "Diainicia2": "",
+          "Diacierre2": "",
+          "Horainicia2": "",
+          "Horacierre2": "",
+          "Diainicia3": "",
+          "Diacierre3": "",
+          "Horainicia3": "",
+          "Horacierre3": ""
+        },
+        "Altitud": "0",
+        "PuntoWkb": {
+          "srid": 4326,
+          "version": 1,
+          "points": [
+            {
+              "x": 6.151228177183925,
+              "y": -75.61561106568462,
+              "z": null,
+              "m": null
+            }
+          ],
+          "figures": [
+            {
+              "attribute": 1,
+              "pointOffset": 0
+            }
+          ],
+          "shapes": [
+            {
+              "parentOffset": -1,
+              "figureOffset": 0,
+              "type": 1
+            }
+          ],
+          "segments": []
+        },
+        "Fechacreacion": "2026-04-28",
+        "Estado": {
+          "Id": 1,
+          "NombreEstado": "Activo"
+        },
+        "Observacion": "Descarga VELTTIO en Google Play o App Store. Crea tu usuario, recarga tu billetera y verifica la disponibilidad de la estación. Antes de cargar verás las tarifas en la app. Cada estación incluye un instructivo para iniciar tu sesión.\\r\\n",
+        "Files": {
+          "File_foto": {
+            "name": "WhatsApp Image 2026-04-28 at 9.31.03 AM.jpeg",
+            "mimetype": "image/jpeg",
+            "type": ".jpeg",
+            "size": 705194,
+            "folder": "estacion/filefoto"
+          },
+          "File_cumplimiento": {
+            "name": "DECLARACION CUMPLIMIENTO- RETIE - MALL VEGAS PLAZA.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 261105,
+            "folder": "estacion/filecumplimiento"
+          },
+          "File_conformidad": {
+            "name": "DECLARACION CUMPLIMIENTO- RETIE - MALL VEGAS PLAZA.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 261105,
+            "folder": "estacion/fileconformidad"
+          }
+        },
+        "Acceso": "Descarga la App VELTTIO en google play o App store, crea el usuario, recarga la billetera de la App.",
+        "Puntoscarga": 1,
+        "Conectores": {
+          "Tipo 2 - IEC 62196": 1
+        },
+        "PotenciaMax": 7,
+        "Cobros": {
+          "kWh consumidos": 1
+        },
+        "Precios": {
+          "Min": 1400,
+          "Max": 1400
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.61564324039387,
+          6.151222547334896
+        ]
+      },
+      "properties": {
+        "Id": "E2CA0D58-7242-F111-A075-CBA219538FFF",
+        "Operador": {
+          "Id": 198,
+          "Nombreempresa": "VELTTIO ",
+          "Sitio": "https://www.velttio.com"
+        },
+        "Nombre": "PRADOS DE SABANETA",
+        "Direccion": "Cl 78 sur n 46d 30 ",
+        "Departamento": {
+          "Id": 5,
+          "NombreDepartamento": "ANTIOQUIA"
+        },
+        "Municipio": {
+          "Id": 5631,
+          "NombreMunicipio": "SABANETA"
+        },
+        "Ubicacion": {
+          "Id": 78,
+          "Nombre": "Parqueadero"
+        },
+        "Tipoestacion": {
+          "Nivelcarga": "0",
+          "Puntoscarga": "1",
+          "Acceso": "Descarga la App VELTTIO en google play o App store, crea el usuario, recarga la billetera de la App"
+        },
+        "Parqueadero": {
+          "Parqueo": "NO",
+          "Tarifa": "",
+          "Valor": ""
+        },
+        "Horario": {
+          "Diainicia": "Lunes",
+          "Diacierre": "Lunes",
+          "Horainicia": "00:00",
+          "Horacierre": "00:00",
+          "Diainicia2": "",
+          "Diacierre2": "",
+          "Horainicia2": "",
+          "Horacierre2": "",
+          "Diainicia3": "",
+          "Diacierre3": "",
+          "Horainicia3": "",
+          "Horacierre3": ""
+        },
+        "Altitud": "0",
+        "PuntoWkb": {
+          "srid": 4326,
+          "version": 1,
+          "points": [
+            {
+              "x": 6.151222547334896,
+              "y": -75.61564324039387,
+              "z": null,
+              "m": null
+            }
+          ],
+          "figures": [
+            {
+              "attribute": 1,
+              "pointOffset": 0
+            }
+          ],
+          "shapes": [
+            {
+              "parentOffset": -1,
+              "figureOffset": 0,
+              "type": 1
+            }
+          ],
+          "segments": []
+        },
+        "Fechacreacion": "2026-04-27",
+        "Estado": {
+          "Id": 1,
+          "NombreEstado": "Activo"
+        },
+        "Observacion": "Descarga VELTTIO en Google Play o App Store. Crea tu usuario, recarga tu billetera y verifica la disponibilidad de la estación. Antes de cargar verás las tarifas en la app. Cada estación incluye un instructivo para iniciar tu sesión",
+        "Files": {
+          "File_foto": {
+            "name": "WhatsApp Image 2026-04-27 at 12.16.41 PM.jpeg",
+            "mimetype": "image/jpeg",
+            "type": ".jpeg",
+            "size": 209616,
+            "folder": "estacion/filefoto"
+          },
+          "File_cumplimiento": {
+            "name": "DECLARACION_DE_CUMPLIMIENTO_ESTACIONES_DE_CARGA- RETIE.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 260674,
+            "folder": "estacion/filecumplimiento"
+          },
+          "File_conformidad": {
+            "name": "DECLARACION_DE_CUMPLIMIENTO_ESTACIONES_DE_CARGA- RETIE.pdf",
+            "mimetype": "application/pdf",
+            "type": ".pdf",
+            "size": 260674,
+            "folder": "estacion/fileconformidad"
+          }
+        },
+        "Acceso": "Descarga la App VELTTIO en google play o App store, crea el usuario, recarga la billetera de la App",
+        "Puntoscarga": 1,
+        "Conectores": {
+          "Tipo 2 - IEC 62196": 1
+        },
+        "PotenciaMax": 7,
+        "Cobros": {
+          "kWh consumidos": 1
+        },
+        "Precios": {
+          "Min": 1400,
+          "Max": 1400
+        }
+      }
+    }
+  ]
+}

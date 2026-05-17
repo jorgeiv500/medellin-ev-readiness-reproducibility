@@ -1,0 +1,912 @@
+{
+  "id": "qqm3-dw2u",
+  "name": "Estaciones de Gas Natural Vehicular y Carga Eléctrica – EPM",
+  "assetType": "dataset",
+  "attribution": "Fundación Empresas Públicas de Medellín, Antioquia",
+  "attributionLink": "https://www.datos.gov.co/d/qqm3-dw2u",
+  "averageRating": 0,
+  "category": "Función pública",
+  "createdAt": 1636746430,
+  "description": "Las EDS son estaciones de servicio de Gas Natural Vehicular – GNV marca propia EPM, en las que los usuarios de este combustible pueden ir a tanquear sus vehículos. \n\nEn estas estaciones el suministro de gasolina no es de EPM, solo incluye la parte de la estación que vende exclusivamente GNV.\n\nEPM publica información acerca de las estaciones de movilidad eléctrica que tiene en el país. Datos con vigencia del año 2025.",
+  "diciBackend": false,
+  "displayType": "table",
+  "downloadCount": 490,
+  "hideFromCatalog": false,
+  "hideFromDataJson": false,
+  "licenseId": "CC_40_BY_SA",
+  "locked": false,
+  "newBackend": true,
+  "numberOfComments": 0,
+  "oid": 41494439,
+  "provenance": "official",
+  "publicationAppendEnabled": false,
+  "publicationDate": 1753802185,
+  "publicationGroup": 18509010,
+  "publicationStage": "published",
+  "rowsUpdatedAt": 1753802174,
+  "rowsUpdatedBy": "2hkq-c8bw",
+  "tableId": 19994015,
+  "totalTimesRated": 0,
+  "viewCount": 4214,
+  "viewLastModified": 1778657173,
+  "viewType": "tabular",
+  "approvals": [
+    {
+      "reviewedAt": 1637501091,
+      "reviewedAutomatically": false,
+      "state": "approved",
+      "submissionId": 7011354,
+      "submissionObject": "public_audience_request",
+      "submissionOutcome": "change_audience",
+      "submittedAt": 1637087064,
+      "targetAudience": "public",
+      "workflowId": 2188,
+      "reviewer": {
+        "id": "r4qn-dwdd",
+        "displayName": "Ministerio de Tecnologías de la Información y las Comunicaciones - Datos Abiertos"
+      },
+      "submissionDetails": {
+        "permissionType": "READ"
+      },
+      "submissionOutcomeApplication": {
+        "endedAt": 1637501092,
+        "failureCount": 0,
+        "startedAt": 1637501091,
+        "status": "success"
+      },
+      "submitter": {
+        "id": "2hkq-c8bw",
+        "displayName": "EPM"
+      }
+    }
+  ],
+  "clientContext": {
+    "clientContextVariables": [],
+    "inheritedVariables": {}
+  },
+  "columns": [
+    {
+      "id": 615042462,
+      "name": "Tipo de estacion",
+      "dataTypeName": "text",
+      "description": "Indica la categoría de la infraestructura operada por EPM, diferenciando entre estaciones de carga para vehículos eléctricos y estaciones emisoras de la radio Aló EPM.",
+      "fieldName": "tipo_de_estacion",
+      "position": 1,
+      "renderTypeName": "text",
+      "tableColumnId": 140035882,
+      "cachedContents": {
+        "non_null": "55",
+        "largest": "Estación de gas natural vehicular",
+        "null": "0",
+        "top": [
+          {
+            "item": "Estación de carga eléctrica EPM",
+            "count": "43"
+          },
+          {
+            "item": "Estación de gas natural vehicular",
+            "count": "12"
+          }
+        ],
+        "smallest": "Estación de carga eléctrica EPM",
+        "count": "55",
+        "cardinality": "55"
+      },
+      "format": {}
+    },
+    {
+      "id": 615042463,
+      "name": "Estación",
+      "dataTypeName": "text",
+      "description": "Identifica el nombre específico de cada punto de servicio incluido en el conjunto de datos, abarcando tanto estaciones de carga para vehículos eléctricos como estaciones de radio de EPM.",
+      "fieldName": "estaci_n",
+      "position": 2,
+      "renderTypeName": "text",
+      "tableColumnId": 140035883,
+      "cachedContents": {
+        "non_null": "55",
+        "largest": "Viva Palmas",
+        "null": "0",
+        "top": [
+          {
+            "item": "Oviedo",
+            "count": "2"
+          },
+          {
+            "item": "Exposiciones",
+            "count": "2"
+          },
+          {
+            "item": "CC Puerta del Norte",
+            "count": "2"
+          },
+          {
+            "item": "La Fe",
+            "count": "2"
+          },
+          {
+            "item": "CC Los Molinos",
+            "count": "2"
+          },
+          {
+            "item": "1er Parque Laureles",
+            "count": "2"
+          },
+          {
+            "item": "CC Mayorca",
+            "count": "2"
+          },
+          {
+            "item": "Nuestro Urabá",
+            "count": "2"
+          },
+          {
+            "item": "CC Unicentro",
+            "count": "2"
+          },
+          {
+            "item": "MAMM Ciudad del Rio",
+            "count": "2"
+          },
+          {
+            "item": "CC La Florida",
+            "count": "2"
+          },
+          {
+            "item": "Tesoro 2",
+            "count": "2"
+          },
+          {
+            "item": "Sao Paulo",
+            "count": "2"
+          },
+          {
+            "item": "Viva Palmas",
+            "count": "2"
+          },
+          {
+            "item": "CC Santa Fé",
+            "count": "2"
+          },
+          {
+            "item": "CC El Tesoro",
+            "count": "2"
+          },
+          {
+            "item": "Plaza Mayor",
+            "count": "2"
+          },
+          {
+            "item": "Éxito Poblado",
+            "count": "2"
+          },
+          {
+            "item": "Milla de Oro",
+            "count": "2"
+          },
+          {
+            "item": "EDS Santa María - Sabaneta",
+            "count": "1"
+          }
+        ],
+        "smallest": "1er Parque Laureles",
+        "count": "55",
+        "cardinality": "55"
+      },
+      "format": {}
+    },
+    {
+      "id": 615042464,
+      "name": "Ciudad",
+      "dataTypeName": "text",
+      "description": "Indica la localidad donde se encuentra ubicada cada estación de carga eléctrica o emisora de radio de EPM, proporcionando información sobre su ubicación geográfica dentro de Colombia.",
+      "fieldName": "ciudad",
+      "position": 3,
+      "renderTypeName": "text",
+      "tableColumnId": 140035884,
+      "cachedContents": {
+        "non_null": "55",
+        "largest": "Sabaneta",
+        "null": "0",
+        "top": [
+          {
+            "item": "Medellín",
+            "count": "37"
+          },
+          {
+            "item": "Sabaneta",
+            "count": "4"
+          },
+          {
+            "item": "Envigado",
+            "count": "3"
+          },
+          {
+            "item": "El Retiro",
+            "count": "2"
+          },
+          {
+            "item": "Rionegro",
+            "count": "2"
+          },
+          {
+            "item": "Bello",
+            "count": "2"
+          },
+          {
+            "item": "Aparatadó",
+            "count": "2"
+          },
+          {
+            "item": "La Pintada",
+            "count": "1"
+          },
+          {
+            "item": "Apartadó",
+            "count": "1"
+          },
+          {
+            "item": "Barbosa",
+            "count": "1"
+          }
+        ],
+        "smallest": "Aparatadó",
+        "count": "55",
+        "cardinality": "55"
+      },
+      "format": {}
+    },
+    {
+      "id": 615042465,
+      "name": "Tipo de carga",
+      "dataTypeName": "text",
+      "description": "Especifica la velocidad de carga disponible en cada estación de carga eléctrica de EPM. Puede clasificarse como \"Rápida\" o \"Semi Rápida\", dependiendo del tiempo necesario para cargar un vehículo eléctrico. En el caso de las estaciones de radio, el valor se indica como \"N/A\", ya que no aplica.",
+      "fieldName": "tipo",
+      "position": 4,
+      "renderTypeName": "text",
+      "tableColumnId": 140035890,
+      "cachedContents": {
+        "non_null": "55",
+        "largest": "Semi Rápida",
+        "null": "0",
+        "top": [
+          {
+            "item": "Semi Rápida",
+            "count": "36"
+          },
+          {
+            "item": "Información no disponible",
+            "count": "10"
+          },
+          {
+            "item": "Rápida",
+            "count": "7"
+          },
+          {
+            "item": "Llenado rápido",
+            "count": "2"
+          }
+        ],
+        "smallest": "Información no disponible",
+        "count": "55",
+        "cardinality": "55"
+      },
+      "format": {}
+    },
+    {
+      "id": 615042466,
+      "name": "Horario",
+      "dataTypeName": "text",
+      "description": "Indica la disponibilidad de cada estación de carga eléctrica. La mayoría de las estaciones operan en horarios amplios, algunas 24 horas, mientras que otras tienen horarios más restringidos. ",
+      "fieldName": "horario",
+      "position": 5,
+      "renderTypeName": "text",
+      "tableColumnId": 140035885,
+      "cachedContents": {
+        "non_null": "55",
+        "largest": "9:00 am a 8:00 pm",
+        "null": "0",
+        "top": [
+          {
+            "item": "12:00 pm a 11:59 pm",
+            "count": "12"
+          },
+          {
+            "item": "24 horas",
+            "count": "11"
+          },
+          {
+            "item": "8:00 am a 10:00 pm",
+            "count": "8"
+          },
+          {
+            "item": "10:00 am a 9:00 pm",
+            "count": "6"
+          },
+          {
+            "item": "7:00 am a 8:00 pm",
+            "count": "2"
+          },
+          {
+            "item": "10:00 am a 10:00 pm",
+            "count": "2"
+          },
+          {
+            "item": "9:00 am a 8:00 pm",
+            "count": "2"
+          },
+          {
+            "item": "8:00 am a 9:00 pm",
+            "count": "2"
+          },
+          {
+            "item": "8:00 am a 6:00 pm",
+            "count": "2"
+          },
+          {
+            "item": "8:00 am a 8:00 pm",
+            "count": "2"
+          },
+          {
+            "item": "7:30 am a 5:30 pm",
+            "count": "2"
+          },
+          {
+            "item": "11:00 am a 9:00 pm",
+            "count": "2"
+          },
+          {
+            "item": "6:00 am a 10:00 pm",
+            "count": "1"
+          },
+          {
+            "item": "12:00 pm a 11:59pm",
+            "count": "1"
+          }
+        ],
+        "smallest": "10:00 am a 10:00 pm",
+        "count": "55",
+        "cardinality": "55"
+      },
+      "format": {}
+    },
+    {
+      "id": 615042467,
+      "name": "Dirección",
+      "dataTypeName": "text",
+      "description": "Muestra la ubicación de cada estación de carga eléctrica. La mayoría se encuentran en Medellín y municipios del Área Metropolitana del Valle de Aburrá, como Bello, Envigado y Sabaneta. También hay estaciones en Rionegro, Manizales, Bucaramanga, Floridablanca, Armenia, Pereira, Quindío y La Pintada. Algunas direcciones no están especificadas (N/A).",
+      "fieldName": "direcci_n",
+      "position": 6,
+      "renderTypeName": "text",
+      "tableColumnId": 140035886,
+      "cachedContents": {
+        "non_null": "55",
+        "largest": "Transversal 39 B # 79 - 41, Medellín",
+        "null": "0",
+        "top": [
+          {
+            "item": "Calle 36 D Sur # 27 A - 105, Envigado",
+            "count": "2"
+          },
+          {
+            "item": "CR 43 A CL 6 Sur - 15 (Interior 5000)",
+            "count": "2"
+          },
+          {
+            "item": "Circular 5 # 73 - 15, Medellin",
+            "count": "2"
+          },
+          {
+            "item": "Calle 10 # 43 E - 135, Medellin",
+            "count": "2"
+          },
+          {
+            "item": "Carrera 99 84 -18 Km 1 Vía Carepa",
+            "count": "2"
+          },
+          {
+            "item": "Carrera 44 N° 19A-100",
+            "count": "2"
+          },
+          {
+            "item": "Carrera 43 A Calle 18 SUR - 135, Medellin",
+            "count": "2"
+          },
+          {
+            "item": "Carrera 43 A # 7 Sur - 170, Medellín",
+            "count": "2"
+          },
+          {
+            "item": "Mall la Fé via las Palmas, km 28, Retiro, Antioquia",
+            "count": "2"
+          },
+          {
+            "item": "Carrera 66 B # 34 A - 76, Medellín",
+            "count": "2"
+          },
+          {
+            "item": "Carrer 43 A # 3 Sur -130, Medellin",
+            "count": "2"
+          },
+          {
+            "item": "Carrera 25 A # 1 A Sur – 45, Medellín, sotano 4 Plaza Palmas",
+            "count": "2"
+          },
+          {
+            "item": "Diagonal 55 # 34 - 67, Bello",
+            "count": "2"
+          },
+          {
+            "item": "Calle 30 A # 82 A - 26, Medellín",
+            "count": "2"
+          },
+          {
+            "item": "Calle 41 # 55 - 80, Medellín",
+            "count": "2"
+          },
+          {
+            "item": "Carrera 25 A # 1 A Sur – 45, Medellín",
+            "count": "2"
+          },
+          {
+            "item": "Calle 51 Sur # 48 - 57, Sabaneta",
+            "count": "2"
+          },
+          {
+            "item": "Calle 71 # 65 - 150, Medellín",
+            "count": "2"
+          },
+          {
+            "item": "DG 64E CL 67-405",
+            "count": "1"
+          },
+          {
+            "item": "CR 65 # 30-40",
+            "count": "1"
+          }
+        ],
+        "smallest": "Autopista Norte Km 23",
+        "count": "55",
+        "cardinality": "55"
+      },
+      "format": {}
+    },
+    {
+      "id": 615042468,
+      "name": "Estándar Cargador",
+      "dataTypeName": "text",
+      "description": "Los cargadores disponibles incluyen conexiones J1772 (7,4 kW, AC) y Mennekes (22 kW, AC) para carga en corriente alterna, así como CHAdeMO y CCS (Combo 1 y Combo 2) para carga rápida en corriente continua. Mientras que J1772 es común en América, Mennekes se usa en Europa, y CHAdeMO y CCS permiten una carga más veloz en estaciones compatibles. Algunos puntos cuentan con carga en AC Tipo 2, y en ciertas ubicaciones no se especifica el estándar de carga.",
+      "fieldName": "est_ndar_cargador",
+      "position": 7,
+      "renderTypeName": "text",
+      "tableColumnId": 140035887,
+      "cachedContents": {
+        "non_null": "55",
+        "largest": "J1772- 7,4 Kw-h",
+        "null": "0",
+        "top": [
+          {
+            "item": "Europeo- Mennekes 22 Kw-h",
+            "count": "18"
+          },
+          {
+            "item": "J1772- 7,4 Kw-h",
+            "count": "17"
+          },
+          {
+            "item": "Información no disponible",
+            "count": "12"
+          },
+          {
+            "item": "CHAdeMO- COMBO 1- MENNEKES",
+            "count": "5"
+          },
+          {
+            "item": "CHAdeMO, CCS y AC tipo 2",
+            "count": "2"
+          },
+          {
+            "item": "J1772- 11 Kw-h",
+            "count": "1"
+          }
+        ],
+        "smallest": "CHAdeMO, CCS y AC tipo 2",
+        "count": "55",
+        "cardinality": "55"
+      },
+      "format": {}
+    },
+    {
+      "id": 615042473,
+      "name": "Ubicación o sitio web",
+      "dataTypeName": "url",
+      "description": "Enlace a un sitio web con más información sobre la estación o una referencia de ubicación adicional.",
+      "fieldName": "ubicaci_n_o_sitio_web",
+      "position": 8,
+      "renderTypeName": "url",
+      "tableColumnId": 160484117,
+      "format": {},
+      "subColumnTypes": [
+        "url",
+        "description"
+      ]
+    },
+    {
+      "id": 615042470,
+      "name": "Coordenadas",
+      "dataTypeName": "text",
+      "description": "Esta columna contiene las coordenadas geográficas (latitud y longitud) de los puntos de ubicación registrados en el conjunto de datos. Cada valor representa una posición específica en el mapa, expresada en el sistema de referencia WGS 84, que permite su visualización y análisis en herramientas de geolocalización.",
+      "fieldName": "coordenadas",
+      "position": 9,
+      "renderTypeName": "text",
+      "tableColumnId": 140035888,
+      "cachedContents": {
+        "non_null": "55",
+        "largest": "7.87401680,-76.63507450",
+        "null": "0",
+        "top": [
+          {
+            "item": "6.19669812,-75.55892548",
+            "count": "4"
+          },
+          {
+            "item": "6.24171224,-75.58784611",
+            "count": "2"
+          },
+          {
+            "item": "6.24262272,-75.57617529",
+            "count": "2"
+          },
+          {
+            "item": "6.16070400,-75.60459600",
+            "count": "2"
+          },
+          {
+            "item": "6.34033635,-75.54240445",
+            "count": "2"
+          },
+          {
+            "item": "7.87401680,-76.63507450",
+            "count": "2"
+          },
+          {
+            "item": "6.24564930,-75.59327930",
+            "count": "2"
+          },
+          {
+            "item": "6.22400100,-75.57404400",
+            "count": "2"
+          },
+          {
+            "item": "6.19907980,-75.57405890",
+            "count": "2"
+          },
+          {
+            "item": "6.23199997,-75.60442682",
+            "count": "2"
+          },
+          {
+            "item": "6.18487300,-75.57991110",
+            "count": "2"
+          },
+          {
+            "item": "6.15293469,-75.54097876",
+            "count": "2"
+          },
+          {
+            "item": "6.21194987,-75.57404774",
+            "count": "2"
+          },
+          {
+            "item": "6.09031580, -75.49305705",
+            "count": "2"
+          },
+          {
+            "item": "6.19929518,-75.57225902",
+            "count": "2"
+          },
+          {
+            "item": "6.27227632,-75.57994240",
+            "count": "2"
+          },
+          {
+            "item": "6.19638224,-75.57439339",
+            "count": "2"
+          },
+          {
+            "item": "6.23110, -75.60859",
+            "count": "1"
+          },
+          {
+            "item": "6.15896, -75.60821",
+            "count": "1"
+          },
+          {
+            "item": "6.23825, -75.57453",
+            "count": "1"
+          }
+        ],
+        "smallest": "5.74153784,-75.60598521",
+        "count": "55",
+        "cardinality": "55"
+      },
+      "format": {}
+    },
+    {
+      "id": 615042471,
+      "name": "Latitud",
+      "dataTypeName": "text",
+      "description": "Indica la posición geográfica de un punto en dirección norte-sur, medida en grados con referencia al ecuador (0°). Los valores positivos corresponden al hemisferio norte y los negativos al hemisferio sur.",
+      "fieldName": "latitud",
+      "position": 10,
+      "renderTypeName": "text",
+      "tableColumnId": 140035889,
+      "cachedContents": {
+        "non_null": "55",
+        "largest": "7,87401680",
+        "null": "0",
+        "top": [
+          {
+            "item": "6,19669812",
+            "count": "4"
+          },
+          {
+            "item": "6,34033635",
+            "count": "2"
+          },
+          {
+            "item": "6,24564930",
+            "count": "2"
+          },
+          {
+            "item": "7,87401680",
+            "count": "2"
+          },
+          {
+            "item": "6,24262272",
+            "count": "2"
+          },
+          {
+            "item": "6,18487300",
+            "count": "2"
+          },
+          {
+            "item": "6,15293469",
+            "count": "2"
+          },
+          {
+            "item": "6,27227632",
+            "count": "2"
+          },
+          {
+            "item": "6,19907980",
+            "count": "2"
+          },
+          {
+            "item": "6,19929518",
+            "count": "2"
+          },
+          {
+            "item": "6,19638224",
+            "count": "2"
+          },
+          {
+            "item": "6,24171224",
+            "count": "2"
+          },
+          {
+            "item": "6,21194987",
+            "count": "2"
+          },
+          {
+            "item": "6,23199997",
+            "count": "2"
+          },
+          {
+            "item": "6,22400100",
+            "count": "2"
+          },
+          {
+            "item": "6.09031580",
+            "count": "2"
+          },
+          {
+            "item": "6,16070400",
+            "count": "2"
+          },
+          {
+            "item": "6,17900319",
+            "count": "1"
+          },
+          {
+            "item": "6.23825",
+            "count": "1"
+          },
+          {
+            "item": "6.23186",
+            "count": "1"
+          }
+        ],
+        "smallest": "5,74153784",
+        "count": "55",
+        "cardinality": "55"
+      },
+      "format": {}
+    },
+    {
+      "id": 615042472,
+      "name": "Longitud",
+      "dataTypeName": "text",
+      "description": "Representa la posición geográfica de un punto en dirección este-oeste, medida en grados desde el meridiano de Greenwich (0°). Los valores positivos indican ubicaciones al este y los negativos al oeste de este meridiano.",
+      "fieldName": "longitud",
+      "position": 11,
+      "renderTypeName": "text",
+      "tableColumnId": 140035881,
+      "cachedContents": {
+        "non_null": "55",
+        "largest": "-76.63592",
+        "null": "0",
+        "top": [
+          {
+            "item": "-75,55892548",
+            "count": "4"
+          },
+          {
+            "item": "-75,60442682",
+            "count": "2"
+          },
+          {
+            "item": "-75,57405890",
+            "count": "2"
+          },
+          {
+            "item": "-75,57994240",
+            "count": "2"
+          },
+          {
+            "item": "-75,57617529",
+            "count": "2"
+          },
+          {
+            "item": "-75,57404400",
+            "count": "2"
+          },
+          {
+            "item": "-75,54240445",
+            "count": "2"
+          },
+          {
+            "item": "-75,59327930",
+            "count": "2"
+          },
+          {
+            "item": "-75,60459600",
+            "count": "2"
+          },
+          {
+            "item": "-75,57404774",
+            "count": "2"
+          },
+          {
+            "item": "-75,54097876",
+            "count": "2"
+          },
+          {
+            "item": "-76,63507450",
+            "count": "2"
+          },
+          {
+            "item": "-75,57991110",
+            "count": "2"
+          },
+          {
+            "item": "-75,58784611",
+            "count": "2"
+          },
+          {
+            "item": "-75,57439339",
+            "count": "2"
+          },
+          {
+            "item": "-75,57225902",
+            "count": "2"
+          },
+          {
+            "item": "75.49305705",
+            "count": "2"
+          },
+          {
+            "item": "-75,61927444",
+            "count": "1"
+          },
+          {
+            "item": "-75.44218",
+            "count": "1"
+          },
+          {
+            "item": "-75,44224100",
+            "count": "1"
+          }
+        ],
+        "smallest": "-75.41951",
+        "count": "55",
+        "cardinality": "55"
+      },
+      "format": {}
+    }
+  ],
+  "grants": [
+    {
+      "inherited": false,
+      "type": "viewer",
+      "flags": [
+        "public"
+      ]
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution | Share Alike 4.0 International",
+    "logoUrl": "images/licenses/cc30bysa.png",
+    "termsLink": "http://creativecommons.org/licenses/by-sa/4.0/legalcode"
+  },
+  "metadata": {
+    "custom_fields": {
+      "Información de la Entidad": {
+        "Municipio": "Medellín",
+        "Nombre de la Entidad": "Fundación Empresas Públicas de Medellín, Antioquia",
+        "DIVIPOLA Municipio": "5001",
+        "Orden": "Territorial",
+        "Sector": "Educación",
+        "Departamento": "Antioquia"
+      },
+      "Información de Datos": {
+        "Cobertura Geográfica": "Municipal",
+        "Idioma": "Español"
+      }
+    }
+  },
+  "owner": {
+    "id": "2hkq-c8bw",
+    "displayName": "EPM",
+    "profileImageUrlLarge": "/api/users/2hkq-c8bw/profile_images/LARGE",
+    "profileImageUrlMedium": "/api/users/2hkq-c8bw/profile_images/THUMB",
+    "profileImageUrlSmall": "/api/users/2hkq-c8bw/profile_images/TINY",
+    "screenName": "EPM",
+    "type": "interactive",
+    "flags": [
+      "acceptedEula",
+      "mayBeStoriesCoOwner"
+    ]
+  },
+  "query": {},
+  "rights": [
+    "read"
+  ],
+  "tableAuthor": {
+    "id": "2hkq-c8bw",
+    "displayName": "EPM",
+    "profileImageUrlLarge": "/api/users/2hkq-c8bw/profile_images/LARGE",
+    "profileImageUrlMedium": "/api/users/2hkq-c8bw/profile_images/THUMB",
+    "profileImageUrlSmall": "/api/users/2hkq-c8bw/profile_images/TINY",
+    "screenName": "EPM",
+    "type": "interactive",
+    "flags": [
+      "acceptedEula",
+      "mayBeStoriesCoOwner"
+    ]
+  },
+  "tags": [
+    "gas",
+    "estaciones",
+    "vehiculos",
+    "epm.",
+    "radio",
+    "vehículos eléctricos"
+  ],
+  "flags": [
+    "default",
+    "ownerMayBeContacted",
+    "restorable",
+    "restorePossibleForType"
+  ]
+}

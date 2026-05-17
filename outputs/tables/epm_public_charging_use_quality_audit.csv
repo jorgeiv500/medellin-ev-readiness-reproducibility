@@ -1,0 +1,14 @@
+check,value,status
+official_dataset_id,bff2-84yc,ok
+local_rows,78,ok
+latest_api_rows,78,ok
+socrata_count_api,78,ok
+local_equals_latest_download,True,ok
+declared_temporal_coverage,January 2019-June 2025,ok
+observed_min_month,2019-01,ok
+observed_max_month,2025-06,ok
+expected_months_for_declared_coverage,78,ok
+missing_year_month_pairs,0,ok
+negative_total_months,2020-07; 2020-10,source_warning
+metadata_rows_updated_at_unix,1756228631,info
+metadata_warning,atypical high/low variations may occur due to operational reading and settlement adjustments,source_warning

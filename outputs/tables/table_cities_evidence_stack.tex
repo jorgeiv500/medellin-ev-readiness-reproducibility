@@ -1,0 +1,11 @@
+\begin{tabularx}{\textwidth}{p{0.18\textwidth}p{0.14\textwidth}XX}
+\toprule
+Evidence layer & Observed size & Analytical use & Validation boundary \\
+\midrule
+Mapped public charging & 70 records & Reconciles CargaME, EPM, and OSM evidence into the baseline supply layer. & Confirms mapped evidence, not real-time status, connector uptime, queues, tariff access, or payment conditions. \\
+EPM public-use disclosure & 78 monthly rows & Confirms disclosed public activity from January 2019 to June 2025 and flags source anomalies. & Aggregate use table; not connector-level sessions, failed starts, occupancy, or reliability history. \\
+Mobility, terrain, and vulnerability & 485 OD/SIT zones & Links road-network access, slope, home-charging constraint, mobility pressure, and social vulnerability. & Diagnostic planning scale; not parcel, curb, parking-operation, or construction feasibility. \\
+Activity and intermodal anchors & SITVA, GTFS, centralities & Identifies where charging could connect to everyday destinations and public-transport centrality. & Co-location opportunity only; does not imply transit ridership effects or operator approval. \\
+After-expansion candidates & 3,820 validation leads & Screens public facilities, activity anchors, parking, education, fuel stations, universities, centralities, and SITVA nodes. & Candidate lead pool, not a deployment list; field, utility, safety, tariff, and permit review remain required. \\
+\bottomrule
+\end{tabularx}

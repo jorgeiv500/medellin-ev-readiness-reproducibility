@@ -1,0 +1,97 @@
+sources:
+  chargers:
+    CargaME:
+      status: downloaded
+      path: data_raw/chargers/cargame_valle_aburra.geojson
+      url: https://siveeic.minenergia.gov.co:3011/crg/resumenestacionescarga/0/0
+      notes: Official national registry subset for Valle de Aburra municipalities; national raw JSON also retained.
+    EPM:
+      status: downloaded
+      path: data_raw/chargers/epm_public_charging.csv
+      url: https://www.datos.gov.co
+      notes: EPM station inventory saved as epm_gnv_ev_stations.csv; public charging-use aggregates saved as epm_public_charging_use_2019_2025.csv.
+    UPME:
+      status: pending
+      path: data_raw/chargers/upme_charging.geojson
+      url: null
+      notes: Charger-specific UPME layer not yet located; UPME national substation layer is downloaded under electric_planning.
+    OpenChargeMap:
+      status: blocked
+      path: data_raw/chargers/openchargemap_medellin.geojson
+      url: https://api.openchargemap.io/v3/poi/
+      notes: API returned 403 without an API key; retry later with OPENCHARGEMAP_API_KEY.
+    OSM:
+      status: downloaded
+      path: data_raw/osm/overpass_charging_stations.json
+      url: openstreetmap
+      notes: Raw Overpass extract for amenity=charging_station over Valle de Aburra bbox.
+
+  mobility:
+    eod_valle_aburra:
+      status: downloaded
+      path: data_raw/mobility/eod_valle_aburra
+      url: https://datosabiertos.metropol.gov.co
+      notes: EOD 2017 households, residents, trips, and SIT zoning shapefile downloaded.
+
+  demographics:
+    dane:
+      status: pending
+      path: data_raw/demographics/dane
+      url: null
+      notes: Population, households, dwelling type, socioeconomic proxies.
+    medellin:
+      status: downloaded
+      path: data_raw/demographics/medellin
+      url: https://www.medellin.gov.co/es/centro-documental/proyecciones-poblacion-viviendas-y-hogares/
+      notes: Population, households, dwellings, barrio/vereda projections, deficit workbooks, and ECV ArcGIS indicators downloaded.
+
+  transport:
+    gtfs_sitva:
+      status: downloaded
+      path: data_raw/gtfs
+      url: https://github.com/ColombiaInfo/ColombiaGTFS/tree/master/Medellin%20-%20Metro
+      notes: Metro Medellin GTFS text files downloaded from ColombiaGTFS.
+    osm_network:
+      status: generated
+      path: data_processed/road_network.graphml
+      url: openstreetmap
+      notes: Drive network downloaded with OSMnx.
+
+  activity_anchors:
+    geomedellin:
+      status: downloaded
+      path: data_raw/activity/geomedellin
+      url: https://www.medellin.gov.co/servidormapas/rest/services
+      notes: Higher education, education sites, facilities, centralities, and transport activity layers downloaded where public.
+    osm_pois:
+      status: downloaded
+      path: data_raw/osm
+      url: openstreetmap
+      notes: Raw Overpass extracts saved for charging stations, fuel stations, parking, and activity anchors.
+    bike_parking:
+      status: pending
+      path: data_raw/activity/bike_parking.geojson
+      url: null
+      notes: Metro/AMVA cicloparqueaderos when available.
+
+  implementation:
+    pot_land_use:
+      status: downloaded
+      path: data_raw/planning/geomedellin
+      url: https://www.medellin.gov.co/servidormapas/rest/services/ordenamiento_ter
+      notes: POT land classification, facilities, centralities, corridors, cycloroutes, and road hierarchy downloaded.
+    safety:
+      status: downloaded
+      path: data_raw/safety/geomedellin
+      url: https://www.medellin.gov.co/servidormapas/rest/services/transporte/VM_Accidentes/MapServer
+      notes: 2022 total traffic incidents, deaths, and injuries downloaded from GeoMedellin.
+    electric_planning:
+      status: downloaded
+      path: data_raw/electric/upme_substations_national_raw.json
+      url: https://geo.upme.gov.co/server/rest/services/SUBESTACIONES/UPME_EN_DI_SUBESTACION_edicion/FeatureServer/0
+      notes: UPME national distribution substation layer downloaded by objectId batches; EPM hosting capacity remains pending.
+    dem:
+      status: downloaded
+      path: data_raw/topography
+      url: https://s3.amazonaws.com/elevation-tiles-prod/skadi/
+      notes: SRTM/Skadi HGT tiles N05W076 and N06W076 downloaded and decompressed for slope/elevation.

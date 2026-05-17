@@ -1,0 +1,9356 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-05-14T16:46:25Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 465165180,
+      "lat": 6.2077919,
+      "lon": -75.5675769,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 504221270,
+      "lat": 6.2614712,
+      "lon": -75.5683946,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 795727484,
+      "lat": 6.2800386,
+      "lon": -75.6043902,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1201126462,
+      "lat": 6.2159468,
+      "lon": -75.5765951,
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "fee": "no",
+        "name": "Parqueadero Home Center",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1300800504,
+      "lat": 6.2733061,
+      "lon": -75.5577498,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1672192311,
+      "lat": 6.1705233,
+      "lon": -75.5793916,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1672192333,
+      "lat": 6.168454,
+      "lon": -75.5881678,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1672192342,
+      "lat": 6.1683473,
+      "lon": -75.5873417,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1672213688,
+      "lat": 6.1748647,
+      "lon": -75.5854641,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1852110240,
+      "lat": 6.2503239,
+      "lon": -75.6102501,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2071526238,
+      "lat": 6.2713075,
+      "lon": -75.5732723,
+      "tags": {
+        "access": "destination",
+        "amenity": "parking",
+        "operator": "Secretaría de Movilidad de Medellín",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2378625323,
+      "lat": 6.2304036,
+      "lon": -75.5423518,
+      "tags": {
+        "amenity": "parking",
+        "name": "Caunces Oriente",
+        "park_ride": "yes",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2417944524,
+      "lat": 6.1703333,
+      "lon": -75.584208,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2418112354,
+      "lat": 6.2506847,
+      "lon": -75.571617,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2418112360,
+      "lat": 6.2508286,
+      "lon": -75.5709706,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2418112362,
+      "lat": 6.2498661,
+      "lon": -75.5711369,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2418112367,
+      "lat": 6.2504874,
+      "lon": -75.5731807,
+      "tags": {
+        "amenity": "parking",
+        "parking": "multi-storey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2418112370,
+      "lat": 6.2508473,
+      "lon": -75.5740471,
+      "tags": {
+        "amenity": "parking",
+        "parking": "multi-storey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2418112371,
+      "lat": 6.2482717,
+      "lon": -75.573752,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2418112372,
+      "lat": 6.2507646,
+      "lon": -75.5702839,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2418127139,
+      "lat": 6.2094879,
+      "lon": -75.5710537,
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "yes",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2418127158,
+      "lat": 6.1988553,
+      "lon": -75.5747793,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2418127162,
+      "lat": 6.1973647,
+      "lon": -75.5733148,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3393326508,
+      "lat": 6.1523911,
+      "lon": -75.377271,
+      "tags": {
+        "amenity": "parking",
+        "capacity": "20",
+        "name": "Parqueadero La 54",
+        "parking": "garage_boxes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3748087508,
+      "lat": 6.2946272,
+      "lon": -75.5414517,
+      "tags": {
+        "access": "permissive",
+        "amenity": "parking",
+        "bus": "yes",
+        "capacity": "6",
+        "description": "parqueadero de buses",
+        "fee": "yes",
+        "operator": "Coopetransa",
+        "parking": "surface",
+        "supervised": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3787811251,
+      "lat": 6.2991353,
+      "lon": -75.5387561,
+      "tags": {
+        "amenity": "parking",
+        "name": "Parqueadero de Motos"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3834132300,
+      "lat": 6.2483181,
+      "lon": -75.5826265,
+      "tags": {
+        "amenity": "parking",
+        "layer": "-1",
+        "name": "Good Year",
+        "parking": "underground"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4154627541,
+      "lat": 6.0314705,
+      "lon": -75.4311771,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4177169771,
+      "lat": 6.2908632,
+      "lon": -75.544939,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4330951521,
+      "lat": 6.3547693,
+      "lon": -75.4568693,
+      "tags": {
+        "amenity": "parking",
+        "name": "El ventiadero"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4534000001,
+      "lat": 6.1715911,
+      "lon": -75.4326027,
+      "tags": {
+        "amenity": "parking",
+        "fee": "yes",
+        "name": "Off Airport Parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4951647241,
+      "lat": 6.2454644,
+      "lon": -75.617295,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5054225129,
+      "lat": 6.2349011,
+      "lon": -75.5876648,
+      "tags": {
+        "access": "destination",
+        "amenity": "parking",
+        "parking": "surface",
+        "source": "note 760681"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5636405473,
+      "lat": 6.2619229,
+      "lon": -75.575347,
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "fee": "no",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5636405474,
+      "lat": 6.2613751,
+      "lon": -75.5753579,
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "fee": "no",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5842116330,
+      "lat": 6.2388205,
+      "lon": -75.6037397,
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5843762454,
+      "lat": 6.1404424,
+      "lon": -75.3805066,
+      "tags": {
+        "access": "destination",
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5843762478,
+      "lat": 6.1394125,
+      "lon": -75.3819752,
+      "tags": {
+        "access": "destination",
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5844912608,
+      "lat": 6.1549856,
+      "lon": -75.3712059,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5846107688,
+      "lat": 6.1762236,
+      "lon": -75.435082,
+      "tags": {
+        "amenity": "parking",
+        "name": "Parqueadero Las Palmas",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5846107690,
+      "lat": 6.175901,
+      "lon": -75.4369247,
+      "tags": {
+        "amenity": "parking",
+        "name": "Parqueadero La Glorieta",
+        "parking": "surface",
+        "source": "mapillary"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5867899702,
+      "lat": 6.2684773,
+      "lon": -75.5770446,
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6132105368,
+      "lat": 6.283417,
+      "lon": -75.6235007,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7194386798,
+      "lat": 6.2143904,
+      "lon": -75.5962867,
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "yes",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7360172152,
+      "lat": 6.2686316,
+      "lon": -75.5446285,
+      "tags": {
+        "amenity": "parking",
+        "capacity": "1",
+        "fee": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7360172153,
+      "lat": 6.2688368,
+      "lon": -75.5440554,
+      "tags": {
+        "amenity": "parking",
+        "capacity": "2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7439802637,
+      "lat": 6.1807845,
+      "lon": -75.5691223,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7439806210,
+      "lat": 6.1815196,
+      "lon": -75.5693631,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8101101732,
+      "lat": 6.1599849,
+      "lon": -75.6045344,
+      "tags": {
+        "amenity": "parking",
+        "operator": "Mayorca",
+        "parking": "street_side"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8600878768,
+      "lat": 6.244688,
+      "lon": -75.5946444,
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9108720243,
+      "lat": 6.2533863,
+      "lon": -75.584595,
+      "tags": {
+        "Estacionamiento": "parking",
+        "amenity": "parking",
+        "layer": "-1",
+        "parking": "underground"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9108996449,
+      "lat": 6.2520909,
+      "lon": -75.5814532,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9115165743,
+      "lat": 6.2545316,
+      "lon": -75.5796971,
+      "tags": {
+        "amenity": "parking",
+        "operator": "Estacionamiento"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9228741359,
+      "lat": 6.2022548,
+      "lon": -75.5717962,
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "yes",
+        "layer": "-1",
+        "parking": "underground"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9375750800,
+      "lat": 6.0789852,
+      "lon": -75.6353065,
+      "tags": {
+        "amenity": "parking",
+        "parking": "multi-storey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9387215479,
+      "lat": 6.2832124,
+      "lon": -75.624169,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9387215496,
+      "lat": 6.2818553,
+      "lon": -75.6120579,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9387687702,
+      "lat": 6.2844422,
+      "lon": -75.613384,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9563225117,
+      "lat": 6.2468935,
+      "lon": -75.5644378,
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "yes",
+        "name": "Parqueadero Metro Palo",
+        "parking": "surface",
+        "surface": "asphalt",
+        "survey:date": "2022-03-10",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9604597095,
+      "lat": 6.1484808,
+      "lon": -75.6175468,
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "yes",
+        "operator": "Parqueadero C&J del Sur",
+        "operator:type": "public",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9699616181,
+      "lat": 6.1582036,
+      "lon": -75.6425558,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9729798381,
+      "lat": 6.2147625,
+      "lon": -75.5771917,
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "yes",
+        "parking": "multi-storey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9738488520,
+      "lat": 6.2294219,
+      "lon": -75.5732078,
+      "tags": {
+        "amenity": "parking",
+        "name": "Parqueadero Popular 2",
+        "opening_hours": "Mo-Fr 06:00-18:00; Sa 06:00-12:00",
+        "parking": "multi-storey",
+        "survey:date": "2022-05-13",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10090512682,
+      "lat": 6.2760229,
+      "lon": -75.4400427,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10316695174,
+      "lat": 6.0930466,
+      "lon": -75.6365997,
+      "tags": {
+        "addr:housenumber": "50-42",
+        "addr:street": "Calle 128 Sur",
+        "amenity": "parking",
+        "name": "Parqueadero Sótano 1",
+        "opening_hours": "Mo-Su 00:00-12:00",
+        "parking": "underground",
+        "phone": "+57 304 5553731"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10555458808,
+      "lat": 6.2504397,
+      "lon": -75.5919726,
+      "tags": {
+        "amenity": "parking",
+        "name": "Parqueadero"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11102890306,
+      "lat": 6.2509536,
+      "lon": -75.5737616,
+      "tags": {
+        "amenity": "parking",
+        "parking": "multi-storey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11135056974,
+      "lat": 6.2462993,
+      "lon": -75.5944763,
+      "tags": {
+        "amenity": "parking",
+        "operator": "Parqueadero armoniko",
+        "operator:type": "private",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11345501555,
+      "lat": 6.2499698,
+      "lon": -75.5971478,
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11518919037,
+      "lat": 6.3050303,
+      "lon": -75.556006,
+      "tags": {
+        "access": "private",
+        "addr:city": "Comuna 2 - Santa Cruz",
+        "addr:housenumber": "53",
+        "addr:street": "Calle 117",
+        "amenity": "parking",
+        "capacity": "30",
+        "capacity:disabled": "30",
+        "covered": "no",
+        "description": "Somos Parqueadero El Playon N 2, y te invitamos a que si vas a pasar cerca de este lugar y necesitas dejar tu vehículo seguro, que lo dejes con nosotros.",
+        "email": "parqueaderoelplayon02@gmail.com",
+        "fee": "yes",
+        "image": "https://firebasestorage.googleapis.com/v0/b/parqueadero-el-playon-n-2.appspot.com/o/IMG_20240105_163819.jpg?alt=media&token=e7aebd9a-c88f-40b2-bf41-15fa974a5431",
+        "maxstay": "meses",
+        "name": "Parqueadero El Playon N 2",
+        "opening_hours": "24/7",
+        "parking": "surface",
+        "payment:cash": "yes",
+        "phone": "+57 3217693833",
+        "supervised": "yes",
+        "surface": "paved",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11773863169,
+      "lat": 6.2533536,
+      "lon": -75.5385167,
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "name": "Parqueadero de buses el faro",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11889688405,
+      "lat": 6.2092203,
+      "lon": -75.5701892,
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "operator": "Parqueadero San José Poblado",
+        "operator:type": "public"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12057535269,
+      "lat": 6.2534874,
+      "lon": -75.5384802,
+      "tags": {
+        "amenity": "parking",
+        "name": "Parqueadero buses el Faro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12072262679,
+      "lat": 6.1108356,
+      "lon": -75.7083228,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12101219204,
+      "lat": 6.2555907,
+      "lon": -75.5411159,
+      "tags": {
+        "amenity": "parking",
+        "name": "Motor respuestos el chamo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12391552301,
+      "lat": 6.1527277,
+      "lon": -75.3748871,
+      "tags": {
+        "amenity": "parking",
+        "name": "Parqueadero"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12877249879,
+      "lat": 6.2012731,
+      "lon": -75.5720477,
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "yes",
+        "parking": "underground"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12989243326,
+      "lat": 6.2812242,
+      "lon": -75.6126343,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13128987101,
+      "lat": 6.2509787,
+      "lon": -75.5734889,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13129045001,
+      "lat": 6.2513052,
+      "lon": -75.573162,
+      "tags": {
+        "amenity": "parking",
+        "name": "Sin Nombre"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13129245501,
+      "lat": 6.251435,
+      "lon": -75.5734381,
+      "tags": {
+        "amenity": "parking",
+        "name": "Parqueadero privado"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13137383015,
+      "lat": 6.2118189,
+      "lon": -75.5594066,
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13203699601,
+      "lat": 6.2527591,
+      "lon": -75.5421321,
+      "tags": {
+        "amenity": "parking",
+        "name": "Calle de aparcamiento de vehículos"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13570440780,
+      "lat": 6.2835561,
+      "lon": -75.6261053,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13639110693,
+      "lat": 6.1830226,
+      "lon": -75.5598191,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13639119890,
+      "lat": 6.1835842,
+      "lon": -75.5609803,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13639145964,
+      "lat": 6.1821462,
+      "lon": -75.5607929,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13646020575,
+      "lat": 6.2101839,
+      "lon": -75.5738144,
+      "tags": {
+        "amenity": "parking",
+        "name": "parqueadero"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13646020578,
+      "lat": 6.210122,
+      "lon": -75.5737497,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13651270846,
+      "lat": 6.3154156,
+      "lon": -75.5585899,
+      "tags": {
+        "amenity": "parking",
+        "layer": "-1",
+        "parking": "underground"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13654026843,
+      "lat": 6.2321404,
+      "lon": -75.5774201,
+      "tags": {
+        "amenity": "parking",
+        "name": "taxis",
+        "park_ride": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 31475034,
+      "center": {
+        "lat": 6.2180267,
+        "lon": -75.5866196
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "yes",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 31478304,
+      "center": {
+        "lat": 6.2195947,
+        "lon": -75.586477
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 31964851,
+      "center": {
+        "lat": 6.2526402,
+        "lon": -75.5699499
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "way",
+      "id": 32472692,
+      "center": {
+        "lat": 6.245588,
+        "lon": -75.5765666
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "name": "Parqueadero Pies Descalzos",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 32472709,
+      "center": {
+        "lat": 6.2465842,
+        "lon": -75.5777501
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 32472726,
+      "center": {
+        "lat": 6.246214,
+        "lon": -75.5765856
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 32472882,
+      "center": {
+        "lat": 6.2432393,
+        "lon": -75.5775984
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "Parqueadero Teatro Metropolitano"
+      }
+    },
+    {
+      "type": "way",
+      "id": 35501774,
+      "center": {
+        "lat": 6.2670267,
+        "lon": -75.5677747
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "fee": "no",
+        "maxstay": "1 day",
+        "operator": "Universidad de Antioquia",
+        "parking": "surface",
+        "supervised": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 35836585,
+      "center": {
+        "lat": 6.1713564,
+        "lon": -75.4287943
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "yes",
+        "name": "Parqueadero Aeropuerto",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 35836642,
+      "center": {
+        "lat": 6.1706436,
+        "lon": -75.4311364
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 35836654,
+      "center": {
+        "lat": 6.1771752,
+        "lon": -75.4285704
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "Parqueadero Zona Carga"
+      }
+    },
+    {
+      "type": "way",
+      "id": 36831447,
+      "center": {
+        "lat": 6.2788987,
+        "lon": -75.5717666
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 36831619,
+      "center": {
+        "lat": 6.2803682,
+        "lon": -75.5715797
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 45104275,
+      "center": {
+        "lat": 6.2081894,
+        "lon": -75.5689895
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 45136218,
+      "center": {
+        "lat": 6.2720791,
+        "lon": -75.5644128
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 45277551,
+      "center": {
+        "lat": 6.2598335,
+        "lon": -75.6080311
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "building": "yes",
+        "name": "parqueadero de buses Floresta San Juan",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48770021,
+      "center": {
+        "lat": 6.2775436,
+        "lon": -75.637476
+      },
+      "tags": {
+        "amenity": "parking",
+        "capacity:disabled": "no",
+        "capacity:parent": "unknown",
+        "capacity:women": "no",
+        "fee": "no",
+        "name": "Trans. Rapido San Cristóbal",
+        "park_ride": "no",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53090381,
+      "center": {
+        "lat": 6.1912707,
+        "lon": -75.6007056
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 102905159,
+      "center": {
+        "lat": 6.2152886,
+        "lon": -75.602641
+      },
+      "tags": {
+        "amenity": "parking",
+        "capacity": "40",
+        "capacity:disabled": "yes",
+        "capacity:parent": "yes",
+        "capacity:women": "yes",
+        "fee": "no",
+        "name": "Buses Belén Rincón 171",
+        "park_ride": "yes",
+        "parking": "surface",
+        "ref": "Ruta 171",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 113540914,
+      "center": {
+        "lat": 6.23797,
+        "lon": -75.5527699
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 113540915,
+      "center": {
+        "lat": 6.2383554,
+        "lon": -75.5523323
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "capacity": "11",
+        "fee": "no",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 113921051,
+      "center": {
+        "lat": 6.2739354,
+        "lon": -75.5590971
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "fee": "no",
+        "name": "Aparcamiento Plaza de mercado",
+        "opening_hours": "Mo-Sa 04:00-16:00; Su 04:00-14:00",
+        "parking": "multi-storey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 116401862,
+      "center": {
+        "lat": 6.2800618,
+        "lon": -75.5623165
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "bus": "yes",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 116759932,
+      "center": {
+        "lat": 6.270742,
+        "lon": -75.629419
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "no",
+        "name": "La explanaciión",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 121436038,
+      "center": {
+        "lat": 6.2711503,
+        "lon": -75.630114
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "name": "Parqueadero de Mario",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 142638975,
+      "center": {
+        "lat": 6.2496736,
+        "lon": -75.584929
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "fee": "no",
+        "name": "Makro/Homecenter",
+        "parking": "surface",
+        "surface": "paved,_asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 142638997,
+      "center": {
+        "lat": 6.251561,
+        "lon": -75.5839175
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "fee": "no",
+        "name": "Jumbo La 65",
+        "parking": "surface",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 142708129,
+      "center": {
+        "lat": 6.2571507,
+        "lon": -75.581303
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 157162522,
+      "center": {
+        "lat": 6.1702181,
+        "lon": -75.5862934
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 157162526,
+      "center": {
+        "lat": 6.1716328,
+        "lon": -75.585825
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 157163571,
+      "center": {
+        "lat": 6.1705957,
+        "lon": -75.5870844
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 183514653,
+      "center": {
+        "lat": 6.2741974,
+        "lon": -75.592447
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "fee": "no",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 183514663,
+      "center": {
+        "lat": 6.2751979,
+        "lon": -75.5920273
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "fee": "no",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 188220945,
+      "center": {
+        "lat": 6.1758644,
+        "lon": -75.6510981
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 188220946,
+      "center": {
+        "lat": 6.1755387,
+        "lon": -75.6480644
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 188220947,
+      "center": {
+        "lat": 6.1751727,
+        "lon": -75.6496878
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 188220948,
+      "center": {
+        "lat": 6.1764671,
+        "lon": -75.6482401
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 188220949,
+      "center": {
+        "lat": 6.1748905,
+        "lon": -75.6508148
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 188220950,
+      "center": {
+        "lat": 6.1763156,
+        "lon": -75.6499693
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 204609837,
+      "center": {
+        "lat": 6.2939062,
+        "lon": -75.588422
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 214348606,
+      "center": {
+        "lat": 6.297188,
+        "lon": -75.5711091
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 214348608,
+      "center": {
+        "lat": 6.2972077,
+        "lon": -75.572177
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 214348609,
+      "center": {
+        "lat": 6.2978827,
+        "lon": -75.5719638
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 230626556,
+      "center": {
+        "lat": 6.2674554,
+        "lon": -75.5704611
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "fee": "no",
+        "parking": "surface",
+        "supervised": "no",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 233200694,
+      "center": {
+        "lat": 6.2733537,
+        "lon": -75.5922624
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "description": "Parqueo para vehículos (para profesoresy motocicletas",
+        "fee": "no",
+        "parking": "surface",
+        "supervised": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 233398948,
+      "center": {
+        "lat": 6.1726103,
+        "lon": -75.5867789
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 241995475,
+      "center": {
+        "lat": 6.1483063,
+        "lon": -75.3918786
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "Parqueadero",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 253980336,
+      "center": {
+        "lat": 6.2463877,
+        "lon": -75.6229274
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "Terminal De Buses"
+      }
+    },
+    {
+      "type": "way",
+      "id": 253980341,
+      "center": {
+        "lat": 6.2459491,
+        "lon": -75.6219435
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 258899105,
+      "center": {
+        "lat": 6.2445388,
+        "lon": -75.5401959
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "capacity": "20",
+        "name": "Parqueadero Buses Enciso - Pinares de Oriente",
+        "operator": "Cotransmallad",
+        "operator:type": "private",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 258916100,
+      "center": {
+        "lat": 6.246252,
+        "lon": -75.5001348
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 258916103,
+      "center": {
+        "lat": 6.2564377,
+        "lon": -75.5026303
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 260618888,
+      "center": {
+        "lat": 6.2565376,
+        "lon": -75.5827644
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "building": "yes",
+        "name": "Parqueaderos Almacenes Exito"
+      }
+    },
+    {
+      "type": "way",
+      "id": 260651379,
+      "center": {
+        "lat": 6.2567609,
+        "lon": -75.5835108
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "Zona de parqueo publico"
+      }
+    },
+    {
+      "type": "way",
+      "id": 269919770,
+      "center": {
+        "lat": 6.2850627,
+        "lon": -75.5832609
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "capacity:disabled": "yes",
+        "fee": "no",
+        "lit": "yes",
+        "name": "Parqueadero Parque Biblioteca",
+        "parking": "surface",
+        "supervised": "no",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "way",
+      "id": 269945086,
+      "center": {
+        "lat": 6.2990234,
+        "lon": -75.5722111
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "name": "Parqueadero de Buses",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 301513777,
+      "center": {
+        "lat": 6.3234273,
+        "lon": -75.5701628
+      },
+      "tags": {
+        "amenity": "parking",
+        "fee": "no",
+        "parking": "surface",
+        "supervised": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 303265312,
+      "center": {
+        "lat": 6.3007185,
+        "lon": -75.5634302
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "Parqueadero Feria de Ganado de Medellín"
+      }
+    },
+    {
+      "type": "way",
+      "id": 320913604,
+      "center": {
+        "lat": 6.2017781,
+        "lon": -75.577846
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 320914650,
+      "center": {
+        "lat": 6.1977293,
+        "lon": -75.5788943
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "name": "Parqueadero Sur Autos",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 323899704,
+      "center": {
+        "lat": 6.2729215,
+        "lon": -75.5875305
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 323899706,
+      "center": {
+        "lat": 6.270882,
+        "lon": -75.5875206
+      },
+      "tags": {
+        "access": "permissive",
+        "amenity": "parking",
+        "fee": "no",
+        "motorcar": "yes",
+        "motorcycle": "no",
+        "parking": "surface",
+        "supervised": "no",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 325040587,
+      "center": {
+        "lat": 6.1498556,
+        "lon": -75.3823113
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 327221883,
+      "center": {
+        "lat": 6.221806,
+        "lon": -75.5917565
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 334110438,
+      "center": {
+        "lat": 6.2540894,
+        "lon": -75.6298567
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "no",
+        "lit": "yes",
+        "name": "La Caseta",
+        "opening_hours": "24/7",
+        "parking": "surface",
+        "supervised": "interval",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "way",
+      "id": 345395464,
+      "center": {
+        "lat": 6.2016541,
+        "lon": -75.5761662
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 346623972,
+      "center": {
+        "lat": 6.307057,
+        "lon": -75.5755373
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "Paradero de Buses Transportes Santander"
+      }
+    },
+    {
+      "type": "way",
+      "id": 349953998,
+      "center": {
+        "lat": 6.1388179,
+        "lon": -75.3511024
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 351756412,
+      "center": {
+        "lat": 6.1677517,
+        "lon": -75.3591534
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 351756413,
+      "center": {
+        "lat": 6.1675271,
+        "lon": -75.3592884
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 353075866,
+      "center": {
+        "lat": 6.1060832,
+        "lon": -75.4567718
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 353075867,
+      "center": {
+        "lat": 6.1059612,
+        "lon": -75.4566876
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 353075868,
+      "center": {
+        "lat": 6.1057207,
+        "lon": -75.45672
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 355191744,
+      "center": {
+        "lat": 6.2678159,
+        "lon": -75.6124578
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "Estacionamiento buses la divisa"
+      }
+    },
+    {
+      "type": "way",
+      "id": 355201507,
+      "center": {
+        "lat": 6.2586024,
+        "lon": -75.6090815
+      },
+      "tags": {
+        "amenity": "parking",
+        "barrier": "yes",
+        "name": "Parqueadero Santa Lucia"
+      }
+    },
+    {
+      "type": "way",
+      "id": 358531554,
+      "center": {
+        "lat": 6.2453655,
+        "lon": -75.5889042
+      },
+      "tags": {
+        "amenity": "parking",
+        "building": "yes",
+        "name": "Parqueadero"
+      }
+    },
+    {
+      "type": "way",
+      "id": 358569874,
+      "center": {
+        "lat": 6.1778479,
+        "lon": -75.5870877
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 358896750,
+      "center": {
+        "lat": 6.1518777,
+        "lon": -75.6094511
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 360083519,
+      "center": {
+        "lat": 6.1133513,
+        "lon": -75.380532
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 361903017,
+      "center": {
+        "lat": 6.2715292,
+        "lon": -75.5665875
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 365494468,
+      "center": {
+        "lat": 6.3364855,
+        "lon": -75.5463553
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 365494479,
+      "center": {
+        "lat": 6.333605,
+        "lon": -75.5461414
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "street_side"
+      }
+    },
+    {
+      "type": "way",
+      "id": 365494482,
+      "center": {
+        "lat": 6.3342477,
+        "lon": -75.5472429
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 368811809,
+      "center": {
+        "lat": 6.2558669,
+        "lon": -75.6221125
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "Parqueadero y Taller Servitodo",
+        "parking": "surface",
+        "supervised": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 368817211,
+      "center": {
+        "lat": 6.257636,
+        "lon": -75.6164625
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "yes",
+        "name": "Paqueadero El THEY",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 377764123,
+      "center": {
+        "lat": 6.2502049,
+        "lon": -75.6032445
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 377765784,
+      "center": {
+        "lat": 6.2450464,
+        "lon": -75.6006027
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "fee": "no",
+        "operator": "Mall Laureles",
+        "parking": "surface",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 377766203,
+      "center": {
+        "lat": 6.1713731,
+        "lon": -75.6109979
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "building": "yes",
+        "parking": "multi-storey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 377772167,
+      "center": {
+        "lat": 6.2367373,
+        "lon": -75.5805199
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "fee": "yes",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 379631339,
+      "center": {
+        "lat": 6.2012052,
+        "lon": -75.5737448
+      },
+      "tags": {
+        "access": "destination",
+        "amenity": "parking",
+        "name": "Parqueadero Formacol Exterior",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 379639888,
+      "center": {
+        "lat": 6.2014253,
+        "lon": -75.5736066
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 380101707,
+      "center": {
+        "lat": 6.248674,
+        "lon": -75.5876932
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 398428069,
+      "center": {
+        "lat": 6.2102215,
+        "lon": -75.5769689
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "name": "Parqueadero Estudiantes",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 398428070,
+      "center": {
+        "lat": 6.211658,
+        "lon": -75.5774288
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "name": "Parqueadero Profesores",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 402538601,
+      "center": {
+        "lat": 6.3854136,
+        "lon": -75.4336368
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 402538958,
+      "center": {
+        "lat": 6.3822026,
+        "lon": -75.4393892
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 402539264,
+      "center": {
+        "lat": 6.3805031,
+        "lon": -75.4380823
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 402539265,
+      "center": {
+        "lat": 6.3802685,
+        "lon": -75.4389684
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 402978485,
+      "center": {
+        "lat": 6.3113929,
+        "lon": -75.5640012
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "name": "Parqueadero de buses Boyaca las brisas",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 407180367,
+      "center": {
+        "lat": 6.2325206,
+        "lon": -75.6044842
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "building": "yes",
+        "parking": "multi-storey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 411886579,
+      "center": {
+        "lat": 6.233438,
+        "lon": -75.5527035
+      },
+      "tags": {
+        "access": "private",
+        "addr:street": "Carrera 25a",
+        "amenity": "parking",
+        "parking": "surface",
+        "supervised": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 417094877,
+      "center": {
+        "lat": 6.2915024,
+        "lon": -75.5444871
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 419011167,
+      "center": {
+        "lat": 6.2335008,
+        "lon": -75.5846381
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "Parqueadero 30A",
+        "parking": "surface",
+        "surface": "gravel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 422332127,
+      "center": {
+        "lat": 6.3002955,
+        "lon": -75.5682575
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "covered": "no",
+        "fee": "no",
+        "lit": "yes",
+        "name": "Parquedero SENA Pedregal",
+        "operator": "SENA",
+        "parking": "surface",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "way",
+      "id": 428304218,
+      "center": {
+        "lat": 6.3063578,
+        "lon": -75.5704276
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "name": "Cuadradero florencia",
+        "opening_hours": "24/7",
+        "park_ride": "bus",
+        "parking": "surface",
+        "smoothness": "intermediate",
+        "surface": "sand"
+      }
+    },
+    {
+      "type": "way",
+      "id": 428521520,
+      "center": {
+        "lat": 6.3099103,
+        "lon": -75.5784958
+      },
+      "tags": {
+        "access": "permissive",
+        "amenity": "parking",
+        "capacity:disabled": "no",
+        "capacity:parent": "no",
+        "capacity:women": "no",
+        "fee": "no",
+        "lit": "yes",
+        "name": "Cuadradero Paris",
+        "opening_hours": "24/7",
+        "park_ride": "bus",
+        "parking": "surface",
+        "smoothness": "bad",
+        "supervised": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 428551216,
+      "center": {
+        "lat": 6.3032327,
+        "lon": -75.5688892
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 433081099,
+      "center": {
+        "lat": 6.2568441,
+        "lon": -75.5745705
+      },
+      "tags": {
+        "amenity": "parking",
+        "barrier": "wall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 434023779,
+      "center": {
+        "lat": 6.2538211,
+        "lon": -75.5756744
+      },
+      "tags": {
+        "addr:city": "Medellin",
+        "addr:street": "Transversal 50",
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 434580930,
+      "center": {
+        "lat": 6.2526704,
+        "lon": -75.5736385
+      },
+      "tags": {
+        "addr:city": "Medellin",
+        "addr:street": "Calle 50",
+        "amenity": "parking",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Parqueadero Privado"
+      }
+    },
+    {
+      "type": "way",
+      "id": 434580967,
+      "center": {
+        "lat": 6.252813,
+        "lon": -75.5735648
+      },
+      "tags": {
+        "amenity": "parking",
+        "building:levels": "1"
+      }
+    },
+    {
+      "type": "way",
+      "id": 434582042,
+      "center": {
+        "lat": 6.2540537,
+        "lon": -75.5731906
+      },
+      "tags": {
+        "amenity": "parking",
+        "building:levels": "1"
+      }
+    },
+    {
+      "type": "way",
+      "id": 434582068,
+      "center": {
+        "lat": 6.2545594,
+        "lon": -75.5731212
+      },
+      "tags": {
+        "addr:street": "Carrera 56 A",
+        "amenity": "parking",
+        "building": "parking",
+        "building:levels": "1",
+        "height": "2.4",
+        "name": "Parqueadero Universidad de San Buenaventura",
+        "supervised": "no",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 434582135,
+      "center": {
+        "lat": 6.2542183,
+        "lon": -75.5731943
+      },
+      "tags": {
+        "amenity": "parking",
+        "building:levels": "1"
+      }
+    },
+    {
+      "type": "way",
+      "id": 435383148,
+      "center": {
+        "lat": 6.2941705,
+        "lon": -75.5393389
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "Parqueo"
+      }
+    },
+    {
+      "type": "way",
+      "id": 437198926,
+      "center": {
+        "lat": 6.197765,
+        "lon": -75.5881985
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 439736051,
+      "center": {
+        "lat": 6.2536145,
+        "lon": -75.6225395
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 441058791,
+      "center": {
+        "lat": 6.3033342,
+        "lon": -75.5777729
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 448567411,
+      "center": {
+        "lat": 6.2392746,
+        "lon": -75.6036615
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 450374841,
+      "center": {
+        "lat": 6.0828507,
+        "lon": -75.4765027
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "Parqueadero Tequendamita"
+      }
+    },
+    {
+      "type": "way",
+      "id": 451466489,
+      "center": {
+        "lat": 6.1881507,
+        "lon": -75.58076
+      },
+      "tags": {
+        "amenity": "parking",
+        "capacity": "10",
+        "name": "Parqueadero público Casa Teatro el Poblado",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 457124569,
+      "center": {
+        "lat": 6.1511904,
+        "lon": -75.6059003
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 457124585,
+      "center": {
+        "lat": 6.1516803,
+        "lon": -75.6058794
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 457124586,
+      "center": {
+        "lat": 6.1515947,
+        "lon": -75.605847
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 457225483,
+      "center": {
+        "lat": 6.1749044,
+        "lon": -75.4369467
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "yes",
+        "name": "Palomares",
+        "opening_hours": "24/7",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 458754884,
+      "center": {
+        "lat": 6.1773218,
+        "lon": -75.6400311
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 465634708,
+      "center": {
+        "lat": 6.2559671,
+        "lon": -75.5485659
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 470740425,
+      "center": {
+        "lat": 6.2109298,
+        "lon": -75.5706805
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 486378360,
+      "center": {
+        "lat": 6.2040868,
+        "lon": -75.5784485
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 486378361,
+      "center": {
+        "lat": 6.203817,
+        "lon": -75.5779111
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 490566470,
+      "center": {
+        "lat": 6.2031925,
+        "lon": -75.5746204
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 504283477,
+      "center": {
+        "lat": 6.2034754,
+        "lon": -75.5461531
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "building": "yes",
+        "parking": "multi-storey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 505140294,
+      "center": {
+        "lat": 6.2377521,
+        "lon": -75.5793651
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 506623974,
+      "center": {
+        "lat": 6.1909492,
+        "lon": -75.5698141
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "name": "Parqueadero museo",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 506623975,
+      "center": {
+        "lat": 6.1916966,
+        "lon": -75.5701625
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 510235576,
+      "center": {
+        "lat": 6.2096988,
+        "lon": -75.4983912
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 513382041,
+      "center": {
+        "lat": 6.2456357,
+        "lon": -75.5568362
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "no",
+        "lit": "yes",
+        "name": "Parqueadero Museo Casa de la Memoria",
+        "opening_hours": "24/7",
+        "parking": "surface",
+        "smoothness": "good",
+        "supervised": "no",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 530588850,
+      "center": {
+        "lat": 6.1482859,
+        "lon": -75.3786984
+      },
+      "tags": {
+        "amenity": "parking",
+        "capacity": "220",
+        "supervised": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 533036881,
+      "center": {
+        "lat": 6.2823025,
+        "lon": -75.5626233
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 533036882,
+      "center": {
+        "lat": 6.2833308,
+        "lon": -75.5625372
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 540078142,
+      "center": {
+        "lat": 6.0617564,
+        "lon": -75.6319227
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "Parqueadero"
+      }
+    },
+    {
+      "type": "way",
+      "id": 540078143,
+      "center": {
+        "lat": 6.0579224,
+        "lon": -75.6293142
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "Parqueadero"
+      }
+    },
+    {
+      "type": "way",
+      "id": 541653287,
+      "center": {
+        "lat": 6.2613599,
+        "lon": -75.4946566
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 548578190,
+      "center": {
+        "lat": 6.2245644,
+        "lon": -75.5354959
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 548589251,
+      "center": {
+        "lat": 6.1860302,
+        "lon": -75.6539634
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "yes",
+        "supervised": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 548589252,
+      "center": {
+        "lat": 6.1853211,
+        "lon": -75.6548399
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "yes",
+        "supervised": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 548596885,
+      "center": {
+        "lat": 6.1842769,
+        "lon": -75.6587272
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "yes",
+        "supervised": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 548744267,
+      "center": {
+        "lat": 6.1450496,
+        "lon": -75.3799465
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "Parqueadero"
+      }
+    },
+    {
+      "type": "way",
+      "id": 548788928,
+      "center": {
+        "lat": 6.2146155,
+        "lon": -75.5827641
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "yes",
+        "parking": "surface",
+        "supervised": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 548883533,
+      "center": {
+        "lat": 6.1874251,
+        "lon": -75.6566608
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 548883534,
+      "center": {
+        "lat": 6.1780144,
+        "lon": -75.6536712
+      },
+      "tags": {
+        "amenity": "parking",
+        "fee": "no",
+        "supervised": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 548899861,
+      "center": {
+        "lat": 6.1868706,
+        "lon": -75.6538671
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 548903236,
+      "center": {
+        "lat": 6.1733436,
+        "lon": -75.3688596
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 548903273,
+      "center": {
+        "lat": 6.1748837,
+        "lon": -75.3528831
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "Parqueadero"
+      }
+    },
+    {
+      "type": "way",
+      "id": 549395362,
+      "center": {
+        "lat": 6.2461337,
+        "lon": -75.4214792
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "Parqueadero",
+        "parking": "surface",
+        "surface": "ground"
+      }
+    },
+    {
+      "type": "way",
+      "id": 549395409,
+      "center": {
+        "lat": 6.2212886,
+        "lon": -75.3903816
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 549603452,
+      "center": {
+        "lat": 6.3465809,
+        "lon": -75.5645885
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "name": "Bellanita",
+        "opening_hours": "24/7",
+        "park_ride": "bus",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 549603454,
+      "center": {
+        "lat": 6.3451162,
+        "lon": -75.5632695
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "name": "Bellanita",
+        "opening_hours": "24/7",
+        "park_ride": "bus",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 550192782,
+      "center": {
+        "lat": 6.2558822,
+        "lon": -75.4366457
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 550955824,
+      "center": {
+        "lat": 6.2438801,
+        "lon": -75.5723942
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "fee": "no",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 550956073,
+      "center": {
+        "lat": 6.2428367,
+        "lon": -75.5725831
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 550980991,
+      "center": {
+        "lat": 6.2521244,
+        "lon": -75.6137035
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "supervised": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 551115036,
+      "center": {
+        "lat": 6.2545845,
+        "lon": -75.5755255
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 551115042,
+      "center": {
+        "lat": 6.2559826,
+        "lon": -75.5750379
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 551126309,
+      "center": {
+        "lat": 6.25341,
+        "lon": -75.6118905
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 551132968,
+      "center": {
+        "lat": 6.2512218,
+        "lon": -75.6128146
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 552172596,
+      "center": {
+        "lat": 6.2819892,
+        "lon": -75.5992175
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "fee": "no",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 552172619,
+      "center": {
+        "lat": 6.2831385,
+        "lon": -75.5997768
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 552172621,
+      "center": {
+        "lat": 6.2829915,
+        "lon": -75.6008421
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 552180241,
+      "center": {
+        "lat": 6.2450113,
+        "lon": -75.5513677
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 552180243,
+      "center": {
+        "lat": 6.2458592,
+        "lon": -75.5507869
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 552362724,
+      "center": {
+        "lat": 6.1697246,
+        "lon": -75.5878978
+      },
+      "tags": {
+        "amenity": "parking",
+        "building": "parking",
+        "parking": "multi-storey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 552403954,
+      "center": {
+        "lat": 6.1849338,
+        "lon": -75.6577765
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 552418786,
+      "center": {
+        "lat": 6.1850604,
+        "lon": -75.6576108
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 560421285,
+      "center": {
+        "lat": 6.1532227,
+        "lon": -75.3701035
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "Parqueadero"
+      }
+    },
+    {
+      "type": "way",
+      "id": 561925550,
+      "center": {
+        "lat": 6.1669501,
+        "lon": -75.6440491
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 561926971,
+      "center": {
+        "lat": 6.1741413,
+        "lon": -75.6523699
+      },
+      "tags": {
+        "amenity": "parking",
+        "operator": "Solobus"
+      }
+    },
+    {
+      "type": "way",
+      "id": 569350764,
+      "center": {
+        "lat": 6.2176179,
+        "lon": -75.5876828
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "multi-storey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 577325216,
+      "center": {
+        "lat": 6.151122,
+        "lon": -75.3664794
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 577325217,
+      "center": {
+        "lat": 6.1490855,
+        "lon": -75.3659875
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 577325218,
+      "center": {
+        "lat": 6.1497325,
+        "lon": -75.3663163
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 577325219,
+      "center": {
+        "lat": 6.1494785,
+        "lon": -75.3663581
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "parking": "lane"
+      }
+    },
+    {
+      "type": "way",
+      "id": 577325220,
+      "center": {
+        "lat": 6.1491639,
+        "lon": -75.3665022
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 577325221,
+      "center": {
+        "lat": 6.1497031,
+        "lon": -75.3674713
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 577325222,
+      "center": {
+        "lat": 6.1496921,
+        "lon": -75.3672083
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 579386533,
+      "center": {
+        "lat": 6.3196705,
+        "lon": -75.5535584
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 589282912,
+      "center": {
+        "lat": 6.1721072,
+        "lon": -75.5872317
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 607667595,
+      "center": {
+        "lat": 6.3455678,
+        "lon": -75.528627
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "building": "yes",
+        "parking": "multi-storey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 618511559,
+      "center": {
+        "lat": 6.1250732,
+        "lon": -75.4234216
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 618562164,
+      "center": {
+        "lat": 6.2777227,
+        "lon": -75.6366173
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "lane"
+      }
+    },
+    {
+      "type": "way",
+      "id": 619413483,
+      "center": {
+        "lat": 6.2626404,
+        "lon": -75.5756904
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "fee": "no",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 619413484,
+      "center": {
+        "lat": 6.2614679,
+        "lon": -75.5791835
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 619413485,
+      "center": {
+        "lat": 6.2623269,
+        "lon": -75.5791186
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "fee": "no",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 619413487,
+      "center": {
+        "lat": 6.2619912,
+        "lon": -75.5791171
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 619413488,
+      "center": {
+        "lat": 6.2607194,
+        "lon": -75.5790014
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "fee": "no",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 619777416,
+      "center": {
+        "lat": 6.1543227,
+        "lon": -75.6510227
+      },
+      "tags": {
+        "access": "destination",
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 619825815,
+      "center": {
+        "lat": 6.2381401,
+        "lon": -75.5871921
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "fee": "yes",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 620415290,
+      "center": {
+        "lat": 6.2679173,
+        "lon": -75.6046568
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "operator": "Urbanización Condado de Calasanz",
+        "parking": "multi-storey",
+        "supervised": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 621152770,
+      "center": {
+        "lat": 6.2662172,
+        "lon": -75.5804772
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 624808375,
+      "center": {
+        "lat": 6.3003811,
+        "lon": -75.5341059
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 633389204,
+      "center": {
+        "lat": 6.3963655,
+        "lon": -75.4362982
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 633394409,
+      "center": {
+        "lat": 6.3972,
+        "lon": -75.4386635
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "Parqueadero Industrial"
+      }
+    },
+    {
+      "type": "way",
+      "id": 633394987,
+      "center": {
+        "lat": 6.3963237,
+        "lon": -75.4387736
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 633552301,
+      "center": {
+        "lat": 6.1775659,
+        "lon": -75.6441802
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 633552303,
+      "center": {
+        "lat": 6.1760504,
+        "lon": -75.6450779
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 633791479,
+      "center": {
+        "lat": 6.1756494,
+        "lon": -75.6433337
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 634031217,
+      "center": {
+        "lat": 6.246319,
+        "lon": -75.4240993
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "supervised": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 634031219,
+      "center": {
+        "lat": 6.2459525,
+        "lon": -75.4258174
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "supervised": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 637669197,
+      "center": {
+        "lat": 6.2518155,
+        "lon": -75.5992365
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "fee": "no",
+        "parking": "surface",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 668121921,
+      "center": {
+        "lat": 6.3305628,
+        "lon": -75.5974971
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 668758548,
+      "center": {
+        "lat": 6.3047957,
+        "lon": -75.5820403
+      },
+      "tags": {
+        "amenity": "parking",
+        "operator": "Edificios doce de octubre (Privado)"
+      }
+    },
+    {
+      "type": "way",
+      "id": 682787145,
+      "center": {
+        "lat": 6.2629777,
+        "lon": -75.5640665
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 682788555,
+      "center": {
+        "lat": 6.2661242,
+        "lon": -75.563935
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 682788562,
+      "center": {
+        "lat": 6.2661424,
+        "lon": -75.5666036
+      },
+      "tags": {
+        "amenity": "parking",
+        "note": "Mapeado utilizando la Ortofoto de Medellín de Agosto 2021",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 697670009,
+      "center": {
+        "lat": 6.1575207,
+        "lon": -75.6065347
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 697670031,
+      "center": {
+        "lat": 6.1556966,
+        "lon": -75.606277
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 697670034,
+      "center": {
+        "lat": 6.1563268,
+        "lon": -75.6065479
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 700749802,
+      "center": {
+        "lat": 6.1466373,
+        "lon": -75.3734643
+      },
+      "tags": {
+        "amenity": "parking",
+        "fee": "no",
+        "name": "Parqueadero unidad deportiva",
+        "parking": "surface",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 700750453,
+      "center": {
+        "lat": 6.1539918,
+        "lon": -75.3747598
+      },
+      "tags": {
+        "amenity": "parking",
+        "fee": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 702146584,
+      "center": {
+        "lat": 6.2792418,
+        "lon": -75.5666575
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 712067328,
+      "center": {
+        "lat": 6.2144139,
+        "lon": -75.5738202
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "fee": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 752878912,
+      "center": {
+        "lat": 6.2463975,
+        "lon": -75.5742824
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 755146469,
+      "center": {
+        "lat": 6.2343072,
+        "lon": -75.5960503
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 755945420,
+      "center": {
+        "lat": 6.236801,
+        "lon": -75.5927257
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 765658424,
+      "center": {
+        "lat": 6.2317988,
+        "lon": -75.5919349
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 768330743,
+      "center": {
+        "lat": 6.1183356,
+        "lon": -75.5846244
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 770412538,
+      "center": {
+        "lat": 6.2336594,
+        "lon": -75.5816803
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "sheds"
+      }
+    },
+    {
+      "type": "way",
+      "id": 774598980,
+      "center": {
+        "lat": 6.2389703,
+        "lon": -75.5877917
+      },
+      "tags": {
+        "amenity": "parking",
+        "building": "parking",
+        "parking": "multi-storey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 774710438,
+      "center": {
+        "lat": 6.2328654,
+        "lon": -75.5901324
+      },
+      "tags": {
+        "access": "taxi",
+        "amenity": "parking",
+        "name": "Tax Belen",
+        "operator": "Tax Belen",
+        "operator:type": "business"
+      }
+    },
+    {
+      "type": "way",
+      "id": 775045914,
+      "center": {
+        "lat": 6.2318714,
+        "lon": -75.5900056
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 775045917,
+      "center": {
+        "lat": 6.2318887,
+        "lon": -75.5890818
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 775045918,
+      "center": {
+        "lat": 6.2320704,
+        "lon": -75.5890429
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 775054474,
+      "center": {
+        "lat": 6.235937,
+        "lon": -75.5869843
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 775054475,
+      "center": {
+        "lat": 6.2360203,
+        "lon": -75.5865032
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 775220741,
+      "center": {
+        "lat": 6.233531,
+        "lon": -75.5848927
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 775267106,
+      "center": {
+        "lat": 6.2321863,
+        "lon": -75.5801471
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 775340200,
+      "center": {
+        "lat": 6.23422,
+        "lon": -75.5824206
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 775431573,
+      "center": {
+        "lat": 6.1577885,
+        "lon": -75.6038981
+      },
+      "tags": {
+        "amenity": "parking",
+        "operator": "Tienda D1"
+      }
+    },
+    {
+      "type": "way",
+      "id": 775918136,
+      "center": {
+        "lat": 6.2377477,
+        "lon": -75.583115
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 776541215,
+      "center": {
+        "lat": 6.2393235,
+        "lon": -75.5935859
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 777395548,
+      "center": {
+        "lat": 6.1518615,
+        "lon": -75.614901
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 777395552,
+      "center": {
+        "lat": 6.1508922,
+        "lon": -75.6120337
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 777665675,
+      "center": {
+        "lat": 6.1309166,
+        "lon": -75.4309739
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 777670398,
+      "center": {
+        "lat": 6.1768763,
+        "lon": -75.4501236
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 778035018,
+      "center": {
+        "lat": 6.1327095,
+        "lon": -75.4290467
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 778035019,
+      "center": {
+        "lat": 6.1322178,
+        "lon": -75.4286203
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 778144665,
+      "center": {
+        "lat": 6.3110463,
+        "lon": -75.5556566
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "fee": "yes",
+        "parking": "surface",
+        "payment:cash": "yes",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "way",
+      "id": 778445220,
+      "center": {
+        "lat": 6.1555942,
+        "lon": -75.6105554
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 779552758,
+      "center": {
+        "lat": 6.2394236,
+        "lon": -75.5965463
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 779930888,
+      "center": {
+        "lat": 6.1595454,
+        "lon": -75.5156416
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 780919988,
+      "center": {
+        "lat": 6.2140807,
+        "lon": -75.5927984
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 781807967,
+      "center": {
+        "lat": 6.2359067,
+        "lon": -75.582933
+      },
+      "tags": {
+        "amenity": "parking",
+        "operator": "Imacon",
+        "operator:type": "business"
+      }
+    },
+    {
+      "type": "way",
+      "id": 781834638,
+      "center": {
+        "lat": 6.2365413,
+        "lon": -75.5835184
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "no",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 782074906,
+      "center": {
+        "lat": 6.2388321,
+        "lon": -75.5912996
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784613517,
+      "center": {
+        "lat": 6.2051674,
+        "lon": -75.5576818
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784616119,
+      "center": {
+        "lat": 6.187366,
+        "lon": -75.5568878
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784619490,
+      "center": {
+        "lat": 6.1798045,
+        "lon": -75.5647728
+      },
+      "tags": {
+        "amenity": "parking",
+        "park_ride": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784620754,
+      "center": {
+        "lat": 6.1865661,
+        "lon": -75.5567871
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784622639,
+      "center": {
+        "lat": 6.2059889,
+        "lon": -75.5559209
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784622659,
+      "center": {
+        "lat": 6.2025682,
+        "lon": -75.5570715
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784622693,
+      "center": {
+        "lat": 6.2007143,
+        "lon": -75.557474
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784622725,
+      "center": {
+        "lat": 6.2030715,
+        "lon": -75.5566019
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784622726,
+      "center": {
+        "lat": 6.2033967,
+        "lon": -75.5558947
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784622754,
+      "center": {
+        "lat": 6.2041479,
+        "lon": -75.5549837
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784623528,
+      "center": {
+        "lat": 6.1861471,
+        "lon": -75.5564258
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784623531,
+      "center": {
+        "lat": 6.1886239,
+        "lon": -75.5581947
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784623532,
+      "center": {
+        "lat": 6.1889794,
+        "lon": -75.5583051
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784626395,
+      "center": {
+        "lat": 6.18332,
+        "lon": -75.5655979
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784629426,
+      "center": {
+        "lat": 6.2159723,
+        "lon": -75.5765826
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "no",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784629434,
+      "center": {
+        "lat": 6.2118198,
+        "lon": -75.5760492
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784629705,
+      "center": {
+        "lat": 6.2132286,
+        "lon": -75.5680106
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784629718,
+      "center": {
+        "lat": 6.2152314,
+        "lon": -75.5653479
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784632306,
+      "center": {
+        "lat": 6.1994478,
+        "lon": -75.5602235
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784640444,
+      "center": {
+        "lat": 6.2841468,
+        "lon": -75.5812375
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784907618,
+      "center": {
+        "lat": 6.2062736,
+        "lon": -75.589395
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784907619,
+      "center": {
+        "lat": 6.2067241,
+        "lon": -75.5902632
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784907620,
+      "center": {
+        "lat": 6.2065882,
+        "lon": -75.5902812
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784908155,
+      "center": {
+        "lat": 6.1672131,
+        "lon": -75.5803298
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "building": "parking",
+        "name": "parqueadero Hospital Manuel Uribe Angel",
+        "parking": "multi-storey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784908413,
+      "center": {
+        "lat": 6.2995419,
+        "lon": -75.5388489
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784908414,
+      "center": {
+        "lat": 6.299388,
+        "lon": -75.5387342
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784911496,
+      "center": {
+        "lat": 6.2996702,
+        "lon": -75.5389652
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784922666,
+      "center": {
+        "lat": 6.1990876,
+        "lon": -75.5827466
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784922669,
+      "center": {
+        "lat": 6.1999479,
+        "lon": -75.5810962
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784922670,
+      "center": {
+        "lat": 6.1981437,
+        "lon": -75.5810855
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784922746,
+      "center": {
+        "lat": 6.1985163,
+        "lon": -75.5857008
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784941539,
+      "center": {
+        "lat": 6.2833585,
+        "lon": -75.579977
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784950559,
+      "center": {
+        "lat": 6.2192331,
+        "lon": -75.6036208
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784950564,
+      "center": {
+        "lat": 6.2171414,
+        "lon": -75.6046574
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784950569,
+      "center": {
+        "lat": 6.2179941,
+        "lon": -75.6070258
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784950570,
+      "center": {
+        "lat": 6.2175711,
+        "lon": -75.6067005
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784959698,
+      "center": {
+        "lat": 6.2246117,
+        "lon": -75.6015153
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784964311,
+      "center": {
+        "lat": 6.2214001,
+        "lon": -75.5787133
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784964313,
+      "center": {
+        "lat": 6.2175757,
+        "lon": -75.5784157
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784966934,
+      "center": {
+        "lat": 6.2111815,
+        "lon": -75.593137
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 785092511,
+      "center": {
+        "lat": 6.2542398,
+        "lon": -75.589679
+      },
+      "tags": {
+        "addr:housenumber": "Calle 48",
+        "addr:street": "Carrera 70-180",
+        "amenity": "parking",
+        "operator": "Parqueadero Indeportes Antioquia",
+        "operator:type": "private",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 785092513,
+      "center": {
+        "lat": 6.2547039,
+        "lon": -75.5875286
+      },
+      "tags": {
+        "addr:city": "Comuna 11 - Laureles-Estadio",
+        "addr:housenumber": "Calle 48",
+        "addr:street": "Carrera 68-98",
+        "amenity": "parking",
+        "operator": "Parqueadero Colegio San Ignacio",
+        "operator:type": "private",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 785128780,
+      "center": {
+        "lat": 6.214343,
+        "lon": -75.5956331
+      },
+      "tags": {
+        "addr:city": "Medellín",
+        "addr:housenumber": "Diagonal 75B",
+        "addr:street": "Calle 2A-140",
+        "amenity": "parking",
+        "operator": "Parqueadero Clínica de Las Américas",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 785365838,
+      "center": {
+        "lat": 6.2161356,
+        "lon": -75.5921111
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 785365840,
+      "center": {
+        "lat": 6.2160332,
+        "lon": -75.5927018
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 785380086,
+      "center": {
+        "lat": 6.2287505,
+        "lon": -75.5867347
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 785398282,
+      "center": {
+        "lat": 6.1997133,
+        "lon": -75.5926556
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 785460552,
+      "center": {
+        "lat": 6.2826401,
+        "lon": -75.5784101
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 785460559,
+      "center": {
+        "lat": 6.2818505,
+        "lon": -75.5778581
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 785460890,
+      "center": {
+        "lat": 6.2827301,
+        "lon": -75.5801022
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 785881113,
+      "center": {
+        "lat": 6.2966803,
+        "lon": -75.5436871
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 786042071,
+      "center": {
+        "lat": 6.2409974,
+        "lon": -75.6000048
+      },
+      "tags": {
+        "amenity": "parking",
+        "operator": "Parqueadero Taller- Lavadero kro 80"
+      }
+    },
+    {
+      "type": "way",
+      "id": 787309064,
+      "center": {
+        "lat": 6.2547637,
+        "lon": -75.5842485
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 787371483,
+      "center": {
+        "lat": 6.2930484,
+        "lon": -75.5603914
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 787569747,
+      "center": {
+        "lat": 6.2619574,
+        "lon": -75.5916172
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 787962299,
+      "center": {
+        "lat": 6.2494326,
+        "lon": -75.5941553
+      },
+      "tags": {
+        "amenity": "parking",
+        "operator": "Parqueadero Lorena."
+      }
+    },
+    {
+      "type": "way",
+      "id": 787963745,
+      "center": {
+        "lat": 6.250506,
+        "lon": -75.5919593
+      },
+      "tags": {
+        "amenity": "parking",
+        "operator": "Parqueadero Atanasio Girardot"
+      }
+    },
+    {
+      "type": "way",
+      "id": 788068704,
+      "center": {
+        "lat": 6.3084343,
+        "lon": -75.5554853
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 788068716,
+      "center": {
+        "lat": 6.3073153,
+        "lon": -75.5554108
+      },
+      "tags": {
+        "amenity": "parking",
+        "operator": "Police"
+      }
+    },
+    {
+      "type": "way",
+      "id": 788068739,
+      "center": {
+        "lat": 6.3070829,
+        "lon": -75.5550403
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 788071638,
+      "center": {
+        "lat": 6.3071488,
+        "lon": -75.5544283
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 788071648,
+      "center": {
+        "lat": 6.30725,
+        "lon": -75.5541915
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 788071667,
+      "center": {
+        "lat": 6.3080429,
+        "lon": -75.5551216
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 788071715,
+      "center": {
+        "lat": 6.3074367,
+        "lon": -75.5546249
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 788073967,
+      "center": {
+        "lat": 6.2770661,
+        "lon": -75.5976136
+      },
+      "tags": {
+        "amenity": "parking",
+        "operator": "Parqueadero"
+      }
+    },
+    {
+      "type": "way",
+      "id": 788073968,
+      "center": {
+        "lat": 6.2777898,
+        "lon": -75.5971639
+      },
+      "tags": {
+        "amenity": "parking",
+        "operator": "El Mirador"
+      }
+    },
+    {
+      "type": "way",
+      "id": 791426209,
+      "center": {
+        "lat": 6.2646045,
+        "lon": -75.5517428
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 791713772,
+      "center": {
+        "lat": 6.2410288,
+        "lon": -75.621149
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 791713773,
+      "center": {
+        "lat": 6.242846,
+        "lon": -75.6207644
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 791713774,
+      "center": {
+        "lat": 6.2427237,
+        "lon": -75.620443
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 791724709,
+      "center": {
+        "lat": 6.2424771,
+        "lon": -75.6191582
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 791901507,
+      "center": {
+        "lat": 6.241759,
+        "lon": -75.5697949
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 791914297,
+      "center": {
+        "lat": 6.2429559,
+        "lon": -75.5673739
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 792698285,
+      "center": {
+        "lat": 6.2432679,
+        "lon": -75.5855352
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 792698289,
+      "center": {
+        "lat": 6.2429593,
+        "lon": -75.5851798
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 792708198,
+      "center": {
+        "lat": 6.2690734,
+        "lon": -75.5611512
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 793213867,
+      "center": {
+        "lat": 6.2996471,
+        "lon": -75.5490215
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 793213889,
+      "center": {
+        "lat": 6.2999645,
+        "lon": -75.5483431
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 793213902,
+      "center": {
+        "lat": 6.2997201,
+        "lon": -75.5487379
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 793325903,
+      "center": {
+        "lat": 6.2251658,
+        "lon": -75.5989475
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 794424275,
+      "center": {
+        "lat": 6.2311952,
+        "lon": -75.5930876
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 796488898,
+      "center": {
+        "lat": 6.2903018,
+        "lon": -75.5636734
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 803435836,
+      "center": {
+        "lat": 6.2939455,
+        "lon": -75.5864402
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 808648116,
+      "center": {
+        "lat": 6.2754377,
+        "lon": -75.5755267
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 808648290,
+      "center": {
+        "lat": 6.274352,
+        "lon": -75.5755214
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 812447750,
+      "center": {
+        "lat": 6.1608845,
+        "lon": -75.6280797
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 814104900,
+      "center": {
+        "lat": 6.2790752,
+        "lon": -75.5839086
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 817897905,
+      "center": {
+        "lat": 6.2936014,
+        "lon": -75.5455278
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 820054782,
+      "center": {
+        "lat": 6.2804636,
+        "lon": -75.5632456
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "operator": "Urbanización Quintas Del Jardín",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 833504494,
+      "center": {
+        "lat": 6.2402144,
+        "lon": -75.5904576
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 834108542,
+      "center": {
+        "lat": 6.2640173,
+        "lon": -75.5736723
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 836293454,
+      "center": {
+        "lat": 6.263645,
+        "lon": -75.5738643
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "street_side"
+      }
+    },
+    {
+      "type": "way",
+      "id": 836293455,
+      "center": {
+        "lat": 6.2622724,
+        "lon": -75.5777752
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "fee": "no",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 838058605,
+      "center": {
+        "lat": 6.2620269,
+        "lon": -75.5648456
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 863941502,
+      "center": {
+        "lat": 6.1597,
+        "lon": -75.3822462
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 863981476,
+      "center": {
+        "lat": 6.159321,
+        "lon": -75.3791603
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 866691693,
+      "center": {
+        "lat": 6.3101037,
+        "lon": -75.5784006
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 866691700,
+      "center": {
+        "lat": 6.3102205,
+        "lon": -75.5779005
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 892046338,
+      "center": {
+        "lat": 6.1597546,
+        "lon": -75.3827218
+      },
+      "tags": {
+        "amenity": "parking",
+        "layer": "-1",
+        "parking": "underground"
+      }
+    },
+    {
+      "type": "way",
+      "id": 892086015,
+      "center": {
+        "lat": 6.150144,
+        "lon": -75.3729433
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 892086016,
+      "center": {
+        "lat": 6.1500532,
+        "lon": -75.3736
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 892116062,
+      "center": {
+        "lat": 6.1519456,
+        "lon": -75.3726262
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 895255874,
+      "center": {
+        "lat": 6.221897,
+        "lon": -75.5711597
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 906199416,
+      "center": {
+        "lat": 6.1078687,
+        "lon": -75.5004164
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "operator": "Parqueadero Parque los Salados"
+      }
+    },
+    {
+      "type": "way",
+      "id": 911615815,
+      "center": {
+        "lat": 6.1448033,
+        "lon": -75.375849
+      },
+      "tags": {
+        "amenity": "parking",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "way",
+      "id": 913151396,
+      "center": {
+        "lat": 6.1530373,
+        "lon": -75.5415679
+      },
+      "tags": {
+        "addr:street": "Vía Las Palmas",
+        "amenity": "parking",
+        "building": "retail",
+        "name": "Viva Las Palmas",
+        "operator": "Grupo exito",
+        "parking": "underground",
+        "shop": "mall",
+        "website": "https://www.ccviva.com/palmas"
+      }
+    },
+    {
+      "type": "way",
+      "id": 913151397,
+      "center": {
+        "lat": 6.1529717,
+        "lon": -75.5413858
+      },
+      "tags": {
+        "addr:street": "Vía Las Palmas",
+        "amenity": "parking",
+        "building": "retail",
+        "name": "Viva Las Palmas",
+        "operator": "Grupo exito",
+        "parking": "underground",
+        "shop": "mall",
+        "website": "https://www.ccviva.com/palmas"
+      }
+    },
+    {
+      "type": "way",
+      "id": 913151398,
+      "center": {
+        "lat": 6.1525549,
+        "lon": -75.5405558
+      },
+      "tags": {
+        "addr:street": "Vía Las Palmas",
+        "amenity": "parking",
+        "building": "retail",
+        "layer": "-1",
+        "name": "Viva Las Palmas",
+        "operator": "Grupo exito",
+        "parking": "underground",
+        "shop": "mall",
+        "website": "https://www.ccviva.com/palmas"
+      }
+    },
+    {
+      "type": "way",
+      "id": 913174380,
+      "center": {
+        "lat": 6.1528911,
+        "lon": -75.5409804
+      },
+      "tags": {
+        "amenity": "parking",
+        "operator": "Viva Palmas"
+      }
+    },
+    {
+      "type": "way",
+      "id": 913211534,
+      "center": {
+        "lat": 6.153433,
+        "lon": -75.5420302
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 913480941,
+      "center": {
+        "lat": 6.1533742,
+        "lon": -75.5451355
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 913758682,
+      "center": {
+        "lat": 6.1532262,
+        "lon": -75.5420831
+      },
+      "tags": {
+        "addr:street": "Vía Las Palmas",
+        "amenity": "parking",
+        "building": "retail",
+        "name": "Viva Las Palmas",
+        "operator": "Grupo exito",
+        "parking": "underground",
+        "shop": "mall",
+        "website": "https://www.ccviva.com/palmas"
+      }
+    },
+    {
+      "type": "way",
+      "id": 913834034,
+      "center": {
+        "lat": 6.1611178,
+        "lon": -75.5415368
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 914699341,
+      "center": {
+        "lat": 6.2330983,
+        "lon": -75.5969658
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 923313331,
+      "center": {
+        "lat": 6.1521053,
+        "lon": -75.5389901
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 926033412,
+      "center": {
+        "lat": 6.2608551,
+        "lon": -75.590548
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "building": "parking",
+        "parking": "multi-storey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 930717925,
+      "center": {
+        "lat": 6.2273708,
+        "lon": -75.6052675
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 930717953,
+      "center": {
+        "lat": 6.2266794,
+        "lon": -75.6053143
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 940775156,
+      "center": {
+        "lat": 6.2421805,
+        "lon": -75.6211553
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 949088573,
+      "center": {
+        "lat": 6.2330467,
+        "lon": -75.5876454
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "way",
+      "id": 949304807,
+      "center": {
+        "lat": 6.407266,
+        "lon": -75.4244333
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 949304808,
+      "center": {
+        "lat": 6.4071341,
+        "lon": -75.4232294
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 952626568,
+      "center": {
+        "lat": 6.2035965,
+        "lon": -75.5769171
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 961705636,
+      "center": {
+        "lat": 6.1710448,
+        "lon": -75.5877278
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 993797960,
+      "center": {
+        "lat": 6.263281,
+        "lon": -75.5874778
+      },
+      "tags": {
+        "access": "no",
+        "amenity": "parking",
+        "name": "Patios de Tránsito Los Colores"
+      }
+    },
+    {
+      "type": "way",
+      "id": 998924150,
+      "center": {
+        "lat": 6.1626521,
+        "lon": -75.649545
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "fee": "no",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 998931766,
+      "center": {
+        "lat": 6.1589263,
+        "lon": -75.6469221
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 999736123,
+      "center": {
+        "lat": 6.2042096,
+        "lon": -75.5718429
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1003309725,
+      "center": {
+        "lat": 6.0627336,
+        "lon": -75.4659061
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1012774030,
+      "center": {
+        "lat": 6.1359145,
+        "lon": -75.4351414
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1015730403,
+      "center": {
+        "lat": 6.2417827,
+        "lon": -75.6088467
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "street_side"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1015752330,
+      "center": {
+        "lat": 6.2074547,
+        "lon": -75.5845716
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "lane"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1015752331,
+      "center": {
+        "lat": 6.2077441,
+        "lon": -75.5826937
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1015752332,
+      "center": {
+        "lat": 6.2081624,
+        "lon": -75.5826981
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1015752333,
+      "center": {
+        "lat": 6.2116241,
+        "lon": -75.5829844
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1015752334,
+      "center": {
+        "lat": 6.2113955,
+        "lon": -75.5831473
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1016038523,
+      "center": {
+        "lat": 6.2543181,
+        "lon": -75.5931151
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1016038528,
+      "center": {
+        "lat": 6.2568187,
+        "lon": -75.5935714
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1016494046,
+      "center": {
+        "lat": 6.2066276,
+        "lon": -75.5771802
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1016830715,
+      "center": {
+        "lat": 6.2141268,
+        "lon": -75.580703
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1017805397,
+      "center": {
+        "lat": 6.2833584,
+        "lon": -75.6238774
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1018230957,
+      "center": {
+        "lat": 6.2851352,
+        "lon": -75.606275
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "street_side"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1025702921,
+      "center": {
+        "lat": 6.1720724,
+        "lon": -75.428407
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "yes",
+        "parking": "multi-storey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1025702928,
+      "center": {
+        "lat": 6.1716792,
+        "lon": -75.4279917
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "parking": "multi-storey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1025702936,
+      "center": {
+        "lat": 6.1710197,
+        "lon": -75.4279996
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "parking": "multi-storey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1025702938,
+      "center": {
+        "lat": 6.1706393,
+        "lon": -75.4284197
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "parking": "underground"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1028672592,
+      "center": {
+        "lat": 6.2416213,
+        "lon": -75.5892381
+      },
+      "tags": {
+        "amenity": "parking",
+        "fee": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1028810430,
+      "center": {
+        "lat": 6.2427078,
+        "lon": -75.589507
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1040948498,
+      "center": {
+        "lat": 6.275775,
+        "lon": -75.5886589
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "operator": "ITM",
+        "operator:type": "public",
+        "parking": "surface",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1042429289,
+      "center": {
+        "lat": 6.2707878,
+        "lon": -75.5871585
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1043264472,
+      "center": {
+        "lat": 6.2748606,
+        "lon": -75.584062
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1043264484,
+      "center": {
+        "lat": 6.2750282,
+        "lon": -75.5846346
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1043264495,
+      "center": {
+        "lat": 6.2766614,
+        "lon": -75.5848398
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1055330632,
+      "center": {
+        "lat": 6.230806,
+        "lon": -75.5802872
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1059312823,
+      "center": {
+        "lat": 6.1869968,
+        "lon": -75.6045989
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "building": "garage",
+        "name": "Parqueadero",
+        "operator": "Privado",
+        "operator:type": "private",
+        "parking": "multi-storey",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1068672163,
+      "center": {
+        "lat": 6.2605168,
+        "lon": -75.5789665
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "fee": "no",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1079106502,
+      "center": {
+        "lat": 6.1600111,
+        "lon": -75.6047758
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "street_side"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1081865101,
+      "center": {
+        "lat": 6.3334039,
+        "lon": -75.5470157
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1085190350,
+      "center": {
+        "lat": 6.1977628,
+        "lon": -75.5751721
+      },
+      "tags": {
+        "amenity": "parking",
+        "building": "yes",
+        "parking": "street_side"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1093190051,
+      "center": {
+        "lat": 6.2759889,
+        "lon": -75.4392882
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "capacity": "30",
+        "charge": "2000 COP/hour",
+        "fee": "yes",
+        "parking": "surface",
+        "payment:cash": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1093190052,
+      "center": {
+        "lat": 6.2759167,
+        "lon": -75.439428
+      },
+      "tags": {
+        "access": "unknown",
+        "amenity": "parking",
+        "capacity": "10",
+        "parking": "surface",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1093190053,
+      "center": {
+        "lat": 6.2763461,
+        "lon": -75.4391462
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1093190056,
+      "center": {
+        "lat": 6.2769468,
+        "lon": -75.4393987
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "capacity": "7",
+        "parking": "surface",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1093462641,
+      "center": {
+        "lat": 6.378283,
+        "lon": -75.4451614
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "operator": "Expreso girardota",
+        "operator:type": "private",
+        "parking": "surface",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1093896764,
+      "center": {
+        "lat": 6.2788989,
+        "lon": -75.4440861
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1094006728,
+      "center": {
+        "lat": 6.3745033,
+        "lon": -75.4511982
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1094006733,
+      "center": {
+        "lat": 6.3794281,
+        "lon": -75.4466313
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1094340101,
+      "center": {
+        "lat": 6.2796404,
+        "lon": -75.4455583
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1094340104,
+      "center": {
+        "lat": 6.2809649,
+        "lon": -75.446964
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1094340108,
+      "center": {
+        "lat": 6.2812634,
+        "lon": -75.4466856
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1094340109,
+      "center": {
+        "lat": 6.2808781,
+        "lon": -75.4465188
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1094340110,
+      "center": {
+        "lat": 6.2803894,
+        "lon": -75.4469596
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1094442045,
+      "center": {
+        "lat": 6.1976709,
+        "lon": -75.5848879
+      },
+      "tags": {
+        "access": "permissive",
+        "amenity": "parking",
+        "note": "Mapeado utilizando la Ortofoto de Medellín de Agosto 2021",
+        "parking": "surface",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1097280795,
+      "center": {
+        "lat": 6.2812428,
+        "lon": -75.4454707
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1097372319,
+      "center": {
+        "lat": 6.2795901,
+        "lon": -75.4441403
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1097372320,
+      "center": {
+        "lat": 6.2800254,
+        "lon": -75.4445101
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1097372321,
+      "center": {
+        "lat": 6.281835,
+        "lon": -75.4457201
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1097372322,
+      "center": {
+        "lat": 6.2784652,
+        "lon": -75.442396
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1097372324,
+      "center": {
+        "lat": 6.2778442,
+        "lon": -75.4405783
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1097372327,
+      "center": {
+        "lat": 6.2785242,
+        "lon": -75.4411807
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1097372329,
+      "center": {
+        "lat": 6.281835,
+        "lon": -75.4416781
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1098089014,
+      "center": {
+        "lat": 6.2778151,
+        "lon": -75.4422774
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1098089017,
+      "center": {
+        "lat": 6.2807107,
+        "lon": -75.4420136
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1098089019,
+      "center": {
+        "lat": 6.2810662,
+        "lon": -75.4425284
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1098089022,
+      "center": {
+        "lat": 6.2807877,
+        "lon": -75.4422069
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1098089025,
+      "center": {
+        "lat": 6.2795129,
+        "lon": -75.4416066
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1098089026,
+      "center": {
+        "lat": 6.28103,
+        "lon": -75.4429138
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1098089027,
+      "center": {
+        "lat": 6.2804539,
+        "lon": -75.4436843
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1098089029,
+      "center": {
+        "lat": 6.2841734,
+        "lon": -75.4476465
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1098089035,
+      "center": {
+        "lat": 6.2769548,
+        "lon": -75.4432949
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1099949301,
+      "center": {
+        "lat": 6.3318225,
+        "lon": -75.5699638
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "charge": "cop",
+        "fee": "yes",
+        "operator": "Universidad de San Buenaventura",
+        "operator:type": "private",
+        "parking": "surface",
+        "payment:cash": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1099949302,
+      "center": {
+        "lat": 6.3318548,
+        "lon": -75.5684571
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1102636898,
+      "center": {
+        "lat": 6.278346,
+        "lon": -75.4417627
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1102636908,
+      "center": {
+        "lat": 6.2768084,
+        "lon": -75.4396165
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "capacity": "10",
+        "parking": "surface",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1102636915,
+      "center": {
+        "lat": 6.2758066,
+        "lon": -75.4395131
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1102636916,
+      "center": {
+        "lat": 6.2761457,
+        "lon": -75.4397224
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1102715469,
+      "center": {
+        "lat": 6.279582,
+        "lon": -75.4388346
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1104995653,
+      "center": {
+        "lat": 6.2797672,
+        "lon": -75.4467188
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1112262790,
+      "center": {
+        "lat": 6.3430271,
+        "lon": -75.5173847
+      },
+      "tags": {
+        "amenity": "parking",
+        "building": "yes",
+        "parking": "multi-storey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1119603524,
+      "center": {
+        "lat": 6.2792818,
+        "lon": -75.4448876
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1119603529,
+      "center": {
+        "lat": 6.2798443,
+        "lon": -75.4457699
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1120211866,
+      "center": {
+        "lat": 6.2807147,
+        "lon": -75.4466826
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1125302425,
+      "center": {
+        "lat": 6.2792819,
+        "lon": -75.4431687
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1125302443,
+      "center": {
+        "lat": 6.2739766,
+        "lon": -75.4381256
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1125302444,
+      "center": {
+        "lat": 6.273892,
+        "lon": -75.4385738
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1125619027,
+      "center": {
+        "lat": 6.2172803,
+        "lon": -75.5984601
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "street_side"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1128278684,
+      "center": {
+        "lat": 6.2445677,
+        "lon": -75.5677254
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1128613988,
+      "center": {
+        "lat": 6.1631237,
+        "lon": -75.6029526
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1132232060,
+      "center": {
+        "lat": 6.2155354,
+        "lon": -75.6017264
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1132232061,
+      "center": {
+        "lat": 6.2155768,
+        "lon": -75.6012932
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1132471335,
+      "center": {
+        "lat": 6.2403813,
+        "lon": -75.55899
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "yes",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1148545004,
+      "center": {
+        "lat": 6.245711,
+        "lon": -75.5596358
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1149172753,
+      "center": {
+        "lat": 6.1865028,
+        "lon": -75.6503119
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1149897510,
+      "center": {
+        "lat": 6.2325679,
+        "lon": -75.5984181
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1149918337,
+      "center": {
+        "lat": 6.2639811,
+        "lon": -75.5742518
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "street_side"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1149926222,
+      "center": {
+        "lat": 6.2635398,
+        "lon": -75.5744985
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "street_side"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1150234807,
+      "center": {
+        "lat": 6.2423946,
+        "lon": -75.5512203
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1151959760,
+      "center": {
+        "lat": 6.2431854,
+        "lon": -75.5717687
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1153063486,
+      "center": {
+        "lat": 6.1680176,
+        "lon": -75.5856606
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "La 38"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1153063495,
+      "center": {
+        "lat": 6.1704004,
+        "lon": -75.5882254
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1154102914,
+      "center": {
+        "lat": 6.2468615,
+        "lon": -75.5615188
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1154353354,
+      "center": {
+        "lat": 6.2607861,
+        "lon": -75.5764375
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "no",
+        "name": "Parqueadero Bloque 11-12-14",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1154843428,
+      "center": {
+        "lat": 6.1714496,
+        "lon": -75.6122388
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1155243900,
+      "center": {
+        "lat": 6.2751795,
+        "lon": -75.5912067
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1155243902,
+      "center": {
+        "lat": 6.2745162,
+        "lon": -75.5928763
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1155243905,
+      "center": {
+        "lat": 6.2753288,
+        "lon": -75.592681
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1155255574,
+      "center": {
+        "lat": 6.2602728,
+        "lon": -75.5775331
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "fee": "no",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1161685767,
+      "center": {
+        "lat": 6.2753349,
+        "lon": -75.5774603
+      },
+      "tags": {
+        "amenity": "parking",
+        "building": "roof"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1161685768,
+      "center": {
+        "lat": 6.2746612,
+        "lon": -75.5780016
+      },
+      "tags": {
+        "amenity": "parking",
+        "building": "yes",
+        "fee": "no",
+        "parking": "street_side"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1162673072,
+      "center": {
+        "lat": 6.2579749,
+        "lon": -75.5612986
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "yes",
+        "name": "Mi Prado",
+        "parking": "surface",
+        "phone": "+57 6045017536"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1162673079,
+      "center": {
+        "lat": 6.2564398,
+        "lon": -75.562234
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1175785225,
+      "center": {
+        "lat": 6.1951384,
+        "lon": -75.5777065
+      },
+      "tags": {
+        "amenity": "parking",
+        "operator": "Quirustetic",
+        "operator:type": "private"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1175785231,
+      "center": {
+        "lat": 6.1996898,
+        "lon": -75.5741938
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "capacity": "12",
+        "operator": "McDonalds",
+        "operator:type": "private"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1185622031,
+      "center": {
+        "lat": 6.2582851,
+        "lon": -75.5762511
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1190085083,
+      "center": {
+        "lat": 6.2574299,
+        "lon": -75.5783122
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1193131731,
+      "center": {
+        "lat": 6.1829673,
+        "lon": -75.5853301
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1193567284,
+      "center": {
+        "lat": 6.1738311,
+        "lon": -75.6108956
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1194541380,
+      "center": {
+        "lat": 6.3290288,
+        "lon": -75.5668756
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1194541381,
+      "center": {
+        "lat": 6.3289302,
+        "lon": -75.5669376
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1198317044,
+      "center": {
+        "lat": 6.3266574,
+        "lon": -75.5624051
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1198400915,
+      "center": {
+        "lat": 6.2423478,
+        "lon": -75.5720975
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1200948708,
+      "center": {
+        "lat": 6.2462756,
+        "lon": -75.594473
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1200955868,
+      "center": {
+        "lat": 6.2292107,
+        "lon": -75.4044736
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1203143354,
+      "center": {
+        "lat": 6.2415066,
+        "lon": -75.5531548
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1205125836,
+      "center": {
+        "lat": 6.2436096,
+        "lon": -75.5894996
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "capacity": "10",
+        "capacity:disabled": "1",
+        "charge": "4000 COP",
+        "fee": "yes",
+        "layer": "-1",
+        "operator": "Privado Rectoría General",
+        "operator:type": "private",
+        "parking": "underground",
+        "payment:cash": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1205125838,
+      "center": {
+        "lat": 6.2408403,
+        "lon": -75.5900215
+      },
+      "tags": {
+        "amenity": "parking",
+        "fee": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1205125839,
+      "center": {
+        "lat": 6.2410509,
+        "lon": -75.5896745
+      },
+      "tags": {
+        "amenity": "parking",
+        "fee": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1205125840,
+      "center": {
+        "lat": 6.2408103,
+        "lon": -75.5909394
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "fee": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1205125841,
+      "center": {
+        "lat": 6.2422527,
+        "lon": -75.5907277
+      },
+      "tags": {
+        "amenity": "parking",
+        "fee": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1205125842,
+      "center": {
+        "lat": 6.2412416,
+        "lon": -75.5889564
+      },
+      "tags": {
+        "amenity": "parking",
+        "fee": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1205125843,
+      "center": {
+        "lat": 6.2432928,
+        "lon": -75.5891173
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1205125844,
+      "center": {
+        "lat": 6.2431063,
+        "lon": -75.5889948
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1205125845,
+      "center": {
+        "lat": 6.2434973,
+        "lon": -75.5907014
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1207707289,
+      "center": {
+        "lat": 6.2289755,
+        "lon": -75.5923487
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1210395273,
+      "center": {
+        "lat": 6.2818254,
+        "lon": -75.445075
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1210395277,
+      "center": {
+        "lat": 6.2790799,
+        "lon": -75.443112
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1219828530,
+      "center": {
+        "lat": 6.2245548,
+        "lon": -75.5959329
+      },
+      "tags": {
+        "amenity": "parking",
+        "operator": "Parqueadero La Vaquita",
+        "operator:type": "private",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1236461014,
+      "center": {
+        "lat": 6.1964434,
+        "lon": -75.6692907
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1236461065,
+      "center": {
+        "lat": 6.1980895,
+        "lon": -75.6718101
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1236718595,
+      "center": {
+        "lat": 6.2809871,
+        "lon": -75.4437566
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1237114333,
+      "center": {
+        "lat": 6.1972122,
+        "lon": -75.6638675
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1245278215,
+      "center": {
+        "lat": 6.0474594,
+        "lon": -75.3964343
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1262414390,
+      "center": {
+        "lat": 6.2794146,
+        "lon": -75.5965025
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1262417127,
+      "center": {
+        "lat": 6.2804798,
+        "lon": -75.5962392
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1262417128,
+      "center": {
+        "lat": 6.2804214,
+        "lon": -75.5963359
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1262417794,
+      "center": {
+        "lat": 6.2784912,
+        "lon": -75.5985472
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1262417795,
+      "center": {
+        "lat": 6.278525,
+        "lon": -75.5984458
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1262417796,
+      "center": {
+        "lat": 6.2785988,
+        "lon": -75.5983576
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1262417797,
+      "center": {
+        "lat": 6.27814,
+        "lon": -75.5982253
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1262417798,
+      "center": {
+        "lat": 6.2780889,
+        "lon": -75.5983105
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1262417799,
+      "center": {
+        "lat": 6.2782646,
+        "lon": -75.5983983
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1262417800,
+      "center": {
+        "lat": 6.2783249,
+        "lon": -75.5981728
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1262417801,
+      "center": {
+        "lat": 6.2782112,
+        "lon": -75.5983125
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1266352174,
+      "center": {
+        "lat": 6.2796218,
+        "lon": -75.5951247
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1286593543,
+      "center": {
+        "lat": 6.1521324,
+        "lon": -75.6288153
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1286623615,
+      "center": {
+        "lat": 6.2716658,
+        "lon": -75.5591864
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1287248592,
+      "center": {
+        "lat": 6.2717525,
+        "lon": -75.5544548
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1292584028,
+      "center": {
+        "lat": 6.0872202,
+        "lon": -75.6344589
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "street_side"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1302666738,
+      "center": {
+        "lat": 6.2690031,
+        "lon": -75.5668754
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "fee": "no",
+        "maxstay": "1 day",
+        "operator": "Universidad de Antioquia",
+        "parking": "surface",
+        "supervised": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1303679646,
+      "center": {
+        "lat": 6.271439,
+        "lon": -75.5867885
+      },
+      "tags": {
+        "access": "permissive",
+        "amenity": "parking",
+        "fee": "no",
+        "motorcar": "no",
+        "motorcycle": "yes",
+        "parking": "surface",
+        "supervised": "no",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1304041375,
+      "center": {
+        "lat": 6.2516458,
+        "lon": -75.5671995
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "Parqueadero Juanita",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1304067583,
+      "center": {
+        "lat": 6.2639682,
+        "lon": -75.5708703
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "note": "Mapeado utilizando la Ortofoto de Medellín de Agosto 2021",
+        "parking": "surface",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1305359876,
+      "center": {
+        "lat": 6.0885601,
+        "lon": -75.6328223
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "street_side",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1305514204,
+      "center": {
+        "lat": 6.0803272,
+        "lon": -75.6345622
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1305522147,
+      "center": {
+        "lat": 6.0797406,
+        "lon": -75.6348086
+      },
+      "tags": {
+        "access": "no",
+        "amenity": "parking",
+        "note": "Mapeado utilizando Ortoimagen Urbana. Municipio de Caldas, Antioquia. Resolución 10 cm. #MapeandoCieloRoto",
+        "parking": "surface",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1305522148,
+      "center": {
+        "lat": 6.079858,
+        "lon": -75.6346342
+      },
+      "tags": {
+        "access": "no",
+        "amenity": "parking",
+        "note": "Mapeado utilizando Ortoimagen Urbana. Municipio de Caldas, Antioquia. Resolución 10 cm. #MapeandoCieloRoto",
+        "parking": "surface",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1306152118,
+      "center": {
+        "lat": 6.0926751,
+        "lon": -75.6399308
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1306338373,
+      "center": {
+        "lat": 6.09013,
+        "lon": -75.6357846
+      },
+      "tags": {
+        "amenity": "parking",
+        "note": "Mapeado utilizando Ortoimagen Urbana. Municipio de Caldas, Antioquia. Resolución 10 cm. #MapeandoCieloRoto",
+        "parking": "surface",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1308398540,
+      "center": {
+        "lat": 6.1001194,
+        "lon": -75.6402134
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "building": "yes",
+        "note": "Mapeado utilizando Ortoimagen Urbana. Municipio de Caldas, Antioquia. Resolución 10 cm. #MapeandoCieloRoto",
+        "parking": "street_side"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1308398541,
+      "center": {
+        "lat": 6.1001052,
+        "lon": -75.6399689
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "building": "yes",
+        "note": "Mapeado utilizando Ortoimagen Urbana. Municipio de Caldas, Antioquia. Resolución 10 cm. #MapeandoCieloRoto",
+        "parking": "street_side"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1308398544,
+      "center": {
+        "lat": 6.0992397,
+        "lon": -75.6385511
+      },
+      "tags": {
+        "amenity": "parking",
+        "building": "yes",
+        "nohousenumber": "yes",
+        "note": "Mapeado utilizando Ortoimagen Urbana. Municipio de Caldas, Antioquia. Resolución 10 cm. #MapeandoCieloRoto",
+        "parking": "multi-storey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1308402544,
+      "center": {
+        "lat": 6.0989041,
+        "lon": -75.6379854
+      },
+      "tags": {
+        "amenity": "parking",
+        "note": "Mapeado utilizando Ortoimagen Urbana. Municipio de Caldas, Antioquia. Resolución 10 cm. #MapeandoCieloRoto",
+        "parking": "street_side"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1308402545,
+      "center": {
+        "lat": 6.0991508,
+        "lon": -75.6382944
+      },
+      "tags": {
+        "amenity": "parking",
+        "note": "Mapeado utilizando Ortoimagen Urbana. Municipio de Caldas, Antioquia. Resolución 10 cm. #MapeandoCieloRoto",
+        "parking": "street_side"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1308402546,
+      "center": {
+        "lat": 6.0993671,
+        "lon": -75.6384617
+      },
+      "tags": {
+        "amenity": "parking",
+        "note": "Mapeado utilizando Ortoimagen Urbana. Municipio de Caldas, Antioquia. Resolución 10 cm. #MapeandoCieloRoto",
+        "parking": "street_side"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1308402547,
+      "center": {
+        "lat": 6.099104,
+        "lon": -75.6380672
+      },
+      "tags": {
+        "amenity": "parking",
+        "note": "Mapeado utilizando Ortoimagen Urbana. Municipio de Caldas, Antioquia. Resolución 10 cm. #MapeandoCieloRoto",
+        "parking": "street_side"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1308402548,
+      "center": {
+        "lat": 6.0994859,
+        "lon": -75.6384158
+      },
+      "tags": {
+        "amenity": "parking",
+        "note": "Mapeado utilizando Ortoimagen Urbana. Municipio de Caldas, Antioquia. Resolución 10 cm. #MapeandoCieloRoto",
+        "parking": "street_side"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1308402549,
+      "center": {
+        "lat": 6.0993896,
+        "lon": -75.6387677
+      },
+      "tags": {
+        "amenity": "parking",
+        "note": "Mapeado utilizando Ortoimagen Urbana. Municipio de Caldas, Antioquia. Resolución 10 cm. #MapeandoCieloRoto",
+        "parking": "street_side"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1308402550,
+      "center": {
+        "lat": 6.0995245,
+        "lon": -75.6387593
+      },
+      "tags": {
+        "amenity": "parking",
+        "note": "Mapeado utilizando Ortoimagen Urbana. Municipio de Caldas, Antioquia. Resolución 10 cm. #MapeandoCieloRoto",
+        "parking": "street_side"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1308550612,
+      "center": {
+        "lat": 6.0908386,
+        "lon": -75.6357273
+      },
+      "tags": {
+        "amenity": "parking",
+        "note": "Mapeado utilizando Ortoimagen Urbana. Municipio de Caldas, Antioquia. Resolución 10 cm. #MapeandoCieloRoto",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1308552418,
+      "center": {
+        "lat": 6.0908462,
+        "lon": -75.6346899
+      },
+      "tags": {
+        "amenity": "parking",
+        "note": "Mapeado utilizando Ortoimagen Urbana. Municipio de Caldas, Antioquia. Resolución 10 cm. #MapeandoCieloRoto",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1308552419,
+      "center": {
+        "lat": 6.0907343,
+        "lon": -75.6346617
+      },
+      "tags": {
+        "amenity": "parking",
+        "note": "Mapeado utilizando Ortoimagen Urbana. Municipio de Caldas, Antioquia. Resolución 10 cm. #MapeandoCieloRoto",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1308557951,
+      "center": {
+        "lat": 6.0902299,
+        "lon": -75.6347381
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1308565319,
+      "center": {
+        "lat": 6.0928197,
+        "lon": -75.6357427
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1308766482,
+      "center": {
+        "lat": 6.0787807,
+        "lon": -75.6347729
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "note": "Mapeado utilizando Ortoimagen Urbana. Municipio de Caldas, Antioquia. Resolución 10 cm. #MapeandoCieloRoto"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1310818066,
+      "center": {
+        "lat": 6.0886848,
+        "lon": -75.6346346
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1317113787,
+      "center": {
+        "lat": 6.2436449,
+        "lon": -75.540335
+      },
+      "tags": {
+        "amenity": "parking",
+        "capacity": "10",
+        "operator": "Metrosalud",
+        "operator:type": "private",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1322055883,
+      "center": {
+        "lat": 6.285727,
+        "lon": -75.6070019
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "capacity": "30"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1323519014,
+      "center": {
+        "lat": 6.1376196,
+        "lon": -75.3932412
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "fee": "yes",
+        "operator": "Parqueadero Casa Verdemiel",
+        "operator:type": "business",
+        "parking": "surface",
+        "surface": "grass"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1323560473,
+      "center": {
+        "lat": 6.1756259,
+        "lon": -75.6479671
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1341972494,
+      "center": {
+        "lat": 6.174788,
+        "lon": -75.6572263
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1359894291,
+      "center": {
+        "lat": 6.2316604,
+        "lon": -75.6107001
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1359894292,
+      "center": {
+        "lat": 6.2316634,
+        "lon": -75.6120942
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1359900662,
+      "center": {
+        "lat": 6.2301679,
+        "lon": -75.6103736
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1359924754,
+      "center": {
+        "lat": 6.2314435,
+        "lon": -75.6100467
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1359924755,
+      "center": {
+        "lat": 6.2324626,
+        "lon": -75.6100008
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1359924756,
+      "center": {
+        "lat": 6.2310785,
+        "lon": -75.6123222
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1363878613,
+      "center": {
+        "lat": 6.2315945,
+        "lon": -75.6123534
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1364862759,
+      "center": {
+        "lat": 6.2242864,
+        "lon": -75.5980592
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1367603422,
+      "center": {
+        "lat": 6.2299749,
+        "lon": -75.6125151
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1370913311,
+      "center": {
+        "lat": 6.2311239,
+        "lon": -75.6126051
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1371187070,
+      "center": {
+        "lat": 6.2293055,
+        "lon": -75.6136053
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1373546079,
+      "center": {
+        "lat": 6.2131748,
+        "lon": -75.5945204
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "Parqueadero empleados AUNA"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1373999604,
+      "center": {
+        "lat": 6.2157022,
+        "lon": -75.6058378
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1376638731,
+      "center": {
+        "lat": 6.2451737,
+        "lon": -75.5496591
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1376638739,
+      "center": {
+        "lat": 6.2446497,
+        "lon": -75.5513418
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1377040562,
+      "center": {
+        "lat": 6.1728195,
+        "lon": -75.6170077
+      },
+      "tags": {
+        "access": "unknown",
+        "amenity": "parking",
+        "capacity": "12",
+        "parking": "street_side"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1377040563,
+      "center": {
+        "lat": 6.1730343,
+        "lon": -75.6165093
+      },
+      "tags": {
+        "access": "unknown",
+        "amenity": "parking",
+        "capacity": "12",
+        "parking": "street_side"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1377040570,
+      "center": {
+        "lat": 6.1727497,
+        "lon": -75.6193215
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1382122392,
+      "center": {
+        "lat": 6.0740435,
+        "lon": -75.6373904
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "building": "yes",
+        "fee": "no",
+        "parking": "multi-storey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1382208992,
+      "center": {
+        "lat": 6.1581032,
+        "lon": -75.6046051
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1383062452,
+      "center": {
+        "lat": 6.1792875,
+        "lon": -75.5928648
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "operator": "Capricentro",
+        "operator:type": "private",
+        "parking": "surface",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1383063190,
+      "center": {
+        "lat": 6.1785044,
+        "lon": -75.5943741
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "fee": "no",
+        "operator": "Perficient",
+        "operator:type": "private",
+        "parking": "surface",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1383093494,
+      "center": {
+        "lat": 6.224382,
+        "lon": -75.5989
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1390955901,
+      "center": {
+        "lat": 6.2389591,
+        "lon": -75.5709039
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "Parqueadero Colón",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1391965696,
+      "center": {
+        "lat": 6.1597992,
+        "lon": -75.6370154
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "no",
+        "parking": "surface",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1392375607,
+      "center": {
+        "lat": 6.2751033,
+        "lon": -75.6277189
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1392379301,
+      "center": {
+        "lat": 6.2749911,
+        "lon": -75.6272178
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "street_side"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1392403103,
+      "center": {
+        "lat": 6.2741733,
+        "lon": -75.6274347
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1411126083,
+      "center": {
+        "lat": 6.2839867,
+        "lon": -75.5399944
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1413124579,
+      "center": {
+        "lat": 6.254632,
+        "lon": -75.6130911
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1414171373,
+      "center": {
+        "lat": 6.2751762,
+        "lon": -75.5378882
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1414329003,
+      "center": {
+        "lat": 6.2887111,
+        "lon": -75.5425072
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1414465804,
+      "center": {
+        "lat": 6.2723946,
+        "lon": -75.5403542
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1422874689,
+      "center": {
+        "lat": 6.3216423,
+        "lon": -75.5646569
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1422874690,
+      "center": {
+        "lat": 6.3219678,
+        "lon": -75.5666509
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1422874691,
+      "center": {
+        "lat": 6.3224094,
+        "lon": -75.5667504
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1422874692,
+      "center": {
+        "lat": 6.3225707,
+        "lon": -75.5659184
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1422874693,
+      "center": {
+        "lat": 6.3221007,
+        "lon": -75.5658279
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1423377892,
+      "center": {
+        "lat": 6.1743032,
+        "lon": -75.4358865
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "yes",
+        "name": "Parqueadero La Hortensia",
+        "opening_hours": "24/7",
+        "parking": "surface",
+        "payment:cash": "yes",
+        "payment:debit_cards": "yes",
+        "source:name": "mapillary",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1425098296,
+      "center": {
+        "lat": 6.239773,
+        "lon": -75.5964076
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "capacity": "13",
+        "capacity:disabled": "1",
+        "orientation": "perpendicular",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1430004761,
+      "center": {
+        "lat": 6.2339749,
+        "lon": -75.5966081
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1441641013,
+      "center": {
+        "lat": 6.3046535,
+        "lon": -75.5305501
+      },
+      "tags": {
+        "amenity": "parking",
+        "capacity": "2"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1464201749,
+      "center": {
+        "lat": 6.2015697,
+        "lon": -75.6234269
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1468272678,
+      "center": {
+        "lat": 6.3263619,
+        "lon": -75.560625
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1468278827,
+      "center": {
+        "lat": 6.3304272,
+        "lon": -75.5539322
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1468431097,
+      "center": {
+        "lat": 6.3130412,
+        "lon": -75.5571828
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1470430583,
+      "center": {
+        "lat": 6.2747977,
+        "lon": -75.5719204
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1474501420,
+      "center": {
+        "lat": 6.1564923,
+        "lon": -75.6068552
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "capacity": "3",
+        "capacity:disabled": "0",
+        "fee": "no",
+        "parking": "surface",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1476580790,
+      "center": {
+        "lat": 6.2941197,
+        "lon": -75.5882238
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "Parqueaderos",
+        "park_ride": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1476853232,
+      "center": {
+        "lat": 6.2936831,
+        "lon": -75.5857733
+      },
+      "tags": {
+        "amenity": "parking",
+        "operator": "Parqueadero publico"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1476854477,
+      "center": {
+        "lat": 6.2951238,
+        "lon": -75.5870283
+      },
+      "tags": {
+        "amenity": "parking",
+        "operator": "Parqueadero publico"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1476855510,
+      "center": {
+        "lat": 6.294978,
+        "lon": -75.5872264
+      },
+      "tags": {
+        "amenity": "parking",
+        "operator": "Parqueadero publico"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1476867384,
+      "center": {
+        "lat": 6.2935417,
+        "lon": -75.5877488
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1477028476,
+      "center": {
+        "lat": 6.2223898,
+        "lon": -75.6221579
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1487040425,
+      "center": {
+        "lat": 6.1834048,
+        "lon": -75.5608895
+      },
+      "tags": {
+        "amenity": "parking",
+        "building": "house",
+        "parking": "multi-storey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1487397381,
+      "center": {
+        "lat": 6.1890734,
+        "lon": -75.5819846
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1487741983,
+      "center": {
+        "lat": 6.1826426,
+        "lon": -75.559728
+      },
+      "tags": {
+        "amenity": "parking",
+        "building": "yes",
+        "parking": "multi-storey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1487743063,
+      "center": {
+        "lat": 6.182912,
+        "lon": -75.5597221
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1487749771,
+      "center": {
+        "lat": 6.1820766,
+        "lon": -75.5607549
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1488466485,
+      "center": {
+        "lat": 6.2175173,
+        "lon": -75.5688864
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1488601139,
+      "center": {
+        "lat": 6.2342477,
+        "lon": -75.6317725
+      },
+      "tags": {
+        "amenity": "parking",
+        "surface": "informal_sin_pavimentacion"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1488619403,
+      "center": {
+        "lat": 6.2322408,
+        "lon": -75.6338761
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1488620633,
+      "center": {
+        "lat": 6.2320929,
+        "lon": -75.6332879
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1488675307,
+      "center": {
+        "lat": 6.2101762,
+        "lon": -75.5738035
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1488712756,
+      "center": {
+        "lat": 6.2177199,
+        "lon": -75.5663242
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1489205026,
+      "center": {
+        "lat": 6.3082007,
+        "lon": -75.5628805
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1489611797,
+      "center": {
+        "lat": 6.1822556,
+        "lon": -75.575998
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1489611798,
+      "center": {
+        "lat": 6.1824327,
+        "lon": -75.5764287
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1492736106,
+      "center": {
+        "lat": 6.2498036,
+        "lon": -75.5153576
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1492888930,
+      "center": {
+        "lat": 6.296933,
+        "lon": -75.5842842
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "Parqueadero"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1493748171,
+      "center": {
+        "lat": 6.2725666,
+        "lon": -75.6303143
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1496365597,
+      "center": {
+        "lat": 6.0802517,
+        "lon": -75.6311343
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "Parador Las Vegas",
+        "note": "Mapeado utilizando Ortoimagen. Departamento de Antioquia. Municipio de Caldas. Resolución 10 cm. Año 2023",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1496773070,
+      "center": {
+        "lat": 6.0765124,
+        "lon": -75.6313966
+      },
+      "tags": {
+        "amenity": "parking",
+        "note": "Mapeado utilizando Ortoimagen. Departamento de Antioquia. Municipio de Caldas. Resolución 10 cm. Año 2023"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1496773071,
+      "center": {
+        "lat": 6.0769825,
+        "lon": -75.6312607
+      },
+      "tags": {
+        "amenity": "parking",
+        "note": "Mapeado utilizando Ortoimagen. Departamento de Antioquia. Municipio de Caldas. Resolución 10 cm. Año 2023"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1496797726,
+      "center": {
+        "lat": 6.0871764,
+        "lon": -75.6320792
+      },
+      "tags": {
+        "amenity": "parking",
+        "note": "Mapeado utilizando Ortoimagen. Departamento de Antioquia. Municipio de Caldas. Resolución 10 cm. Año 2023",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1496802994,
+      "center": {
+        "lat": 6.091251,
+        "lon": -75.6329439
+      },
+      "tags": {
+        "amenity": "parking",
+        "note": "Mapeado utilizando Ortoimagen. Departamento de Antioquia. Municipio de Caldas. Resolución 10 cm. Año 2023",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1496802997,
+      "center": {
+        "lat": 6.0902908,
+        "lon": -75.6327716
+      },
+      "tags": {
+        "amenity": "parking",
+        "note": "Mapeado utilizando Ortoimagen. Departamento de Antioquia. Municipio de Caldas. Resolución 10 cm. Año 2023",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1496824139,
+      "center": {
+        "lat": 6.0954983,
+        "lon": -75.6339859
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "Parqueadero Sol y Sombra",
+        "note": "Mapeado utilizando Ortoimagen. Departamento de Antioquia. Municipio de Caldas. Resolución 10 cm. Año 2023",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1497183105,
+      "center": {
+        "lat": 6.2352216,
+        "lon": -75.6305545
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1497197822,
+      "center": {
+        "lat": 6.2355376,
+        "lon": -75.6177248
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1497200125,
+      "center": {
+        "lat": 6.2364936,
+        "lon": -75.6191287
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1498944798,
+      "center": {
+        "lat": 6.0920114,
+        "lon": -75.6293048
+      },
+      "tags": {
+        "access": "no",
+        "amenity": "parking",
+        "name": "Patíos de la Fiscalía",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1500924147,
+      "center": {
+        "lat": 6.0935041,
+        "lon": -75.6310579
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1501268620,
+      "center": {
+        "lat": 6.0904973,
+        "lon": -75.6340236
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "Parqueadero La Playita",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1501647474,
+      "center": {
+        "lat": 6.0884862,
+        "lon": -75.6340153
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "street_side"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1502377210,
+      "center": {
+        "lat": 6.0881203,
+        "lon": -75.6338301
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "street_side"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1502581342,
+      "center": {
+        "lat": 6.2997107,
+        "lon": -75.5889681
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1503486069,
+      "center": {
+        "lat": 6.2769488,
+        "lon": -75.6184703
+      },
+      "tags": {
+        "access": "permissive",
+        "amenity": "parking",
+        "capacity": "20",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1503813226,
+      "center": {
+        "lat": 6.1995655,
+        "lon": -75.5791659
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "fee": "yes",
+        "operator": "wikidata=Q3997314",
+        "operator:type": "university",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1505105316,
+      "center": {
+        "lat": 6.2865983,
+        "lon": -75.6102498
+      },
+      "tags": {
+        "amenity": "parking",
+        "location": "rooftop"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1505636662,
+      "center": {
+        "lat": 6.2875954,
+        "lon": -75.6094202
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1505668669,
+      "center": {
+        "lat": 6.2870442,
+        "lon": -75.6114212
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1505668670,
+      "center": {
+        "lat": 6.2868601,
+        "lon": -75.6117115
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1505736927,
+      "center": {
+        "lat": 6.2865783,
+        "lon": -75.6116387
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1505928281,
+      "center": {
+        "lat": 6.2861751,
+        "lon": -75.6114755
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1506318689,
+      "center": {
+        "lat": 6.2325292,
+        "lon": -75.6307235
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1506330473,
+      "center": {
+        "lat": 6.2328326,
+        "lon": -75.6292189
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1506330474,
+      "center": {
+        "lat": 6.2329785,
+        "lon": -75.628819
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1506348962,
+      "center": {
+        "lat": 6.2329029,
+        "lon": -75.6289963
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1506388410,
+      "center": {
+        "lat": 6.2092,
+        "lon": -75.5703141
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1506409147,
+      "center": {
+        "lat": 6.2103807,
+        "lon": -75.5715413
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1506893114,
+      "center": {
+        "lat": 6.3081922,
+        "lon": -75.5562599
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1506908901,
+      "center": {
+        "lat": 6.3073561,
+        "lon": -75.556214
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1508726472,
+      "center": {
+        "lat": 6.0935719,
+        "lon": -75.6342006
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1508726523,
+      "center": {
+        "lat": 6.0936876,
+        "lon": -75.6336754
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1509386185,
+      "center": {
+        "lat": 6.093613,
+        "lon": -75.6359712
+      },
+      "tags": {
+        "addr:city": "Caldas",
+        "addr:country": "CO",
+        "addr:housenumber": "49-63",
+        "addr:postcode": "055440",
+        "addr:street": "Calle 127 Sur",
+        "amenity": "parking",
+        "contact:facebook": "Parqueadero-y-Lavadero-Autosantana-100069259584338",
+        "contact:instagram": "parqueaderoautosan",
+        "mobile": "+57 313 5032649",
+        "name": "Parqueadero Autosantana",
+        "note": "Mapeado utilizando Ortoimagen. Departamento de Antioquia. Municipio de Caldas. Resolución 10 cm. Año 2023",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1509394705,
+      "center": {
+        "lat": 6.0933791,
+        "lon": -75.6364998
+      },
+      "tags": {
+        "amenity": "parking",
+        "note": "Mapeado utilizando Ortoimagen. Departamento de Antioquia. Municipio de Caldas. Resolución 10 cm. Año 2023",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1509675161,
+      "center": {
+        "lat": 6.2968919,
+        "lon": -75.6528067
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 6441875,
+      "center": {
+        "lat": 6.2557359,
+        "lon": -75.5725806
+      },
+      "tags": {
+        "access": "private",
+        "addr:city": "Medellin",
+        "addr:street": "Calle 55",
+        "amenity": "parking",
+        "level": "1",
+        "maxstay": "1 hour",
+        "name": "Parqueadero Publico",
+        "operator": "Particular",
+        "park_ride": "no",
+        "surface": "asphalt",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 6444771,
+      "center": {
+        "lat": 6.2532571,
+        "lon": -75.5734082
+      },
+      "tags": {
+        "addr:city": "Medellin",
+        "addr:street": "Carrera 56A",
+        "amenity": "parking",
+        "building:levels": "1",
+        "name": "Parqueadero",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 6444859,
+      "center": {
+        "lat": 6.2547078,
+        "lon": -75.5734364
+      },
+      "tags": {
+        "amenity": "parking",
+        "building:levels": "1",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 8589940,
+      "center": {
+        "lat": 6.2422104,
+        "lon": -75.5912746
+      },
+      "tags": {
+        "amenity": "parking",
+        "building": "yes",
+        "fee": "yes",
+        "name": "Estacionamiento Cancha Fundadores",
+        "parking": "multi-storey",
+        "sport": "soccer",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 10812879,
+      "center": {
+        "lat": 6.1564518,
+        "lon": -75.5168251
+      },
+      "tags": {
+        "access": "permit",
+        "amenity": "parking",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 19103246,
+      "center": {
+        "lat": 6.1580189,
+        "lon": -75.6051561
+      },
+      "tags": {
+        "access": "permissive",
+        "amenity": "parking",
+        "parking": "surface",
+        "surface": "asphalt",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 19318882,
+      "center": {
+        "lat": 6.2303686,
+        "lon": -75.6123442
+      },
+      "tags": {
+        "amenity": "parking",
+        "type": "multipolygon"
+      }
+    }
+  ]
+}

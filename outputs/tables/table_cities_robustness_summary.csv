@@ -1,0 +1,11 @@
+scenario,reading,access_gini,disadvantage_gini,mean_access,top10_jaccard
+base,"Base network, source, activity, vulnerability and topography screen",0.23245274321193166,0.41421890109891235,0.6162852369578984,1.0
+no_activity_anchors,Removes SITVA/centrality activity anchoring from access,0.22958056900962642,0.42060368854345187,0.6178191689641496,0.8181818181818182
+euclidean_distance,Uses straight-line rather than OSM network impedance,0.23245274321193166,0.41421890109891235,0.6162852369578984,1.0
+cargame_epm_only,Keeps stronger CargaME/EPM evidence and removes OSM supply,0.23933244979690982,0.41725008931639507,0.6062192507722038,0.8181818181818182
+short_decay_8min,Shorter destination-charging reach threshold,0.29419260782266576,0.40743974093513713,0.5370774995966215,1.0
+wide_decay_16min,Wider destination-charging reach threshold,0.1959037653366924,0.4194573446841037,0.6682631525473456,0.8181818181818182
+topography_penalized_access,Penalizes access in higher-slope/elevation zones,0.24253813827758264,0.4092648180887015,0.5978915254553715,0.8181818181818182
+no_vulnerability,Removes social vulnerability from transition pressure,0.23245274321193166,0.3867748014783874,0.6162852369578984,0.5384615384615384
+no_home_constraint,Removes residential parking constraint from transition pressure,0.23245274321193166,0.5142447146626901,0.6162852369578984,0.6666666666666666
+no_topography,Removes slope/elevation from transition pressure,0.23245274321193166,0.4263877087958883,0.6162852369578984,0.6666666666666666

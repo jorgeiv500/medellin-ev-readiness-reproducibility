@@ -1,0 +1,4463 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-05-14T16:46:25Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 4228748492,
+      "lat": 6.202754,
+      "lon": -75.5804506,
+      "tags": {
+        "amenity": "fuel",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4375636758,
+      "lat": 6.1802631,
+      "lon": -75.4352549,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Terpel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4534000046,
+      "lat": 6.1793958,
+      "lon": -75.4421205,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Texaco"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4714488389,
+      "lat": 6.3394144,
+      "lon": -75.5399093,
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5843938676,
+      "lat": 6.1364026,
+      "lon": -75.3892624,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Terpel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5843938988,
+      "lat": 6.1752205,
+      "lon": -75.3503227,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Terpel",
+        "name": "Terpel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5860221427,
+      "lat": 6.1245177,
+      "lon": -75.4229038,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Esso"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6876361673,
+      "lat": 6.1772055,
+      "lon": -75.3606837,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Texaco"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11249063011,
+      "lat": 6.1093535,
+      "lon": -75.7147416,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Estación de servicio Terpel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11298812322,
+      "lat": 6.1794063,
+      "lon": -75.4423749,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "EPMs"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11358844677,
+      "lat": 6.1637035,
+      "lon": -75.5695845,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Primax",
+        "fuel:diesel": "yes",
+        "fuel:octane_87": "yes",
+        "fuel:octane_92": "yes",
+        "name": "Primax La Sebastiana"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12315649902,
+      "lat": 6.0701366,
+      "lon": -75.3533034,
+      "tags": {
+        "addr:street": "Vía Aguas Claras - El Carmen de Viboral",
+        "amenity": "fuel",
+        "name": "Estación Terpel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 88467303,
+      "center": {
+        "lat": 6.2753484,
+        "lon": -75.4409742
+      },
+      "tags": {
+        "addr:street": "Autopista Medellín-Bogotá",
+        "amenity": "fuel",
+        "building": "roof",
+        "name": "Terpel",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 137616771,
+      "center": {
+        "lat": 6.1706945,
+        "lon": -75.603742
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Texaco",
+        "brand:wikidata": "Q775060",
+        "building": "roof",
+        "compressed_air": "yes",
+        "layer": "1",
+        "name": "Texaco",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "way",
+      "id": 137616866,
+      "center": {
+        "lat": 6.1704463,
+        "lon": -75.6131363
+      },
+      "tags": {
+        "addr:street": "Calle 45",
+        "amenity": "fuel",
+        "brand": "Terpel",
+        "building": "roof",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 159366601,
+      "center": {
+        "lat": 6.2797961,
+        "lon": -75.633125
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Esso",
+        "fuel:HGV_diesel": "yes",
+        "fuel:diesel": "yes",
+        "name": "Bomba Gasolina Rancho Grande",
+        "opening_hours": "24/7",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "way",
+      "id": 252206690,
+      "center": {
+        "lat": 6.2564213,
+        "lon": -75.5670639
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Texaco",
+        "brand:wikidata": "Q775060",
+        "building": "roof",
+        "layer": "1",
+        "name": "Texaco",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 318856186,
+      "center": {
+        "lat": 6.400379,
+        "lon": -75.4314586
+      },
+      "tags": {
+        "addr:city": "Girardota",
+        "addr:street": "Doble calzada Niquia - Hatillo",
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "Estacion de servicios el Trapiche",
+        "note": "Los servicios prestados son los de suministro de combustibles, lubricantes, parqueadero y hotel.",
+        "opening_hours": "24/7",
+        "operator": "Texaco"
+      }
+    },
+    {
+      "type": "way",
+      "id": 318887810,
+      "center": {
+        "lat": 6.3950569,
+        "lon": -75.4382205
+      },
+      "tags": {
+        "addr:street": "Doble calzada Niquia - Hatillo",
+        "amenity": "fuel",
+        "name": "Estación de servicio",
+        "opening_hours": "24/7",
+        "operator": "Esso"
+      }
+    },
+    {
+      "type": "way",
+      "id": 318888283,
+      "center": {
+        "lat": 6.3965948,
+        "lon": -75.437977
+      },
+      "tags": {
+        "addr:city": "Girardota",
+        "addr:street": "Doble calzada Niquia - Hatillo",
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "Estación de servicio la Molienda",
+        "note": "Hotel, restaurante.",
+        "opening_hours": "24/7",
+        "operator": "Biomax"
+      }
+    },
+    {
+      "type": "way",
+      "id": 318895517,
+      "center": {
+        "lat": 6.3808068,
+        "lon": -75.45263
+      },
+      "tags": {
+        "addr:city": "Girardota",
+        "addr:street": "Acceso a Girardota",
+        "amenity": "fuel",
+        "brand": "Zeuss",
+        "name": "Estación de servicio Coralinas",
+        "note": "Servicio de montallantas, restaurante y parqueadero.",
+        "opening_hours": "24/7",
+        "operator": "Zeuss Petroleum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 349924328,
+      "center": {
+        "lat": 6.161961,
+        "lon": -75.6158359
+      },
+      "tags": {
+        "addr:street": "Carrera 42",
+        "amenity": "fuel",
+        "brand": "Mobil",
+        "brand:wikidata": "Q109676002",
+        "brand:wikipedia": "es:Mobil",
+        "building": "roof",
+        "layer": "1",
+        "name": "Mobil",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 351744645,
+      "center": {
+        "lat": 6.1597068,
+        "lon": -75.3653936
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "compressed_air": "yes",
+        "name": "Terpel",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 351756407,
+      "center": {
+        "lat": 6.1707406,
+        "lon": -75.3612716
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "Tango"
+      }
+    },
+    {
+      "type": "way",
+      "id": 351756408,
+      "center": {
+        "lat": 6.1711516,
+        "lon": -75.3614694
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "Tango"
+      }
+    },
+    {
+      "type": "way",
+      "id": 358531556,
+      "center": {
+        "lat": 6.244845,
+        "lon": -75.589127
+      },
+      "tags": {
+        "addr:street": "Carrera 70",
+        "amenity": "fuel",
+        "building": "roof",
+        "check_date": "2022-11-07",
+        "layer": "1",
+        "name": "Primax",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 371537230,
+      "center": {
+        "lat": 6.2367123,
+        "lon": -75.5699865
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Texaco",
+        "brand:wikidata": "Q775060",
+        "brand:wikipedia": "en:Texaco",
+        "building": "roof",
+        "name": "Texaco",
+        "operator": "Texaco"
+      }
+    },
+    {
+      "type": "way",
+      "id": 377766911,
+      "center": {
+        "lat": 6.2508659,
+        "lon": -75.6061253
+      },
+      "tags": {
+        "addr:street": "Calle 44",
+        "amenity": "fuel",
+        "brand": "Terpel",
+        "brand:wikidata": "Q7703003",
+        "brand:wikipedia": "en:Terpel",
+        "building": "roof",
+        "layer": "1",
+        "name": "Terpel",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 380106206,
+      "center": {
+        "lat": 6.2486009,
+        "lon": -75.5861807
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Terpel",
+        "brand:wikidata": "Q109676002",
+        "building": "roof",
+        "fuel:HGV_diesel": "yes",
+        "fuel:biodiesel": "yes",
+        "fuel:cng": "yes",
+        "fuel:diesel": "yes",
+        "name": "Terpel San Juan",
+        "opening_hours": "24/7",
+        "operator": "Terpel",
+        "shop": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 386742330,
+      "center": {
+        "lat": 6.0285456,
+        "lon": -75.4275966
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Terpel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 400985756,
+      "center": {
+        "lat": 6.2461115,
+        "lon": -75.5925156
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "compressed_air": "yes",
+        "layer": "1",
+        "operator": "Primax"
+      }
+    },
+    {
+      "type": "way",
+      "id": 434023771,
+      "center": {
+        "lat": 6.2538545,
+        "lon": -75.5753081
+      },
+      "tags": {
+        "addr:street": "Avenida del Ferrocarril",
+        "amenity": "fuel",
+        "brand": "Terpel",
+        "brand:wikidata": "Q7703003",
+        "building": "yes",
+        "name": "Terpel",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 437198933,
+      "center": {
+        "lat": 6.1983711,
+        "lon": -75.5898576
+      },
+      "tags": {
+        "addr:street": "Carrera 52",
+        "amenity": "fuel",
+        "brand": "Texaco",
+        "building": "roof",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 440870752,
+      "center": {
+        "lat": 6.2878465,
+        "lon": -75.5695324
+      },
+      "tags": {
+        "addr:street": "Carrera 64",
+        "amenity": "fuel",
+        "brand": "Texaco",
+        "brand:wikidata": "Q775060",
+        "brand:wikipedia": "en:Texaco",
+        "building": "roof",
+        "fuel:HGV_diesel": "yes",
+        "fuel:biodiesel": "yes",
+        "fuel:cng": "yes",
+        "fuel:diesel": "yes",
+        "fuel:e10": "yes",
+        "name": "Texaco",
+        "opening_hours": "24/7",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 446863045,
+      "center": {
+        "lat": 6.2265163,
+        "lon": -75.5651949
+      },
+      "tags": {
+        "addr:street": "Vía Las Palmas",
+        "amenity": "fuel",
+        "brand": "Texaco",
+        "brand:wikidata": "Q775060",
+        "building": "roof",
+        "name": "Texaco",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 446871171,
+      "center": {
+        "lat": 6.3011568,
+        "lon": -75.5643649
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Terpel",
+        "building": "roof",
+        "layer": "1",
+        "name": "Terpel Zenú",
+        "opening_hours": "24/7",
+        "shop": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 447718026,
+      "center": {
+        "lat": 6.2721807,
+        "lon": -75.5730841
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "operator": "Primax"
+      }
+    },
+    {
+      "type": "way",
+      "id": 447718033,
+      "center": {
+        "lat": 6.2746811,
+        "lon": -75.5745607
+      },
+      "tags": {
+        "addr:street": "Carrera 65",
+        "amenity": "fuel",
+        "building": "roof",
+        "compressed_air": "yes",
+        "fuel:cng": "yes",
+        "layer": "1",
+        "operator": "Primax",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 447718053,
+      "center": {
+        "lat": 6.2746661,
+        "lon": -75.5745819
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Esso",
+        "brand:wikidata": "Q867662",
+        "brand:wikipedia": "en:Esso",
+        "compressed_air": "yes",
+        "name": "Esso"
+      }
+    },
+    {
+      "type": "way",
+      "id": 448565290,
+      "center": {
+        "lat": 6.2340975,
+        "lon": -75.5953738
+      },
+      "tags": {
+        "addr:city": "Medellin",
+        "addr:housenumber": "32 - 19",
+        "addr:postcode": "050030",
+        "addr:street": "Diagonal 74B",
+        "amenity": "fuel",
+        "operator": "Terpel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 448824230,
+      "center": {
+        "lat": 6.17384,
+        "lon": -75.4332247
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "name": "Zeuss JM Cordova",
+        "operator": "Zeuss"
+      }
+    },
+    {
+      "type": "way",
+      "id": 449117861,
+      "center": {
+        "lat": 6.2495594,
+        "lon": -75.5889485
+      },
+      "tags": {
+        "addr:street": "Calle 44",
+        "amenity": "fuel",
+        "brand": "Texaco",
+        "brand:wikidata": "Q775060",
+        "brand:wikipedia": "en:Texaco",
+        "building": "roof",
+        "layer": "1",
+        "name": "Texaco",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 456666793,
+      "center": {
+        "lat": 5.9823265,
+        "lon": -75.3719897
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Texaco",
+        "name": "Segunda Bomba \"Don Quijote",
+        "opening_hours": "24/7",
+        "operator": "Texaco",
+        "shop": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 490559509,
+      "center": {
+        "lat": 6.2155828,
+        "lon": -75.5893121
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Texaco",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Texaco - Estrella del Sur",
+        "opening_hours": "24/7",
+        "operator": "Estrella del Sur"
+      }
+    },
+    {
+      "type": "way",
+      "id": 515415385,
+      "center": {
+        "lat": 6.2661637,
+        "lon": -75.5663287
+      },
+      "tags": {
+        "addr:housenumber": "67A-91",
+        "addr:street": "Carrera 52",
+        "amenity": "fuel",
+        "building": "roof",
+        "note": "Mapeado utilizando la Ortofoto de Medellín de Agosto 2021",
+        "operator": "Texaco Universidad"
+      }
+    },
+    {
+      "type": "way",
+      "id": 540969290,
+      "center": {
+        "lat": 6.3837238,
+        "lon": -75.4623903
+      },
+      "tags": {
+        "addr:street": "Doble calzada Niquia - Hatillo",
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "Éxito vecino",
+        "opening_hours": "24/7",
+        "operator": "Grupo Éxito"
+      }
+    },
+    {
+      "type": "way",
+      "id": 547516324,
+      "center": {
+        "lat": 6.0918992,
+        "lon": -75.4801928
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Texaco"
+      }
+    },
+    {
+      "type": "way",
+      "id": 548772130,
+      "center": {
+        "lat": 6.1533817,
+        "lon": -75.4066303
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "layer": "1",
+        "operator": "Zeuss"
+      }
+    },
+    {
+      "type": "way",
+      "id": 548772131,
+      "center": {
+        "lat": 6.1526498,
+        "lon": -75.4059172
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "layer": "1",
+        "operator": "Terpel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 549603453,
+      "center": {
+        "lat": 6.3450218,
+        "lon": -75.5642267
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Zeuss"
+      }
+    },
+    {
+      "type": "way",
+      "id": 550309445,
+      "center": {
+        "lat": 6.3021749,
+        "lon": -75.4569815
+      },
+      "tags": {
+        "amenity": "fuel",
+        "fuel:HGV_diesel": "yes",
+        "fuel:biodiesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:e10": "yes",
+        "fuel:octane_100": "yes",
+        "opening_hours": "24/7",
+        "operator": "Terpel",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "type": "way",
+      "id": 550309583,
+      "center": {
+        "lat": 6.2926074,
+        "lon": -75.4510834
+      },
+      "tags": {
+        "addr:street": "Autopista Medellín-Bogotá",
+        "amenity": "fuel",
+        "brand": "Texaco",
+        "building": "roof",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 551122369,
+      "center": {
+        "lat": 6.2489621,
+        "lon": -75.583066
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "name": "Primax",
+        "survey:date": "2022-05-19"
+      }
+    },
+    {
+      "type": "way",
+      "id": 569704050,
+      "center": {
+        "lat": 6.2400192,
+        "lon": -75.5514869
+      },
+      "tags": {
+        "addr:city": "Comuna 9 - Buenos Aires",
+        "addr:housenumber": "27A-21",
+        "addr:street": "Calle 49",
+        "amenity": "fuel",
+        "building": "roof",
+        "opening_hours": "24/7",
+        "operator": "Primax",
+        "phone": "+57 604 4378824",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 569704051,
+      "center": {
+        "lat": 6.2396455,
+        "lon": -75.5512299
+      },
+      "tags": {
+        "addr:street": "Calle 49",
+        "amenity": "fuel",
+        "building": "roof",
+        "operator": "Primax",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 569704052,
+      "center": {
+        "lat": 6.2397724,
+        "lon": -75.5512424
+      },
+      "tags": {
+        "addr:street": "Calle 49",
+        "amenity": "fuel",
+        "building": "roof",
+        "operator": "Primax",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 569704054,
+      "center": {
+        "lat": 6.2398804,
+        "lon": -75.5512056
+      },
+      "tags": {
+        "addr:street": "Calle 49",
+        "amenity": "fuel",
+        "building": "roof",
+        "operator": "Primax",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 569999987,
+      "center": {
+        "lat": 6.260311,
+        "lon": -75.571882
+      },
+      "tags": {
+        "addr:street": "Carrera 58",
+        "amenity": "fuel",
+        "brand": "Zeuss",
+        "building": "roof",
+        "layer": "1",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 570015356,
+      "center": {
+        "lat": 6.309352,
+        "lon": -75.5555095
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "operator": "Primax",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 570015357,
+      "center": {
+        "lat": 6.3093584,
+        "lon": -75.5557323
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "operator": "Primax",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 570099253,
+      "center": {
+        "lat": 6.2318332,
+        "lon": -75.5912765
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand:wikidata": "Q867662",
+        "building": "roof",
+        "name": "Estación de servicio Esso",
+        "operator": "Primax"
+      }
+    },
+    {
+      "type": "way",
+      "id": 570099254,
+      "center": {
+        "lat": 6.2320387,
+        "lon": -75.5912948
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "layer": "1",
+        "operator": "Primax",
+        "self_service": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 570099255,
+      "center": {
+        "lat": 6.2319635,
+        "lon": -75.5911589
+      },
+      "tags": {
+        "addr:street": "Carrera 70",
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "epm",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 570099257,
+      "center": {
+        "lat": 6.2321702,
+        "lon": -75.5824772
+      },
+      "tags": {
+        "addr:street": "Calle 30",
+        "amenity": "fuel",
+        "building": "roof",
+        "compressed_air": "yes",
+        "name": "Primax",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 570120543,
+      "center": {
+        "lat": 6.2392243,
+        "lon": -75.5825894
+      },
+      "tags": {
+        "addr:street": "Calle 33",
+        "amenity": "fuel",
+        "brand": "Terpel",
+        "brand:wikidata": "Q7703003",
+        "name": "Terpel",
+        "self_service": "no",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 570120549,
+      "center": {
+        "lat": 6.2390822,
+        "lon": -75.5872481
+      },
+      "tags": {
+        "addr:street": "Calle 33",
+        "amenity": "fuel",
+        "brand": "Primax",
+        "building": "roof",
+        "compressed_air": "yes",
+        "layer": "1",
+        "name": "Primax",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 570120551,
+      "center": {
+        "lat": 6.238686,
+        "lon": -75.5963475
+      },
+      "tags": {
+        "addr:street": "Calle 33",
+        "amenity": "fuel",
+        "building": "roof",
+        "compressed_air": "yes",
+        "name": "Primax Los Almendros",
+        "operator": "Primax",
+        "survey:date": "2022-09-07",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 570355301,
+      "center": {
+        "lat": 6.1682547,
+        "lon": -75.6070977
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "operator": "Zeuss"
+      }
+    },
+    {
+      "type": "way",
+      "id": 570355310,
+      "center": {
+        "lat": 6.1799666,
+        "lon": -75.5924512
+      },
+      "tags": {
+        "addr:street": "Autopista Sur",
+        "amenity": "fuel",
+        "building": "roof",
+        "name": "Terpel",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 570355312,
+      "center": {
+        "lat": 6.1806869,
+        "lon": -75.5918249
+      },
+      "tags": {
+        "addr:street": "Autopista Sur",
+        "amenity": "fuel",
+        "brand": "Texaco",
+        "building": "roof",
+        "name": "Texaco",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 570370387,
+      "center": {
+        "lat": 6.1636274,
+        "lon": -75.6224469
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "name:es": "Terpel yarumito",
+        "operator": "Terpel",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 570370388,
+      "center": {
+        "lat": 6.1637714,
+        "lon": -75.6224228
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "name:es": "Terpel yarumito",
+        "operator": "Terpel",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 570370402,
+      "center": {
+        "lat": 6.1659381,
+        "lon": -75.6177358
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Esso",
+        "building": "roof",
+        "layer": "1",
+        "name": "Esso distracom",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 570370403,
+      "center": {
+        "lat": 6.1658923,
+        "lon": -75.61756
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Esso",
+        "building": "roof",
+        "name": "Esso distracom",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 571136721,
+      "center": {
+        "lat": 6.2717682,
+        "lon": -75.5785197
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Gazel",
+        "brand:wikidata": "Q62529885",
+        "building": "roof",
+        "name": "Gazel",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 571136722,
+      "center": {
+        "lat": 6.2715764,
+        "lon": -75.5783826
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Terpel",
+        "brand:wikidata": "Q7703003",
+        "building": "roof",
+        "compressed_air": "yes",
+        "name": "Terpel",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 571139010,
+      "center": {
+        "lat": 6.2174639,
+        "lon": -75.5784462
+      },
+      "tags": {
+        "addr:street": "Calle 14",
+        "amenity": "fuel",
+        "building": "roof",
+        "layer": "1",
+        "operator": "Primax"
+      }
+    },
+    {
+      "type": "way",
+      "id": 571145486,
+      "center": {
+        "lat": 6.1513983,
+        "lon": -75.3852758
+      },
+      "tags": {
+        "addr:street": "Calle 47",
+        "amenity": "fuel",
+        "building": "roof",
+        "name": "Mobil",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 571145493,
+      "center": {
+        "lat": 6.1514979,
+        "lon": -75.3760308
+      },
+      "tags": {
+        "addr:street": "Calle 47",
+        "amenity": "fuel",
+        "brand": "Terpel",
+        "brand:wikidata": "Q7703003",
+        "brand:wikipedia": "en:Terpel",
+        "building": "roof",
+        "name": "Terpel",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 571145495,
+      "center": {
+        "lat": 6.1498886,
+        "lon": -75.3729201
+      },
+      "tags": {
+        "addr:street": "Carrera 50",
+        "amenity": "fuel",
+        "building": "roof",
+        "name": "gazel",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 571145496,
+      "center": {
+        "lat": 6.1497336,
+        "lon": -75.3728397
+      },
+      "tags": {
+        "addr:street": "Carrera 50",
+        "amenity": "fuel",
+        "building": "roof",
+        "name": "Terpel",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 571159665,
+      "center": {
+        "lat": 6.2283508,
+        "lon": -75.5777155
+      },
+      "tags": {
+        "addr:street": "Carrera 52",
+        "amenity": "fuel",
+        "brand:wikidata": "Q7703003",
+        "brand:wikipedia": "en:Terpel",
+        "building": "roof",
+        "layer": "1",
+        "name": "Terpel",
+        "operator": "Terpel",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 571159752,
+      "center": {
+        "lat": 6.1553111,
+        "lon": -75.3718706
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "layer": "1",
+        "name": "Mobil",
+        "operator": "Mobil",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 571159753,
+      "center": {
+        "lat": 6.15535,
+        "lon": -75.3719651
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "layer": "1",
+        "name": "Mobil",
+        "operator": "Mobil",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 571159880,
+      "center": {
+        "lat": 6.2786137,
+        "lon": -75.5885784
+      },
+      "tags": {
+        "addr:street": "Diagonal 80",
+        "amenity": "fuel",
+        "brand": "Primax",
+        "brand:wikidata": "Q867662",
+        "building": "roof",
+        "fuel:GTL_diesel": "yes",
+        "fuel:HGV_diesel": "yes",
+        "fuel:diesel": "yes",
+        "name": "Primax",
+        "opening_hours": "24/7",
+        "shop": "no",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 571159881,
+      "center": {
+        "lat": 6.2784877,
+        "lon": -75.5887881
+      },
+      "tags": {
+        "addr:street": "Diagonal 80",
+        "amenity": "fuel",
+        "brand": "Primax",
+        "brand:wikidata": "Q867662",
+        "building": "roof",
+        "fuel:GTL_diesel": "yes",
+        "fuel:HGV_diesel": "yes",
+        "fuel:diesel": "yes",
+        "name": "Primax",
+        "opening_hours": "24/7",
+        "shop": "no",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 571433888,
+      "center": {
+        "lat": 6.2631005,
+        "lon": -75.5669331
+      },
+      "tags": {
+        "addr:street": "Carrera 52",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "brand:wikidata": "Q867662",
+        "building": "roof",
+        "name": "Los Alamos Bomba de Gallo",
+        "opening_hours": "24/7",
+        "operator": "Esso",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 571433889,
+      "center": {
+        "lat": 6.2632361,
+        "lon": -75.5667971
+      },
+      "tags": {
+        "addr:street": "Carrera 52",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "brand:wikidata": "Q867662",
+        "building": "roof",
+        "name": "Los Alamos Bomba de Gallo",
+        "opening_hours": "24/7",
+        "operator": "Esso",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 571510684,
+      "center": {
+        "lat": 6.1539469,
+        "lon": -75.3670298
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "name": "Zeuss",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 571514027,
+      "center": {
+        "lat": 6.2785293,
+        "lon": -75.5947082
+      },
+      "tags": {
+        "addr:street": "Calle 68",
+        "amenity": "fuel",
+        "building": "roof",
+        "compressed_air": "yes",
+        "name": "Terpel",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 571514030,
+      "center": {
+        "lat": 6.2783854,
+        "lon": -75.5946892
+      },
+      "tags": {
+        "addr:street": "Calle 68",
+        "amenity": "fuel",
+        "building": "roof",
+        "compressed_air": "yes",
+        "name": "Terpel",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 571521907,
+      "center": {
+        "lat": 6.2768099,
+        "lon": -75.4432578
+      },
+      "tags": {
+        "addr:street": "Autopista Medellín-Bogotá",
+        "amenity": "fuel",
+        "brand": "Texaco",
+        "brand:wikidata": "Q775060",
+        "building": "roof",
+        "name": "Texaco",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 571521923,
+      "center": {
+        "lat": 6.3155192,
+        "lon": -75.4630631
+      },
+      "tags": {
+        "addr:street": "Autopista Medellín-Bogotá",
+        "amenity": "fuel",
+        "brand": "Texaco",
+        "brand:wikidata": "Q775060",
+        "building": "roof",
+        "name": "Texaco",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 571521924,
+      "center": {
+        "lat": 6.3177893,
+        "lon": -75.46458
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Texaco",
+        "building": "roof",
+        "fuel:HGV_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:e10": "yes",
+        "fuel:e85": "no",
+        "name": "TEXACO",
+        "opening_hours": "24/7",
+        "shop": "kiosk",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 571731192,
+      "center": {
+        "lat": 6.2614728,
+        "lon": -75.555782
+      },
+      "tags": {
+        "addr:street": "Carrera 45",
+        "amenity": "fuel",
+        "brand": "Terpel",
+        "building": "roof",
+        "layer": "1",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 571749045,
+      "center": {
+        "lat": 6.1572673,
+        "lon": -75.6224167
+      },
+      "tags": {
+        "addr:street": "Carrera 42",
+        "amenity": "fuel",
+        "brand": "Texaco",
+        "building": "roof",
+        "layer": "1",
+        "name": "Texaco Autopista",
+        "shop": "yes",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 571765888,
+      "center": {
+        "lat": 6.2104898,
+        "lon": -75.5587031
+      },
+      "tags": {
+        "addr:street": "Carrera 30",
+        "amenity": "fuel",
+        "brand": "Primax",
+        "building": "roof",
+        "layer": "1",
+        "name": "Primax",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 571855771,
+      "center": {
+        "lat": 6.2608769,
+        "lon": -75.5850958
+      },
+      "tags": {
+        "addr:street": "Carrera 70",
+        "amenity": "fuel",
+        "building": "yes",
+        "layer": "1",
+        "operator": "Primax",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 571855772,
+      "center": {
+        "lat": 6.2601678,
+        "lon": -75.5848357
+      },
+      "tags": {
+        "addr:street": "Transversal 51A",
+        "amenity": "fuel",
+        "building": "roof",
+        "name": "Terpel",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 571855773,
+      "center": {
+        "lat": 6.2601518,
+        "lon": -75.5847154
+      },
+      "tags": {
+        "addr:street": "Transversal 51A",
+        "amenity": "fuel",
+        "building": "roof",
+        "name": "Gazel",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 571855801,
+      "center": {
+        "lat": 6.2618288,
+        "lon": -75.587388
+      },
+      "tags": {
+        "addr:street": "Calle 53",
+        "amenity": "fuel",
+        "brand:wikidata": "Q867662",
+        "building": "roof",
+        "operator": "Primax",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 571855804,
+      "center": {
+        "lat": 6.2583281,
+        "lon": -75.5839783
+      },
+      "tags": {
+        "addr:street": "Transversal 51A",
+        "amenity": "fuel",
+        "building": "roof",
+        "operator": "Primax",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 571862040,
+      "center": {
+        "lat": 6.2045439,
+        "lon": -75.5885066
+      },
+      "tags": {
+        "addr:street": "Carrera 53",
+        "amenity": "fuel",
+        "building": "roof",
+        "operator": "Texaco"
+      }
+    },
+    {
+      "type": "way",
+      "id": 571862796,
+      "center": {
+        "lat": 6.228689,
+        "lon": -75.3994095
+      },
+      "tags": {
+        "addr:street": "Autopista Medellín-Bogotá",
+        "amenity": "fuel",
+        "brand": "Terpel",
+        "building": "roof",
+        "layer": "1",
+        "name": "Terpel",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 571862806,
+      "center": {
+        "lat": 6.2463238,
+        "lon": -75.4230548
+      },
+      "tags": {
+        "addr:street": "Autopista Medellín-Bogotá",
+        "amenity": "fuel",
+        "building": "roof",
+        "layer": "1",
+        "operator": "Terpel",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 572092380,
+      "center": {
+        "lat": 6.1872761,
+        "lon": -75.5782727
+      },
+      "tags": {
+        "addr:street": "Carrera 43A",
+        "amenity": "fuel",
+        "building": "roof",
+        "compressed_air": "yes",
+        "name": "Primax",
+        "operator": "Primax",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 572096395,
+      "center": {
+        "lat": 6.1851487,
+        "lon": -75.578513
+      },
+      "tags": {
+        "addr:city": "Medellin",
+        "addr:country": "CO",
+        "addr:street": "Carrera 43A",
+        "amenity": "fuel",
+        "building": "roof",
+        "description": "Estacion de gasolina Zeuss con servicio de autolavado y almacen.",
+        "name": "Zeuss",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 572105041,
+      "center": {
+        "lat": 6.1769355,
+        "lon": -75.5854087
+      },
+      "tags": {
+        "addr:street": "Carrera 43A",
+        "amenity": "fuel",
+        "brand": "ESSO",
+        "building": "roof",
+        "fuel:biodiesel": "yes",
+        "fuel:cng": "yes",
+        "fuel:diesel": "yes",
+        "name": "ESSO Envigado",
+        "opening_hours": "24/7",
+        "operator": "ESSO",
+        "shop": "kiosk",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 572112672,
+      "center": {
+        "lat": 6.1790496,
+        "lon": -75.5832183
+      },
+      "tags": {
+        "addr:street": "Carrera 43A",
+        "amenity": "fuel",
+        "building": "roof",
+        "operator": "Terpel",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 572158010,
+      "center": {
+        "lat": 6.163582,
+        "lon": -75.5960056
+      },
+      "tags": {
+        "addr:street": "Carrera 43A",
+        "amenity": "fuel",
+        "building": "roof",
+        "name": "Biomax",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 572194934,
+      "center": {
+        "lat": 6.1712285,
+        "lon": -75.6272924
+      },
+      "tags": {
+        "addr:street": "Calle 36",
+        "amenity": "fuel",
+        "brand": "Texaco",
+        "brand:wikidata": "Q775060",
+        "building": "roof",
+        "layer": "1",
+        "name": "Texaco",
+        "name:es": "ESTACION TEXACO DITAIRES",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 572228245,
+      "center": {
+        "lat": 6.2591902,
+        "lon": -75.5973415
+      },
+      "tags": {
+        "addr:street": "Carrera 80",
+        "amenity": "fuel",
+        "brand": "Texaco",
+        "brand:wikidata": "Q775060",
+        "building": "roof",
+        "name": "Texaco",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 573373340,
+      "center": {
+        "lat": 6.2461582,
+        "lon": -75.4229249
+      },
+      "tags": {
+        "addr:street": "Autopista Medellín-Bogotá",
+        "amenity": "fuel",
+        "building": "roof",
+        "layer": "1",
+        "name": "Gas Natural Vehicle",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 573773875,
+      "center": {
+        "lat": 6.3451914,
+        "lon": -75.523911
+      },
+      "tags": {
+        "addr:street": "Doble Calzada Niquia - Hatillo",
+        "amenity": "fuel",
+        "brand": "Primax",
+        "building": "roof",
+        "layer": "1",
+        "name": "Primax",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 573797723,
+      "center": {
+        "lat": 6.3487984,
+        "lon": -75.50749
+      },
+      "tags": {
+        "addr:street": "Carrera 48",
+        "amenity": "fuel",
+        "brand": "Primax",
+        "building": "roof",
+        "layer": "1",
+        "name": "Primax",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 573797730,
+      "center": {
+        "lat": 6.3470495,
+        "lon": -75.5205308
+      },
+      "tags": {
+        "addr:street": "Doble calzada Niquia - Hatillo",
+        "amenity": "fuel",
+        "brand": "Terpel",
+        "brand:wikidata": "Q7703003",
+        "brand:wikipedia": "en:Terpel",
+        "building": "roof",
+        "name": "Terpel",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 573797731,
+      "center": {
+        "lat": 6.3469489,
+        "lon": -75.5206412
+      },
+      "tags": {
+        "addr:street": "Doble calzada Niquia - Hatillo",
+        "amenity": "fuel",
+        "brand": "Terpel",
+        "brand:wikidata": "Q7703003",
+        "brand:wikipedia": "en:Terpel",
+        "building": "roof",
+        "name": "Terpel",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 573797732,
+      "center": {
+        "lat": 6.346859,
+        "lon": -75.5207688
+      },
+      "tags": {
+        "addr:street": "Doble calzada Niquia - Hatillo",
+        "amenity": "fuel",
+        "brand": "Terpel",
+        "brand:wikidata": "Q7703003",
+        "brand:wikipedia": "en:Terpel",
+        "building": "roof",
+        "name": "Terpel",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 573797733,
+      "center": {
+        "lat": 6.3453655,
+        "lon": -75.5235032
+      },
+      "tags": {
+        "addr:street": "Doble Calzada Niquia - Hatillo",
+        "amenity": "fuel",
+        "brand": "Gazel",
+        "brand:wikidata": "Q62529885",
+        "building": "roof",
+        "layer": "1",
+        "name": "Gazel",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 574228562,
+      "center": {
+        "lat": 6.1944801,
+        "lon": -75.5907595
+      },
+      "tags": {
+        "addr:street": "Carrera 52",
+        "amenity": "fuel",
+        "building": "yes",
+        "layer": "1",
+        "name": "Terpel",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 574257359,
+      "center": {
+        "lat": 6.3352764,
+        "lon": -75.5519834
+      },
+      "tags": {
+        "addr:street": "Autopista Norte",
+        "amenity": "fuel",
+        "building": "roof",
+        "compressed_air": "yes",
+        "operator": "distracom",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 574257367,
+      "center": {
+        "lat": 6.3351446,
+        "lon": -75.5522028
+      },
+      "tags": {
+        "addr:street": "Autopista Norte",
+        "amenity": "fuel",
+        "building": "roof",
+        "operator": "Primax",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 574257368,
+      "center": {
+        "lat": 6.3350437,
+        "lon": -75.5524044
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Primax",
+        "building": "roof",
+        "name": "Primax",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 574257371,
+      "center": {
+        "lat": 6.3344975,
+        "lon": -75.5534196
+      },
+      "tags": {
+        "addr:street": "Autopista Norte",
+        "amenity": "fuel",
+        "brand": "Texaco",
+        "brand:wikidata": "Q775060",
+        "brand:wikipedia": "en:Texaco",
+        "building": "roof",
+        "layer": "1",
+        "name": "Texaco",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 574257372,
+      "center": {
+        "lat": 6.3336038,
+        "lon": -75.5540759
+      },
+      "tags": {
+        "addr:street": "Autopista Norte",
+        "amenity": "fuel",
+        "brand": "Terpel",
+        "brand:wikidata": "Q7703003",
+        "brand:wikipedia": "en:Terpel",
+        "building": "roof",
+        "name": "Terpel",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 574257373,
+      "center": {
+        "lat": 6.3335271,
+        "lon": -75.5542204
+      },
+      "tags": {
+        "addr:street": "Autopista Norte",
+        "amenity": "fuel",
+        "brand": "Gazel",
+        "brand:wikidata": "Q62529885",
+        "building": "roof",
+        "name": "Gazel",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 575681406,
+      "center": {
+        "lat": 6.1687758,
+        "lon": -75.6371348
+      },
+      "tags": {
+        "addr:street": "Carrera 64",
+        "amenity": "fuel",
+        "building": "roof",
+        "layer": "1",
+        "name": "Terpel",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 576070616,
+      "center": {
+        "lat": 6.1763553,
+        "lon": -75.6369103
+      },
+      "tags": {
+        "addr:street": "Carrera 55",
+        "amenity": "fuel",
+        "building": "roof",
+        "layer": "1",
+        "operator": "Primax",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 576498545,
+      "center": {
+        "lat": 6.2559326,
+        "lon": -75.5800175
+      },
+      "tags": {
+        "addr:street": "Calle 50",
+        "amenity": "fuel",
+        "brand": "Primax",
+        "building": "yes",
+        "compressed_air": "yes",
+        "operator": "Primax",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 576498548,
+      "center": {
+        "lat": 6.2581451,
+        "lon": -75.5860715
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Primax",
+        "building": "roof",
+        "name": "La 70",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 576504573,
+      "center": {
+        "lat": 6.2322055,
+        "lon": -75.6026907
+      },
+      "tags": {
+        "addr:street": "Carrera 80",
+        "amenity": "fuel",
+        "brand:wikidata": "Q7703003",
+        "brand:wikipedia": "en:Terpel",
+        "building": "roof",
+        "name": "Terpel",
+        "operator": "Terpel",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 576504574,
+      "center": {
+        "lat": 6.2322477,
+        "lon": -75.6025966
+      },
+      "tags": {
+        "addr:street": "Carrera 80",
+        "amenity": "fuel",
+        "brand:wikidata": "Q7703003",
+        "brand:wikipedia": "en:Terpel",
+        "building": "roof",
+        "name": "Terpel",
+        "operator": "Terpel",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 576504576,
+      "center": {
+        "lat": 6.2322418,
+        "lon": -75.6024761
+      },
+      "tags": {
+        "addr:street": "Carrera 80",
+        "amenity": "fuel",
+        "brand:wikidata": "Q7703003",
+        "brand:wikipedia": "en:Terpel",
+        "building": "roof",
+        "name": "Terpel",
+        "operator": "Terpel",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 576531848,
+      "center": {
+        "lat": 6.1693695,
+        "lon": -75.6182053
+      },
+      "tags": {
+        "addr:street": "Carrera 50A",
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "Primax",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 576531849,
+      "center": {
+        "lat": 6.1688392,
+        "lon": -75.6179209
+      },
+      "tags": {
+        "addr:street": "Carrera 50A",
+        "amenity": "fuel",
+        "brand": "Texaco",
+        "brand:wikidata": "Q775060",
+        "building": "yes",
+        "name": "Texaco",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 576806814,
+      "center": {
+        "lat": 6.2224559,
+        "lon": -75.5696189
+      },
+      "tags": {
+        "addr:street": "Carrera 43A",
+        "amenity": "fuel",
+        "building": "roof",
+        "name": "Terpel",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 576806816,
+      "center": {
+        "lat": 6.2116714,
+        "lon": -75.5703037
+      },
+      "tags": {
+        "addr:street": "Calle 10A",
+        "amenity": "fuel",
+        "building": "roof",
+        "name": "Primax",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 576822366,
+      "center": {
+        "lat": 6.1835822,
+        "lon": -75.6514795
+      },
+      "tags": {
+        "addr:street": "Carrera 72",
+        "amenity": "fuel",
+        "building": "roof",
+        "layer": "1",
+        "name": "Terpel",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 576825533,
+      "center": {
+        "lat": 6.2387012,
+        "lon": -75.5751792
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "name": "Zeuss",
+        "operator": "Zeuss",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 576846223,
+      "center": {
+        "lat": 6.2339588,
+        "lon": -75.5744856
+      },
+      "tags": {
+        "addr:street": "Carrera 51",
+        "amenity": "fuel",
+        "brand": "Primax",
+        "building": "roof",
+        "name": "Primax",
+        "name:es": "Primax",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 576851143,
+      "center": {
+        "lat": 6.2409935,
+        "lon": -75.5700802
+      },
+      "tags": {
+        "addr:street": "Calle 41",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "brand:wikidata": "Q867662",
+        "brand:wikipedia": "en:Esso",
+        "building": "roof",
+        "layer": "1",
+        "name": "Primax",
+        "source": "Kaart Ground Survey 2018",
+        "survey:date": "2022-05-17"
+      }
+    },
+    {
+      "type": "way",
+      "id": 576851853,
+      "center": {
+        "lat": 6.2351355,
+        "lon": -75.5416548
+      },
+      "tags": {
+        "addr:street": "Calle 51",
+        "amenity": "fuel",
+        "brand": "Zeuss",
+        "building": "roof",
+        "layer": "1",
+        "name": "Gasolinera Alejandro Chavarría"
+      }
+    },
+    {
+      "type": "way",
+      "id": 576865697,
+      "center": {
+        "lat": 6.2378716,
+        "lon": -75.5737213
+      },
+      "tags": {
+        "addr:street": "Calle 36",
+        "amenity": "fuel",
+        "brand": "Texaco",
+        "brand:wikidata": "Q775060",
+        "building": "roof",
+        "name": "Texaco",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 576926617,
+      "center": {
+        "lat": 6.1559623,
+        "lon": -75.6114963
+      },
+      "tags": {
+        "addr:street": "Carrera 48",
+        "amenity": "fuel",
+        "brand": "Primax",
+        "building": "roof",
+        "name": "Primax",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 576929859,
+      "center": {
+        "lat": 6.1584894,
+        "lon": -75.6090277
+      },
+      "tags": {
+        "addr:street": "Carrera 48",
+        "amenity": "fuel",
+        "brand:wikidata": "Q7703003",
+        "brand:wikipedia": "en:Terpel",
+        "building": "roof",
+        "fuel:biogas": "no",
+        "fuel:diesel": "yes",
+        "name": "Terpel",
+        "operator": "Terpel",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 576929863,
+      "center": {
+        "lat": 6.1533229,
+        "lon": -75.6193803
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Texaco",
+        "brand:wikidata": "Q775060",
+        "brand:wikipedia": "en:Texaco",
+        "building": "roof",
+        "name": "Texaco",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 577186216,
+      "center": {
+        "lat": 6.224409,
+        "lon": -75.5689639
+      },
+      "tags": {
+        "addr:street": "Carrera 43A",
+        "amenity": "fuel",
+        "brand": "Terpel",
+        "brand:wikidata": "Q7703003",
+        "building": "roof",
+        "name": "Terpel",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 578228183,
+      "center": {
+        "lat": 6.2134847,
+        "lon": -75.5966411
+      },
+      "tags": {
+        "addr:street": "Diagonal 75B",
+        "amenity": "fuel",
+        "brand": "Terpel",
+        "brand:wikidata": "Q7703003",
+        "brand:wikipedia": "en:Terpel",
+        "building": "roof",
+        "name": "Terpel",
+        "self_service": "no",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 578232620,
+      "center": {
+        "lat": 6.2323794,
+        "lon": -75.5824293
+      },
+      "tags": {
+        "addr:street": "Carrera 65",
+        "amenity": "fuel",
+        "building": "roof",
+        "name": "Epm",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 578270347,
+      "center": {
+        "lat": 6.1539231,
+        "lon": -75.6093481
+      },
+      "tags": {
+        "addr:city": "Sabaneta Antioquia",
+        "addr:street": "Carrera 43A",
+        "amenity": "fuel",
+        "brand": "Terpel",
+        "brand:wikidata": "Q7703003",
+        "brand:wikipedia": "en:Terpel",
+        "building": "roof",
+        "compressed_air": "yes",
+        "layer": "1",
+        "name": "Terpel",
+        "opening_hours": "Mo-Su,PH 00:00-23:59",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 578279806,
+      "center": {
+        "lat": 6.1966166,
+        "lon": -75.5842248
+      },
+      "tags": {
+        "addr:street": "Calle 12 Sur",
+        "amenity": "fuel",
+        "brand": "Texaco",
+        "brand:wikidata": "Q775060",
+        "building": "roof",
+        "name": "Texaco",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 578279808,
+      "center": {
+        "lat": 6.1813924,
+        "lon": -75.5915423
+      },
+      "tags": {
+        "addr:street": "Calle 75",
+        "amenity": "fuel",
+        "brand": "Terpel",
+        "building": "roof",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 578294738,
+      "center": {
+        "lat": 6.2687394,
+        "lon": -75.5759323
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "epm",
+        "building": "roof",
+        "layer": "1",
+        "operator": "Texaco"
+      }
+    },
+    {
+      "type": "way",
+      "id": 578294739,
+      "center": {
+        "lat": 6.268775,
+        "lon": -75.5761995
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Texaco",
+        "building": "roof",
+        "layer": "1",
+        "operator": "Texaco",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 578294743,
+      "center": {
+        "lat": 6.271669,
+        "lon": -75.5749334
+      },
+      "tags": {
+        "addr:street": "Carrera 65",
+        "amenity": "fuel",
+        "building": "roof",
+        "layer": "1",
+        "opening_hours": "PH,Mo-Su 00:00-12:00",
+        "operator": "Primax",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 578688113,
+      "center": {
+        "lat": 6.2960535,
+        "lon": -75.5679152
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Terpel",
+        "building": "roof",
+        "fuel:biogas": "yes",
+        "fuel:diesel": "yes",
+        "layer": "1",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 578688115,
+      "center": {
+        "lat": 6.2958857,
+        "lon": -75.567982
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Terpel",
+        "building": "roof",
+        "fuel:biogas": "yes",
+        "fuel:diesel": "yes",
+        "layer": "1",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 578688132,
+      "center": {
+        "lat": 6.2768319,
+        "lon": -75.5729328
+      },
+      "tags": {
+        "addr:street": "Carrera 65",
+        "amenity": "fuel",
+        "building": "roof",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 579049473,
+      "center": {
+        "lat": 6.2352063,
+        "lon": -75.5557658
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "operator": "Texaco",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 579074411,
+      "center": {
+        "lat": 6.3233679,
+        "lon": -75.5572544
+      },
+      "tags": {
+        "addr:street": "Carrera 50",
+        "amenity": "fuel",
+        "brand": "Texaco",
+        "building": "roof",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 579088080,
+      "center": {
+        "lat": 6.263357,
+        "lon": -75.5701245
+      },
+      "tags": {
+        "addr:housenumber": "56-35",
+        "addr:street": "Calle 65",
+        "amenity": "fuel",
+        "building": "yes",
+        "fuel:diesel": "yes",
+        "name": "Terpel Las Mercedes",
+        "operator": "Terpel",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 579341100,
+      "center": {
+        "lat": 6.2556588,
+        "lon": -75.5715368
+      },
+      "tags": {
+        "addr:city": "Medellin",
+        "addr:housenumber": "55-29",
+        "addr:street": "Carrera 56",
+        "amenity": "fuel",
+        "building": "roof",
+        "name": "Terpel Villanueva",
+        "operator": "Terpel",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 579391478,
+      "center": {
+        "lat": 6.23796,
+        "lon": -75.5755851
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Primax",
+        "building": "roof",
+        "name": "Primax",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 579426242,
+      "center": {
+        "lat": 6.2693583,
+        "lon": -75.5739449
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Primax",
+        "building": "roof",
+        "name": "Las Margaritas",
+        "name:es": "Las Margaritas",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 579426244,
+      "center": {
+        "lat": 6.2723445,
+        "lon": -75.5732169
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "operator": "Primax"
+      }
+    },
+    {
+      "type": "way",
+      "id": 579426257,
+      "center": {
+        "lat": 6.3092119,
+        "lon": -75.5595573
+      },
+      "tags": {
+        "addr:street": "Carrera 64AA",
+        "amenity": "fuel",
+        "brand": "Gazel",
+        "brand:wikidata": "Q62529885",
+        "building": "roof",
+        "name": "Gazel",
+        "opening_hours": "24/7",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 579426261,
+      "center": {
+        "lat": 6.2714694,
+        "lon": -75.5740694
+      },
+      "tags": {
+        "addr:street": "Carrera 64",
+        "amenity": "fuel",
+        "brand": "Primax",
+        "building": "roof",
+        "name": "Los Mangos",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 579426273,
+      "center": {
+        "lat": 6.2839521,
+        "lon": -75.5707896
+      },
+      "tags": {
+        "addr:street": "Carrera 64",
+        "amenity": "fuel",
+        "brand": "Terpel",
+        "brand:wikidata": "Q7703003",
+        "building": "roof",
+        "fuel:HGV_diesel": "yes",
+        "fuel:diesel": "yes",
+        "layer": "1",
+        "name": "Terpel",
+        "opening_hours": "24/7",
+        "shop": "kiosk",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 579426274,
+      "center": {
+        "lat": 6.2865978,
+        "lon": -75.569915
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "layer": "1",
+        "operator": "Primax"
+      }
+    },
+    {
+      "type": "way",
+      "id": 579426275,
+      "center": {
+        "lat": 6.2867846,
+        "lon": -75.5698621
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "layer": "1",
+        "operator": "Primax"
+      }
+    },
+    {
+      "type": "way",
+      "id": 580605789,
+      "center": {
+        "lat": 6.2681435,
+        "lon": -75.561615
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "layer": "1",
+        "name": "Zeuss",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 580605792,
+      "center": {
+        "lat": 6.2681877,
+        "lon": -75.5617208
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "layer": "1",
+        "name": "Zeuss",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 607299503,
+      "center": {
+        "lat": 6.3108278,
+        "lon": -75.5505076
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "layer": "1",
+        "operator": "Primax"
+      }
+    },
+    {
+      "type": "way",
+      "id": 607299505,
+      "center": {
+        "lat": 6.3107539,
+        "lon": -75.5506664
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "layer": "1",
+        "operator": "Primax"
+      }
+    },
+    {
+      "type": "way",
+      "id": 607667679,
+      "center": {
+        "lat": 6.3394653,
+        "lon": -75.5456713
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "operator": "Primax"
+      }
+    },
+    {
+      "type": "way",
+      "id": 614921239,
+      "center": {
+        "lat": 6.1568088,
+        "lon": -75.6217831
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "layer": "1",
+        "operator": "Biomax"
+      }
+    },
+    {
+      "type": "way",
+      "id": 632243547,
+      "center": {
+        "lat": 6.2958451,
+        "lon": -75.5677612
+      },
+      "tags": {
+        "amenity": "fuel",
+        "layer": "1"
+      }
+    },
+    {
+      "type": "way",
+      "id": 755029152,
+      "center": {
+        "lat": 6.0325297,
+        "lon": -75.4383212
+      },
+      "tags": {
+        "amenity": "fuel",
+        "name": "EDS Los Tambos",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "way",
+      "id": 779930887,
+      "center": {
+        "lat": 6.15984,
+        "lon": -75.5156358
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Terpel",
+        "fuel:gasoline": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Terpel Alto Las Palmas",
+        "not:brand:wikidata": "Q7703003",
+        "operator": "Terpel",
+        "self_service": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 782047722,
+      "center": {
+        "lat": 6.2084627,
+        "lon": -75.5915232
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Terpel",
+        "brand:wikidata": "Q7703003",
+        "brand:wikipedia": "en:Terpel",
+        "building": "roof",
+        "fuel:HGV_diesel": "yes",
+        "fuel:biodiesel": "yes",
+        "fuel:cng": "yes",
+        "fuel:diesel": "yes",
+        "name": "Terpel El Rodeo",
+        "opening_hours": "24/7",
+        "shop": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784620365,
+      "center": {
+        "lat": 6.1922377,
+        "lon": -75.579755
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "operator": "Primax"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784639583,
+      "center": {
+        "lat": 6.1659395,
+        "lon": -75.5788311
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Terpel",
+        "brand:wikidata": "Q7703003",
+        "fuel:diesel": "yes",
+        "fuel:octane_87": "yes",
+        "fuel:octane_92": "yes",
+        "name": "EDS Terpel Escobero"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784922697,
+      "center": {
+        "lat": 6.2000771,
+        "lon": -75.5849305
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "compressed_air": "yes",
+        "opening_hours": "24/7",
+        "operator": "Primax",
+        "survey:date": "2022-04-27"
+      }
+    },
+    {
+      "type": "way",
+      "id": 820360451,
+      "center": {
+        "lat": 6.1409287,
+        "lon": -75.3801644
+      },
+      "tags": {
+        "addr:city": "Rionegro",
+        "addr:street": "Diagonal 55B",
+        "amenity": "fuel",
+        "brand": "Terpel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 999574344,
+      "center": {
+        "lat": 6.1536695,
+        "lon": -75.5448329
+      },
+      "tags": {
+        "addr:street": "Vía Las Palmas",
+        "amenity": "fuel",
+        "brand": "Texaco",
+        "brand:wikidata": "Q775060",
+        "brand:wikipedia": "en:Texaco",
+        "name": "Texaco Alto de las Palmas"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1042767529,
+      "center": {
+        "lat": 6.3518234,
+        "lon": -75.505699
+      },
+      "tags": {
+        "addr:city": "Copacabana",
+        "amenity": "fuel",
+        "building": "roof",
+        "fuel:gasoline": "yes",
+        "name": "Zeuss",
+        "note": "Montallantas"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1042768044,
+      "center": {
+        "lat": 6.3491929,
+        "lon": -75.5079429
+      },
+      "tags": {
+        "addr:city": "Copacabana",
+        "amenity": "fuel",
+        "building": "roof",
+        "fuel:diesel": "yes",
+        "layer": "1",
+        "operator": "Texaco"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1068502438,
+      "center": {
+        "lat": 6.1787425,
+        "lon": -75.5882778
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "operator": "Texaco"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1068502439,
+      "center": {
+        "lat": 6.1788934,
+        "lon": -75.5877641
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "operator": "EPM"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1080348438,
+      "center": {
+        "lat": 6.2206027,
+        "lon": -75.565347
+      },
+      "tags": {
+        "addr:city": "Medellín",
+        "addr:postcode": "050020",
+        "addr:street": "Vía Las Palmas",
+        "amenity": "fuel",
+        "building": "roof",
+        "name": "Bomba Templo Antonia",
+        "opening_hours": "24/7",
+        "operator": "Zeuss"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1080360898,
+      "center": {
+        "lat": 6.241431,
+        "lon": -75.5712968
+      },
+      "tags": {
+        "addr:street": "Calle 41",
+        "amenity": "fuel",
+        "building": "roof",
+        "name": "Los Huesos",
+        "opening_hours": "24/7",
+        "operator": "Texaco"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1080376193,
+      "center": {
+        "lat": 6.2525561,
+        "lon": -75.5840826
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Terpel",
+        "brand:wikidata": "Q7703003",
+        "building": "yes",
+        "fuel:diesel": "yes",
+        "name": "Jumbo La 65",
+        "operator": "Terpel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1082213704,
+      "center": {
+        "lat": 6.1392822,
+        "lon": -75.632468
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "operator": "Terpel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1082213705,
+      "center": {
+        "lat": 6.1392109,
+        "lon": -75.6325766
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "operator": "Terpel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1082214020,
+      "center": {
+        "lat": 6.14297,
+        "lon": -75.6317719
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "name": "Estación de Servicio Los Búcaros",
+        "operator": "Texaco"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1082214021,
+      "center": {
+        "lat": 6.1429549,
+        "lon": -75.6316578
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "name": "Estación de Servicio Los Búcaros",
+        "operator": "Texaco"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1082214826,
+      "center": {
+        "lat": 6.1497361,
+        "lon": -75.6222531
+      },
+      "tags": {
+        "addr:housenumber": "46B 120",
+        "addr:street": "Calle 77 Sur",
+        "amenity": "fuel",
+        "brand:wikidata": "Q775060",
+        "brand:wikipedia": "en:Texaco",
+        "building": "roof",
+        "compressed_air": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_87": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Texaco Sabaneta",
+        "opening_hours": "24/7",
+        "operator": "Texaco"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1082216112,
+      "center": {
+        "lat": 6.1585005,
+        "lon": -75.6091698
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "EPM",
+        "building": "roof",
+        "fuel:cng": "yes",
+        "name": "EPM"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1083061781,
+      "center": {
+        "lat": 6.2296803,
+        "lon": -75.6017319
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "operator": "Terpel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1083062265,
+      "center": {
+        "lat": 6.2330771,
+        "lon": -75.611771
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "operator": "Zeuss"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1083063393,
+      "center": {
+        "lat": 6.2219617,
+        "lon": -75.6103861
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "name": "HL Combustibles SA EDS Altavista"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1083064834,
+      "center": {
+        "lat": 6.2214586,
+        "lon": -75.611737
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "operator": "Terpel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1083065537,
+      "center": {
+        "lat": 6.2039129,
+        "lon": -75.5858468
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "compressed_air": "yes",
+        "fuel:HGV_diesel": "yes",
+        "fuel:biodiesel": "yes",
+        "fuel:cng": "yes",
+        "fuel:diesel": "yes",
+        "name": "Terpel de la 80",
+        "opening_hours": "24/7",
+        "operator": "Terpel",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1083067734,
+      "center": {
+        "lat": 6.1885762,
+        "lon": -75.5881739
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "operator": "Terpel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1083067735,
+      "center": {
+        "lat": 6.1886917,
+        "lon": -75.5883325
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "operator": "Terpel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1083068076,
+      "center": {
+        "lat": 6.1840901,
+        "lon": -75.5850987
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "name": "Zeuss",
+        "operator": "Zeuss"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1083068077,
+      "center": {
+        "lat": 6.1839841,
+        "lon": -75.5852113
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "name": "Zeuss",
+        "operator": "Zeuss"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1083068611,
+      "center": {
+        "lat": 6.1735009,
+        "lon": -75.586003
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "operator": "Texaco"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1083068612,
+      "center": {
+        "lat": 6.1736293,
+        "lon": -75.5863204
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "operator": "Texaco"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1083068888,
+      "center": {
+        "lat": 6.179034,
+        "lon": -75.6016126
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "operator": "Zeuss",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1083069602,
+      "center": {
+        "lat": 6.1781104,
+        "lon": -75.6021148
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "operator": "Texaco"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1083070948,
+      "center": {
+        "lat": 6.1683948,
+        "lon": -75.6071814
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "operator": "Gazel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1083071531,
+      "center": {
+        "lat": 6.1695515,
+        "lon": -75.5682626
+      },
+      "tags": {
+        "addr:city": "Envigado",
+        "addr:housenumber": "36 Sur - 199",
+        "addr:postcode": "055420",
+        "addr:street": "Carrera 27",
+        "amenity": "fuel",
+        "building": "roof",
+        "ele": "1708",
+        "name": "EDS Terpel La Intermedia",
+        "operator": "Terpel",
+        "phone": "+57 604 3361828"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1083072339,
+      "center": {
+        "lat": 6.1970162,
+        "lon": -75.5576558
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "fuel:1_25": "no",
+        "fuel:1_50": "no",
+        "fuel:GTL_diesel": "no",
+        "fuel:HGV_diesel": "no",
+        "fuel:biodiesel": "no",
+        "fuel:biogas": "no",
+        "fuel:cng": "no",
+        "fuel:diesel": "yes",
+        "fuel:e10": "no",
+        "fuel:e85": "no",
+        "fuel:electricity": "no",
+        "fuel:lpg": "no",
+        "fuel:octane_100": "no",
+        "fuel:octane_91": "no",
+        "fuel:octane_95": "no",
+        "fuel:octane_98": "no",
+        "name": "Terpel El Tesoro",
+        "operator": "Terpel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1083073992,
+      "center": {
+        "lat": 6.2172393,
+        "lon": -75.5784075
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "operator": "Primax"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1083075150,
+      "center": {
+        "lat": 6.3151593,
+        "lon": -75.557377
+      },
+      "tags": {
+        "addr:city": "Bello - Cabañitas",
+        "addr:housenumber": "25B-15",
+        "addr:street": "Carrera 50",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "building": "yes",
+        "name": "EDS Shell Bello",
+        "opening_hours": "24/7",
+        "operator": "Shell",
+        "website": "https://www.shell.com.co"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1084069609,
+      "center": {
+        "lat": 6.3798551,
+        "lon": -75.4804673
+      },
+      "tags": {
+        "addr:street": "Doble calzada Niquia - Hatillo",
+        "amenity": "fuel",
+        "building": "roof",
+        "name": "Gallo Tuerto",
+        "opening_hours": "24/7",
+        "operator": "Primax"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1086998182,
+      "center": {
+        "lat": 6.3444628,
+        "lon": -75.531993
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand:wikidata": "Q7703003",
+        "brand:wikipedia": "en:Terpel",
+        "building": "roof",
+        "name": "Terpel",
+        "operator": "Terpel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1086999216,
+      "center": {
+        "lat": 6.3390109,
+        "lon": -75.5217612
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Texaco",
+        "building": "roof",
+        "name": "San Francisco",
+        "operator": "Texaco",
+        "self_service": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1086999730,
+      "center": {
+        "lat": 6.3447729,
+        "lon": -75.5142289
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "layer": "1",
+        "name": "Zeuss Copacabana",
+        "operator": "Zeuss"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1087000032,
+      "center": {
+        "lat": 6.3386556,
+        "lon": -75.5432201
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "layer": "1",
+        "name": "Primax",
+        "operator": "Primax"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1087001470,
+      "center": {
+        "lat": 6.3166736,
+        "lon": -75.5573593
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "name": "Terpel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1087002127,
+      "center": {
+        "lat": 6.3686208,
+        "lon": -75.4907876
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "name": "Estrella del norte",
+        "operator": "Texaco"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1087007088,
+      "center": {
+        "lat": 6.1750396,
+        "lon": -75.3518825
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "fuel:HGV_diesel": "yes",
+        "fuel:biodiesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:e10": "yes",
+        "fuel:octane_100": "yes",
+        "name": "Terpel",
+        "opening_hours": "24/7",
+        "operator": "Terpel",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1087010884,
+      "center": {
+        "lat": 5.9823929,
+        "lon": -75.3719336
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "name": "Don Quijote",
+        "opening_hours": "24/7",
+        "operator": "Texaco"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1087012457,
+      "center": {
+        "lat": 6.0902704,
+        "lon": -75.4929008
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Texaco",
+        "brand:wikidata": "Q775060",
+        "building": "roof",
+        "name": "Texaco"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1087015841,
+      "center": {
+        "lat": 6.094571,
+        "lon": -75.5014768
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "name": "Mall San Miguel",
+        "operator": "Primax"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1087016772,
+      "center": {
+        "lat": 6.0774347,
+        "lon": -75.6319049
+      },
+      "tags": {
+        "addr:city": "Caldas",
+        "addr:country": "CO",
+        "addr:housenumber": "143 Sur-273",
+        "addr:postcode": "055440",
+        "addr:street": "Carrera 45",
+        "alt_name": "Distracom El Llano",
+        "amenity": "fuel",
+        "brand": "Texaco",
+        "building": "roof",
+        "level": "1",
+        "name": "Texaco Distracom El Llano",
+        "note": "Mapeado utilizando Ortoimagen. Departamento de Antioquia. Municipio de Caldas. Resolución 10 cm. Año 2023",
+        "operator": "Distracom"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1087017657,
+      "center": {
+        "lat": 6.0579654,
+        "lon": -75.6298359
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "name": "EDS Los Lagos",
+        "operator": "Zeuss"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1087018236,
+      "center": {
+        "lat": 6.0364113,
+        "lon": -75.7049931
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "fuel:diesel": "yes",
+        "fuel:octane_80": "yes",
+        "internet_access": "wlan",
+        "name": "Estación de Servicio La Carbonera",
+        "opening_hours": "24/7",
+        "operator": "Texaco",
+        "phone": "+57 604 8471159"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1087019666,
+      "center": {
+        "lat": 5.9655844,
+        "lon": -75.5896053
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "name": "Texaco Versalles",
+        "operator": "Texaco"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1090833415,
+      "center": {
+        "lat": 6.4121905,
+        "lon": -75.4144146
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "operator": "Terpel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1090836790,
+      "center": {
+        "lat": 6.415914,
+        "lon": -75.5996704
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "operator": "Texaco"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1098681762,
+      "center": {
+        "lat": 6.1868822,
+        "lon": -75.5982525
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Texaco",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "name": "estacion del 900"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1125645805,
+      "center": {
+        "lat": 6.1968659,
+        "lon": -75.5849789
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "building:levels": "1",
+        "operator": "Primax"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1126960817,
+      "center": {
+        "lat": 6.3294197,
+        "lon": -75.5582321
+      },
+      "tags": {
+        "addr:street": "Carrera 50",
+        "amenity": "fuel",
+        "brand": "Primax",
+        "building": "roof",
+        "name": "Primax",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1126960840,
+      "center": {
+        "lat": 6.3086708,
+        "lon": -75.5596813
+      },
+      "tags": {
+        "addr:housenumber": "113A-34",
+        "addr:street": "Carrera 64AA",
+        "amenity": "fuel",
+        "brand": "Terpel",
+        "brand:wikidata": "Q7703003",
+        "building": "roof",
+        "name": "EDS Terpel Autopista Norte",
+        "opening_hours": "24/7",
+        "operator": "Terpel",
+        "website": "https://www.terpel.com"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1127348685,
+      "center": {
+        "lat": 6.2502413,
+        "lon": -75.6011376
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Esso",
+        "brand:wikidata": "Q867662",
+        "brand:wikipedia": "en:Esso",
+        "building": "yes",
+        "compressed_air": "yes",
+        "name": "Primax",
+        "survey:date": "2022-05-17"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1150747972,
+      "center": {
+        "lat": 6.2732101,
+        "lon": -75.5646526
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "operator": "Primax"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1150747973,
+      "center": {
+        "lat": 6.2734817,
+        "lon": -75.5645927
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "fuel:biogas": "yes",
+        "operator": "EPM"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1150747980,
+      "center": {
+        "lat": 6.2756951,
+        "lon": -75.5640449
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "name": "Gas Vehicular"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1150747981,
+      "center": {
+        "lat": 6.2758361,
+        "lon": -75.5641405
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "operator": "Primax"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1151980074,
+      "center": {
+        "lat": 6.1688618,
+        "lon": -75.6017979
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "operator": "Primax"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1151980075,
+      "center": {
+        "lat": 6.161162,
+        "lon": -75.6092246
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "fuel:biogas": "yes",
+        "operator": "Sagas"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1151980076,
+      "center": {
+        "lat": 6.1609221,
+        "lon": -75.6095714
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "operator": "Texaco"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1153253236,
+      "center": {
+        "lat": 6.2390878,
+        "lon": -75.5871051
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "compressed_air": "yes",
+        "fuel:biogas": "yes",
+        "name": "Primax Cafetero",
+        "operator": "EPM"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1153267370,
+      "center": {
+        "lat": 6.2212536,
+        "lon": -75.5850245
+      },
+      "tags": {
+        "amenity": "fuel",
+        "operator": "Texaco"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1153600090,
+      "center": {
+        "lat": 6.2776239,
+        "lon": -75.5574469
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Terpel",
+        "brand:wikidata": "Q7703003",
+        "building": "roof",
+        "name": "Terpel",
+        "operator": "Terpel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1153600091,
+      "center": {
+        "lat": 6.2774328,
+        "lon": -75.5574856
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Gazel",
+        "brand:wikidata": "Q62529885",
+        "building": "roof",
+        "fuel:biogas": "yes",
+        "name": "Gazel",
+        "operator": "Gazel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1153600092,
+      "center": {
+        "lat": 6.2775034,
+        "lon": -75.5571433
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "layer": "1",
+        "operator": "Primax"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1185622062,
+      "center": {
+        "lat": 6.2754211,
+        "lon": -75.638563
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "layer": "1",
+        "name": "Estrella de Occidente",
+        "opening_hours": "24/7",
+        "operator": "Texaco"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1201128150,
+      "center": {
+        "lat": 6.3014579,
+        "lon": -75.5644642
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "fuel:1_25": "no",
+        "fuel:lpg": "yes",
+        "fuel:octane_98": "yes",
+        "layer": "1",
+        "name": "Terpel Zenú",
+        "opening_hours": "24/7",
+        "operator": "EPM",
+        "shop": "kiosk",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1201128151,
+      "center": {
+        "lat": 6.3013922,
+        "lon": -75.5645231
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "fuel:1_25": "no",
+        "fuel:lpg": "yes",
+        "fuel:octane_98": "yes",
+        "layer": "1",
+        "name": "Terpel Zenú",
+        "opening_hours": "24/7",
+        "operator": "EPM",
+        "shop": "kiosk",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1211017870,
+      "center": {
+        "lat": 6.0937137,
+        "lon": -75.3824337
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "layer": "1",
+        "operator": "Terpel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1235734138,
+      "center": {
+        "lat": 6.1170249,
+        "lon": -75.6302355
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "layer": "1",
+        "operator": "Primax"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1242089223,
+      "center": {
+        "lat": 6.2505808,
+        "lon": -75.5485531
+      },
+      "tags": {
+        "addr:street": "Carrera 28 #59-07",
+        "amenity": "fuel",
+        "brand": "Zeus",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Zeus Enciso"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1243701732,
+      "center": {
+        "lat": 6.2480597,
+        "lon": -75.5982948
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Primax",
+        "opening_hours": "24/7",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1291279607,
+      "center": {
+        "lat": 6.2510536,
+        "lon": -75.6032129
+      },
+      "tags": {
+        "addr:street": "Calle 44",
+        "amenity": "fuel",
+        "brand:wikidata": "Q775060",
+        "brand:wikipedia": "en:Texaco",
+        "landuse": "retail",
+        "operator": "Texaco",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1323551381,
+      "center": {
+        "lat": 6.1138239,
+        "lon": -75.6306308
+      },
+      "tags": {
+        "amenity": "fuel",
+        "name": "Primax La Variante"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1459933134,
+      "center": {
+        "lat": 5.9764657,
+        "lon": -75.3647517
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Terpel",
+        "brand:wikidata": "Q7703003",
+        "fuel:diesel": "yes",
+        "fuel:octane_87": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Los Geranios",
+        "self_service": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1459933140,
+      "center": {
+        "lat": 5.9727831,
+        "lon": -75.357312
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Zeuss",
+        "self_service": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1467912596,
+      "center": {
+        "lat": 6.3294051,
+        "lon": -75.5582528
+      },
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1468043270,
+      "center": {
+        "lat": 6.3335238,
+        "lon": -75.5541802
+      },
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1468043275,
+      "center": {
+        "lat": 6.3344514,
+        "lon": -75.5534089
+      },
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1468272677,
+      "center": {
+        "lat": 6.3271046,
+        "lon": -75.5605461
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Texaco",
+        "brand:wikidata": "Q775060",
+        "name": "Texaco",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1468318126,
+      "center": {
+        "lat": 6.3351916,
+        "lon": -75.5521364
+      },
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1468577216,
+      "center": {
+        "lat": 6.3086701,
+        "lon": -75.5597805
+      },
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1468577217,
+      "center": {
+        "lat": 6.3092865,
+        "lon": -75.5595788
+      },
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1469686926,
+      "center": {
+        "lat": 6.2877761,
+        "lon": -75.5693924
+      },
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1470283870,
+      "center": {
+        "lat": 6.2866466,
+        "lon": -75.5696751
+      },
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1470283871,
+      "center": {
+        "lat": 6.2839982,
+        "lon": -75.5707649
+      },
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1470367013,
+      "center": {
+        "lat": 6.2775072,
+        "lon": -75.5727077
+      },
+      "tags": {
+        "amenity": "fuel",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1470416995,
+      "center": {
+        "lat": 6.2769672,
+        "lon": -75.5729319
+      },
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1474506726,
+      "center": {
+        "lat": 6.2721272,
+        "lon": -75.5731591
+      },
+      "tags": {
+        "amenity": "fuel",
+        "name": "Primax"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1474506962,
+      "center": {
+        "lat": 6.2693954,
+        "lon": -75.5737874
+      },
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1475592428,
+      "center": {
+        "lat": 6.2538463,
+        "lon": -75.5753622
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Terpel",
+        "brand:wikidata": "Q7703003",
+        "name": "Terpel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1482321360,
+      "center": {
+        "lat": 6.2631915,
+        "lon": -75.5668213
+      },
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1495985637,
+      "center": {
+        "lat": 6.0946315,
+        "lon": -75.6318701
+      },
+      "tags": {
+        "addr:city": "Caldas",
+        "addr:country": "CO",
+        "addr:housenumber": "125 Sur-201",
+        "addr:postcode": "055440",
+        "addr:street": "Carrera 45",
+        "amenity": "fuel",
+        "brand": "Primax",
+        "landuse": "retail",
+        "name": "Primax La Miel",
+        "note": "Mapeado utilizando Ortoimagen. Departamento de Antioquia. Municipio de Caldas. Resolución 50 cm. Año 2023",
+        "official_name": "EDS Coesco Lemaren",
+        "operator": "Coesco"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1496203006,
+      "center": {
+        "lat": 6.0963609,
+        "lon": -75.6366826
+      },
+      "tags": {
+        "addr:city": "Caldas",
+        "addr:country": "CO",
+        "addr:housenumber": "123 Sur-55",
+        "addr:postcode": "055440",
+        "addr:street": "Carrera 50",
+        "alt_name": "Distracom Codicaldas",
+        "amenity": "fuel",
+        "brand": "Primax",
+        "landuse": "retail",
+        "name": "Primax Distracom Codicaldas",
+        "note": "Mapeado utilizando Ortoimagen. Departamento de Antioquia. Municipio de Caldas. Resolución 10 cm. Año 2023",
+        "operator": "Distracom"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1496208870,
+      "center": {
+        "lat": 6.0970292,
+        "lon": -75.6371033
+      },
+      "tags": {
+        "addr:city": "Caldas",
+        "addr:country": "CO",
+        "addr:housenumber": "122 Sur-75",
+        "addr:postcode": "055440",
+        "addr:street": "Carrera 50",
+        "alt_name": "Terpel Caldas",
+        "amenity": "fuel",
+        "brand": "Terpel",
+        "landuse": "retail",
+        "name": "Terpel Servicentro Caldas",
+        "note": "Mapeado utilizando Ortoimagen. Departamento de Antioquia. Municipio de Caldas. Resolución 10 cm. Año 2023",
+        "operator": "Terpel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1496213323,
+      "center": {
+        "lat": 6.0974821,
+        "lon": -75.6372403
+      },
+      "tags": {
+        "addr:city": "Caldas",
+        "addr:country": "CO",
+        "addr:housenumber": "122 Sur-37",
+        "addr:postcode": "055440",
+        "addr:street": "Carrera 50",
+        "amenity": "fuel",
+        "brand": "Texaco",
+        "landuse": "retail",
+        "name": "Texaco San Miguel 50",
+        "note": "Mapeado utilizando Ortoimagen. Departamento de Antioquia. Municipio de Caldas. Resolución 10 cm. Año 2023",
+        "operator": "Texaco"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1496220656,
+      "center": {
+        "lat": 6.0799314,
+        "lon": -75.6308033
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Primax",
+        "landuse": "retail",
+        "name": "Distracom Las Vegas",
+        "operator": "Distracom"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1506893797,
+      "center": {
+        "lat": 6.3090958,
+        "lon": -75.5556424
+      },
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 7866116,
+      "center": {
+        "lat": 6.3021813,
+        "lon": -75.4568986
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Terpel",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12738133,
+      "center": {
+        "lat": 6.2769995,
+        "lon": -75.5708891
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Terpel",
+        "brand:wikidata": "Q7703003",
+        "brand:wikipedia": "en:Terpel",
+        "building": "roof",
+        "layer": "1",
+        "name": "Terpel",
+        "type": "multipolygon"
+      }
+    }
+  ]
+}

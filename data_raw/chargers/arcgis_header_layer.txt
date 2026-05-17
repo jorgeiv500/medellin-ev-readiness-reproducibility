@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Thu, 14 May 2026 20:02:26 GMT
+Content-Type: application/json; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+set-cookie: __cf_bm=dnRSE.1WbH2qi_ZI5NY.Mm._qA_2YvzvKpoCeGwbHx4-1778788944.710436-1.0.1.1-0x45D8HlcvasvwM5cwK7LFpDYys_EgZTsi2nWY9C.FWMCLL76.hn42edNKzMo_TDbwHAfnoN6UJYxCB9GYtbrTkLpmrRwXBTNRSVSpNL.L0sx2EldJPhGbmJjC3pFkoW; HttpOnly; SameSite=None; Secure; Path=/; Domain=epm.com.co; Expires=Thu, 14 May 2026 20:32:26 GMT
+Vary: Origin
+vary: accept-encoding
+Server: cloudflare
+X-Powered-By: ASP.NET
+Strict-Transport-Security: max-age=157680000
+cf-cache-status: DYNAMIC
+CF-RAY: 9fbc801868c2d03f-MIA
+alt-svc: h3=":443"; ma=86400
+
