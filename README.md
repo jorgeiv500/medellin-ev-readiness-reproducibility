@@ -33,7 +33,6 @@ scripts/            Reproducible pipeline steps
 outputs/
   figures/          Publication figures
   tables/           Publication tables
-paper/              LaTeX manuscript and bibliography
 config/             Data catalog, model parameters, and experiment suite
 docs/               Source log, method notes, and data-quality notes
 tests/              Lightweight tests for utilities and metrics
