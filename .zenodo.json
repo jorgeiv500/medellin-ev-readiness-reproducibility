@@ -4,7 +4,14 @@
   "description": "Standalone reproducibility package for a public-data analysis of public EV charging readiness in Medellin and the Valle de Aburra, Colombia.",
   "creators": [
     {
-      "name": "Romero, Jorge Ivan"
+      "name": "Romero-Gelvez, Jorge Ivan",
+      "orcid": "0000-0002-5335-0819",
+      "affiliation": "Universidad de Bogota Jorge Tadeo Lozano"
+    },
+    {
+      "name": "Zapata, Sebastian",
+      "orcid": "0000-0002-4836-8328",
+      "affiliation": "Universidad EIA"
     }
   ],
   "keywords": [

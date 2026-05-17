@@ -4,8 +4,12 @@ title: "Medellin Electric-Mobility Transition Readiness: Reproducibility Package
 version: "1.0.0"
 date-released: "2026-05-17"
 authors:
-  - family-names: "Romero"
+  - family-names: "Romero-Gelvez"
     given-names: "Jorge Ivan"
+    orcid: "https://orcid.org/0000-0002-5335-0819"
+  - family-names: "Zapata"
+    given-names: "Sebastian"
+    orcid: "https://orcid.org/0000-0002-4836-8328"
 keywords:
   - "electric vehicle charging"
   - "urban planning"
@@ -19,6 +23,10 @@ preferred-citation:
   type: dataset
   title: "Medellin Electric-Mobility Transition Readiness: Reproducibility Package"
   authors:
-    - family-names: "Romero"
+    - family-names: "Romero-Gelvez"
       given-names: "Jorge Ivan"
+      orcid: "https://orcid.org/0000-0002-5335-0819"
+    - family-names: "Zapata"
+      given-names: "Sebastian"
+      orcid: "https://orcid.org/0000-0002-4836-8328"
   year: 2026
